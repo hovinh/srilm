@@ -1,0 +1,1844 @@
+
+\data\
+ngram 1=1618
+ngram 2=190
+ngram 3=23
+
+\1-grams:
+-3.569232	"-
+-3.151515	"A
+-3.569232	"After
+-3.569232	"All
+-3.569232	"And
+-3.569232	"As
+-3.569232	"At
+-3.569232	"Borrowed
+-3.433176	"But
+-3.569232	"Could
+-3.569232	"Couldn't
+-3.569232	"Don't
+-3.569232	"Dumbledore
+-3.569232	"Er
+-3.569232	"Even
+-3.569232	"Exactly,"
+-3.569232	"Fancy
+-3.569232	"Funny
+-3.569232	"Good
+-3.569232	"Hagrid's
+-3.569232	"Hagrid,"
+-3.569232	"Harry.
+-3.569232	"He'll
+-3.569232	"His
+-3.569232	"How
+-2.745508	"I	-0.08146682
+-3.569232	"I'd
+-3.569232	"I'm
+-3.569232	"I've
+-3.569232	"Is
+-3.433176	"It
+-3.433176	"It's
+-3.569232	"Lily
+-3.569232	"Little
+-3.569232	"Most
+-3.569232	"My
+-3.569232	"No
+-3.569232	"No,
+-3.569232	"No,"
+-3.569232	"Oh
+-3.569232	"Oh,
+-3.569232	"Only
+-3.569232	"Owls
+-3.569232	"Potter."
+-3.569232	"Really,
+-3.569232	"S-s-sorry,"
+-3.569232	"Shhh!"
+-3.569232	"Shoo!"
+-3.569232	"So?"
+-3.569232	"Sorry,"
+-3.569232	"That's
+-3.569232	"The
+-3.569232	"Their
+-3.569232	"To
+-3.569232	"Voldemort
+-3.433176	"We
+-3.569232	"We've
+-3.569232	"Well,
+-3.569232	"Well,"
+-3.569232	"What
+-3.569232	"What's
+-3.569232	"Why?"
+-3.569232	"Yeah,"
+-3.569232	"Yes
+-3.569232	"Yes,
+-3.569232	"Yes,"
+-3.151515	"You
+-3.569232	"You'd
+-3.569232	"Young
+-3.569232	"but
+-3.569232	"everyone"
+-3.569232	"is
+-3.569232	"that's
+-3.569232	"you'll
+-3.569232	("Won't!").
+-2.009555	-	-0.01637232
+-3.151515	-"	-0.2221337
+-2.301811	...	-0.02477169
+-3.433176	..."
+-3.569232	1
+-1.169551	</s>
+-99	<s>	-0.2693225
+-3.569232	?"
+-3.433176	A
+-3.569232	About
+-3.569232	After
+-3.433176	Albus
+-3.569232	All
+-3.569232	Although
+-3.234751	And
+-3.234751	As	-0.181338
+-3.569232	At
+-3.569232	Black
+-3.569232	Bonfire
+-3.569232	Boy
+-3.569232	Bristol."
+-3.569232	Britain?
+-3.041792	But
+-3.569232	Can't
+-3.569232	Chapter
+-3.569232	Come
+-3.569232	Could
+-3.569232	Day
+-3.569232	Dedalus
+-3.569232	Diggle.
+-3.569232	Door's
+-3.433176	Drive
+-3.433176	Drive,
+-3.569232	Drive.
+-2.854653	Dudley
+-3.569232	Dudley's
+-3.569232	Dudley.
+-2.444479	Dumbledore
+-3.569232	Dumbledore's
+-2.745508	Dumbledore,
+-3.234751	Dumbledore.	-0.6044857
+-3.433176	Dumbledore?"
+-3.569232	Dundee
+-2.119967	Dursley	-0.0132973
+-3.569232	Dursley's
+-3.151515	Dursley,
+-3.569232	Dursley.
+-3.569232	Dursley;
+-3.234751	Dursleys
+-3.569232	Dursleys'
+-3.569232	Even
+-3.569232	Everyone
+-3.569232	Experts
+-3.569232	Famous
+-3.569232	Fear
+-3.569232	Flocks
+-3.433176	For
+-3.569232	G'night,
+-3.569232	Godric's
+-3.569232	Going
+-3.569232	Grunnings
+-3.569232	Grunnings,
+-2.854653	Hagrid
+-3.569232	Hagrid's
+-3.569232	Hagrid,
+-3.569232	Hagrid.
+-3.569232	Harold.
+-2.553623	Harry	-0.05779067
+-3.569232	Harry's
+-3.569232	Harry,"
+-3.433176	Harry.	-0.2870449
+-3.569232	Harvey.
+-2.009555	He	-0.1641952
+-3.433176	He'd
+-3.569232	He'll
+-3.569232	Her
+-3.569232	His
+-3.569232	Hollow.
+-3.569232	How
+-3.569232	Howard,
+-2.268387	I	-0.02299073
+-3.569232	I'd
+-3.569232	I'll
+-3.569232	I'm
+-3.151515	I've
+-3.151515	If
+-3.569232	In
+-3.569232	Inside,
+-3.569232	Instead
+-2.377532	It	-0.3148745
+-3.569232	It's
+-3.433176	James
+-3.569232	Jim
+-3.569232	Jim?"
+-3.569232	Kent
+-3.569232	Kent,
+-3.569232	Lily
+-3.569232	Lived
+-3.569232	London
+-3.569232	Madam
+-2.495631	McGonagall
+-3.569232	McGonagall's
+-3.433176	McGonagall,
+-3.569232	McGonagall,"
+-3.151515	McGonagall.	-0.2221337
+-3.569232	McGonagall."
+-3.569232	McGuffin
+-3.569232	Most
+-2.22263	Mr.	-0.871754
+-2.377532	Mrs.	-0.3646695
+-3.569232	Muggle
+-3.569232	Muggle,
+-3.234751	Muggles
+-3.569232	Muggles!"
+-3.569232	Mysterious
+-3.569232	Nasty,
+-3.569232	Next
+-3.569232	Night
+-3.569232	No
+-3.569232	None
+-3.569232	Nothing
+-3.569232	Oh,
+-3.569232	On
+-3.569232	One
+-3.569232	Or
+-3.569232	Owls
+-3.569232	People
+-3.569232	Perhaps
+-3.569232	Petunia
+-3.569232	Petunia,
+-3.569232	Pomfrey
+-2.796661	Potter
+-3.569232	Potter,
+-3.041792	Potters
+-3.569232	Potters'
+-3.569232	Potters,
+-3.569232	Potters.
+-3.569232	Potters?
+-2.796661	Privet	-0.213594
+-2.252593	Professor	-0.5067629
+-3.569232	Professor,
+-3.569232	Put-Outer
+-3.569232	Put-Outer,
+-3.569232	Put-Outer.
+-3.569232	Rejoice,
+-3.569232	Scars
+-3.234751	She
+-3.569232	She,
+-3.569232	Shooting
+-3.569232	Sirius
+-3.569232	Ted,"
+-2.52366	The	-0.1282164
+-3.569232	Then,
+-3.569232	There
+-3.569232	These
+-3.151515	They	-0.2119157
+-3.433176	They're
+-3.433176	This
+-3.569232	Trying
+-3.569232	Tuesday
+-3.569232	Twelve
+-3.569232	Under
+-3.569232	Underground.
+-3.569232	Viewers
+-3.569232	Voldemort
+-3.569232	Voldemort's
+-3.569232	Voldemort,
+-3.569232	Voldemort."
+-3.569232	Was
+-3.569232	We
+-3.569232	We've
+-3.569232	Well
+-3.569232	Well,
+-3.569232	What
+-3.433176	When
+-3.569232	While
+-3.569232	Who
+-3.569232	Wiping
+-3.569232	Would
+-3.569232	Yorkshire,
+-3.569232	You
+-3.569232	You-Know-
+-3.433176	You-Know-Who
+-1.678562	a	-0.04063832
+-3.569232	able
+-2.658358	about	-0.05938002
+-3.569232	about.
+-3.569232	above
+-3.569232	across
+-3.569232	act
+-3.569232	acting
+-3.569232	admiring.
+-3.569232	affect
+-3.569232	after
+-3.569232	afternoon
+-3.569232	again
+-3.569232	again.
+-3.569232	again?
+-3.569232	age
+-3.569232	agree."
+-3.569232	air
+-3.569232	air,
+-2.301811	all	-0.09219222
+-3.569232	all,
+-3.433176	all.	-0.2870449
+-3.569232	all;
+-3.569232	allowed
+-3.569232	allowed,
+-3.234751	almost
+-3.569232	also
+-3.569232	although
+-3.569232	always
+-3.569232	amount
+-3.569232	amuse
+-3.234751	an
+-3.569232	an'
+-1.722027	and	-0.01579233
+-3.569232	angrily
+-3.569232	angrily.
+-3.569232	angry.
+-3.433176	another
+-3.569232	answer.
+-3.569232	anxious
+-3.234751	any
+-3.569232	anyone
+-3.234751	anything
+-3.569232	anywhere.
+-3.569232	apart
+-3.569232	appeared
+-3.569232	approve
+-2.796661	are
+-3.569232	arm
+-3.569232	armchair.
+-3.569232	arms
+-2.796661	around	-0.09165277
+-3.569232	around.
+-3.433176	arrived	-0.3126841
+-2.086967	as	-0.1879742
+-3.569232	ask
+-3.569232	asked
+-3.569232	asked.
+-3.433176	asleep
+-3.569232	asleep.
+-3.569232	astonishing
+-3.569232	astounding
+-3.569232	astride
+-2.194601	at	-0.1462035
+-3.569232	aunt
+-3.569232	awake,
+-3.569232	away
+-3.569232	away.
+-3.569232	away;
+-3.569232	baby
+-2.585808	back	-0.109701
+-3.569232	back.
+-3.569232	backed
+-3.569232	bag,
+-3.569232	baker's.
+-3.569232	bakery.
+-3.569232	balls
+-3.569232	bathroom,
+-2.268387	be	-0.01657355
+-3.569232	be,
+-3.569232	be.
+-3.569232	beady-eyed
+-3.433176	bear
+-3.569232	beard
+-3.569232	beard,
+-2.854653	because	-0.1015506
+-3.569232	bed,
+-3.569232	bed.
+-3.569232	bedroom
+-3.569232	beefy
+-2.377532	been
+-3.234751	before
+-3.569232	before,
+-3.569232	behaving
+-3.569232	behavior?
+-3.569232	behind
+-3.234751	being
+-3.433176	believe	-0.3143465
+-3.569232	belt.
+-3.569232	beneath
+-3.569232	bent
+-3.569232	beside
+-3.569232	best
+-3.569232	bet
+-3.433176	better
+-3.569232	big
+-3.569232	big,
+-3.569232	bike
+-3.569232	bird-watchers
+-3.569232	birds
+-3.569232	bit
+-3.569232	black
+-3.569232	blame
+-3.569232	blankets
+-3.569232	blankets,
+-3.569232	blankets.
+-3.569232	blew
+-3.569232	blinked
+-3.569232	blonde
+-3.569232	blue
+-3.569232	blushed
+-3.569232	bolt
+-3.569232	books
+-3.569232	boots
+-3.569232	boots.
+-3.569232	boring
+-3.569232	both
+-3.569232	bottles,
+-3.569232	bound
+-3.569232	bowed
+-3.151515	boy
+-3.569232	boy's
+-3.569232	boy,
+-3.569232	boy.
+-3.569232	boy?
+-3.569232	breeze
+-3.569232	brick
+-3.569232	briefcase,
+-3.569232	bright,
+-3.569232	bring
+-3.569232	bringing
+-3.569232	broad
+-3.569232	broke
+-3.569232	broken
+-3.569232	buckled
+-3.569232	building
+-3.569232	bun
+-3.569232	bun.
+-3.569232	bunch
+-3.433176	bundle	-0.3111912
+-3.569232	bundle;
+-3.569232	burying
+-3.569232	bushy
+-3.569232	business
+-3.569232	busy
+-2.377532	but	-0.03653871
+-3.569232	buy
+-2.745508	by	-0.07666118
+-3.569232	by.
+-3.569232	c-c-can't
+-3.569232	call
+-3.041792	called
+-3.569232	calls
+-3.569232	calmly.
+-3.433176	came
+-2.854653	can
+-3.151515	can't
+-3.569232	can't.
+-3.433176	car
+-3.569232	care
+-3.569232	careful,
+-3.569232	carefully
+-3.569232	careless,
+-3.569232	careless.
+-3.569232	carrying
+-3.569232	casually
+-2.469302	cat
+-3.569232	cat's
+-3.569232	cat,
+-3.569232	cat.
+-3.569232	catch
+-3.569232	cats
+-3.569232	caught
+-3.569232	celebrate
+-3.569232	celebrating
+-3.569232	celebrating,
+-3.569232	celebrating?
+-3.569232	celebrations."
+-3.569232	cereal
+-3.569232	certainly
+-3.569232	chair.
+-3.433176	changed
+-3.569232	cheek,
+-3.569232	child
+-3.569232	choosing
+-3.569232	chortled
+-3.569232	chuckled
+-3.569232	cigarette
+-3.569232	cleared
+-3.151515	clicked
+-3.569232	climbing
+-3.433176	cloak
+-3.569232	cloak!
+-3.151515	cloak,
+-3.569232	cloak.
+-3.433176	cloaks
+-3.569232	cloaks.
+-3.569232	close
+-3.569232	closed
+-3.569232	clothes
+-3.569232	clothes,
+-3.569232	cloudy
+-3.569232	clutching
+-3.569232	cold,
+-3.569232	coldly,
+-3.569232	collecting
+-3.151515	come
+-3.569232	comforting
+-3.569232	common
+-3.569232	complete
+-3.569232	completely
+-3.569232	concentrate
+-3.569232	confusing
+-3.569232	contrary,
+-2.854653	corner	-0.1028721
+-2.699751	could
+-3.569232	could,
+-2.658358	couldn't	-0.06591875
+-3.569232	couldn't.
+-3.569232	country
+-3.569232	country.
+-3.569232	couple
+-3.569232	course.
+-3.569232	cousin
+-3.569232	craning
+-3.569232	crept
+-3.569232	cried
+-3.569232	crooked,
+-3.569232	crowd."
+-3.569232	cups
+-3.569232	curiously
+-3.569232	cut,
+-3.569232	dabbed
+-3.569232	dare.
+-3.569232	dared
+-3.569232	dark
+-3.569232	dark.
+-3.569232	darkness.
+-3.569232	dashed
+-3.569232	daughter
+-3.569232	day
+-3.569232	day!"
+-3.569232	day,
+-3.569232	day,"
+-3.433176	day.	-0.2870449
+-3.569232	day?
+-3.433176	daylight,
+-3.569232	daylight?
+-3.569232	dead
+-3.569232	dead.
+-3.569232	dead."
+-3.151515	dear
+-3.569232	decided
+-3.569232	destroyed,
+-3.569232	determined
+-3.569232	dialing
+-2.796661	did
+-3.569232	did;
+-2.377532	didn't	-0.03273394
+-3.569232	didn't,
+-3.569232	different
+-3.569232	different.
+-3.569232	dinner
+-3.569232	direction
+-3.569232	director
+-3.569232	disappeared
+-3.569232	disappeared?
+-3.569232	discover
+-3.569232	discuss,
+-3.569232	distance,
+-3.569232	distinctly
+-3.569232	disturb
+-3.433176	do
+-3.569232	does
+-3.569232	dog.
+-3.569232	dolphins.
+-3.433176	don't
+-3.569232	done
+-3.569232	door
+-3.569232	door.
+-3.569232	doorstep,
+-3.569232	doughnut
+-2.658358	down	-0.1238934
+-3.569232	downpour
+-3.569232	downright
+-3.569232	dozen
+-3.569232	drawn
+-3.433176	dressed
+-3.569232	drifting
+-3.151515	drills
+-3.569232	drills.
+-3.569232	drive.
+-3.569232	driven
+-3.569232	driveway
+-3.569232	drop
+-3.569232	drop.
+-3.569232	drop?"
+-3.569232	drops,
+-3.569232	drops.
+-3.569232	drove
+-3.569232	drummed
+-3.569232	dull,
+-3.569232	early
+-3.569232	earmuffs."
+-3.569232	edge
+-3.569232	edge.
+-3.569232	eight,
+-3.569232	eleven
+-3.569232	else.
+-3.569232	emerald
+-3.569232	emerald-green
+-3.569232	end
+-3.569232	engine
+-3.569232	enough
+-3.569232	enraged
+-2.699751	even
+-3.569232	evening
+-3.569232	ever
+-3.569232	every
+-3.569232	everyone's
+-3.433176	everything
+-3.569232	everywhere
+-3.569232	exactly
+-3.569232	examined
+-3.569232	exasperated,
+-3.569232	except
+-3.569232	excitedly
+-3.569232	excitedly,
+-3.569232	expect
+-3.569232	expect,
+-3.569232	expected,
+-3.433176	explain
+-3.569232	eyed
+-2.796661	eyes
+-3.569232	eyes.
+-3.569232	face
+-3.569232	face,
+-3.569232	fact,
+-3.569232	faintly,
+-3.569232	faltered
+-3.569232	family
+-3.569232	famous
+-3.569232	famous,
+-3.569232	far
+-3.569232	fashion.
+-3.569232	fast
+-3.569232	fear
+-3.569232	feasts
+-3.569232	feet
+-3.234751	fell	-0.1617152
+-3.569232	fell.
+-3.569232	fences,
+-3.234751	few
+-3.569232	finally
+-3.569232	finally,
+-3.569232	find
+-3.569232	fine
+-3.569232	finer
+-3.569232	fingers
+-3.569232	finished
+-3.569232	firm
+-3.569232	firmly.
+-3.569232	first
+-3.433176	five
+-3.569232	fixed
+-3.569232	flatter
+-3.569232	flicked
+-3.569232	flickered
+-3.569232	flinched,
+-3.569232	flooded
+-3.569232	floor.
+-3.569232	flutter
+-3.569232	flyin'
+-3.433176	flying
+-3.569232	folks!
+-3.569232	fond
+-2.398721	for
+-3.569232	for.
+-3.569232	forehead
+-3.569232	forever."
+-3.569232	forgotten
+-3.569232	forward
+-3.234751	found
+-3.569232	found,"
+-3.569232	four's
+-3.433176	four,
+-3.569232	four.
+-3.569232	frightened
+-2.854653	from
+-3.151515	front
+-3.569232	frozen
+-3.569232	full
+-3.569232	funny
+-3.569232	funny-looking
+-3.569232	furiously,
+-3.569232	future
+-3.433176	garden
+-3.569232	garden.
+-3.569232	gasped.
+-3.151515	gave
+-3.569232	gazed
+-3.569232	gently
+-3.569232	gently.
+-3.041792	get
+-3.569232	gets
+-3.569232	getting
+-3.569232	getups
+-3.569232	giant,
+-3.569232	gingerly
+-3.569232	give
+-3.569232	glance
+-3.569232	glasses
+-3.569232	glasses.
+-3.569232	glowed
+-3.569232	glumly.
+-3.569232	go
+-3.234751	going	-0.1537363
+-3.569232	golden
+-3.433176	gone
+-3.569232	gone,
+-3.569232	gone.
+-3.569232	gone."
+-3.569232	good
+-3.569232	good-bye
+-3.569232	good-for-nothing
+-3.569232	good.
+-3.569232	gossiped
+-2.854653	got
+-3.569232	gray
+-3.569232	great
+-3.569232	great,
+-3.569232	greatest
+-3.569232	grew
+-3.569232	grin.
+-3.569232	grip
+-3.569232	ground,
+-3.569232	ground.
+-3.569232	group
+-3.569232	growing
+-3.569232	grudgingly,
+-3.569232	grunted,
+-3.569232	guess,"
+-2.108686	had	-0.1847229
+-3.569232	hadn't
+-3.569232	hadn't,
+-3.151515	hair
+-3.433176	half
+-3.569232	half-moon
+-3.569232	hand
+-3.569232	handkerchief
+-3.569232	hands
+-3.569232	handy.
+-3.569232	happen.
+-3.569232	happening
+-3.569232	happily
+-3.569232	happy
+-3.569232	happy,
+-3.569232	hard
+-3.569232	harder
+-3.569232	hardly
+-3.151515	has
+-2.194601	have	-0.2282247
+-3.569232	have."
+-3.569232	haven't
+-3.569232	haven't,"
+-3.569232	having
+-1.760232	he	-0.09958311
+-3.041792	he'd
+-3.569232	he'll
+-2.854653	he's
+-3.569232	he?"
+-3.433176	head
+-3.569232	head.
+-3.569232	headlight;
+-3.569232	heads.
+-3.151515	heard
+-3.569232	heart
+-3.569232	heaven
+-3.569232	heavily.
+-3.569232	hedges
+-3.569232	heel
+-3.569232	held
+-3.569232	help
+-2.420997	her
+-3.569232	her.
+-3.569232	here!"
+-3.041792	here,
+-3.569232	here.
+-3.569232	here."
+-3.569232	here?"
+-3.569232	hid
+-3.569232	hiding
+-3.569232	high
+-3.569232	high-heeled,
+-2.553623	him
+-3.569232	him!
+-3.433176	him,
+-3.569232	him,"
+-3.151515	him.	-0.2221337
+-3.569232	him."
+-3.569232	him?"
+-3.041792	himself	-0.1211523
+-1.880207	his	-0.02050589
+-3.569232	hissed
+-3.569232	hold
+-3.569232	holding
+-3.569232	home
+-3.569232	home,
+-3.569232	hoped
+-3.433176	hoping
+-3.569232	horribly.
+-3.569232	hours'
+-3.569232	house
+-3.433176	house.	-0.2870449
+-3.234751	how
+-3.569232	how,
+-3.569232	however,
+-3.569232	howl
+-3.569232	huddle
+-3.569232	huge
+-3.569232	huge,
+-3.569232	hugged
+-3.569232	hummed
+-3.569232	hundreds
+-3.569232	hunt
+-3.569232	hurried
+-3.569232	husband
+-3.569232	hushed
+-2.62057	if
+-3.569232	if,
+-3.569232	imagination.
+-3.569232	imagining
+-3.569232	impatiently.
+-3.569232	important
+-3.569232	improve
+-1.959388	in	-0.253991
+-3.569232	inky
+-3.151515	inside
+-3.569232	instead
+-3.569232	instead,
+-2.469302	into	-0.2813787
+-3.569232	involved
+-3.569232	involved,
+-3.569232	irritably.
+-3.433176	is
+-3.569232	isn't
+-2.143449	it	-0.1231737
+-3.433176	it's
+-3.151515	it,
+-2.658358	it.	-1.048747
+-3.569232	it?"
+-3.041792	its
+-3.569232	jacket
+-3.569232	jam,
+-3.569232	jerked
+-3.569232	jet-black
+-3.569232	join
+-3.569232	judging
+-3.569232	jumping
+-2.745508	just
+-3.569232	keep
+-3.569232	keeping
+-3.569232	kicked
+-3.569232	kicking
+-3.151515	kill
+-3.569232	killed
+-3.569232	kind
+-3.569232	kind.
+-3.569232	kiss
+-3.569232	kiss.
+-3.569232	knee
+-3.569232	knew
+-3.569232	knocked
+-2.658358	know
+-3.569232	know."
+-3.433176	knowing	-0.3098696
+-3.569232	known
+-3.569232	known."
+-3.569232	knows
+-3.569232	lace
+-3.569232	laid
+-3.569232	lamp
+-3.569232	lamps
+-3.569232	landed
+-3.433176	large
+-3.569232	large,
+-3.151515	last
+-3.569232	last!
+-3.569232	last,
+-3.569232	last.
+-3.569232	late.
+-3.569232	lately,
+-3.569232	later,
+-3.569232	lay
+-3.569232	learned
+-3.569232	least
+-3.569232	leather
+-3.234751	left
+-3.569232	legend
+-3.569232	legs
+-3.234751	lemon
+-3.569232	lent
+-3.569232	less
+-3.569232	let
+-3.569232	letter
+-3.569232	letter."
+-3.569232	letter?
+-3.569232	letter?"
+-3.569232	lids,
+-3.569232	life,"
+-3.569232	life;
+-3.569232	light
+-3.569232	light,
+-3.569232	light.
+-3.569232	lighter.
+-3.569232	lightning.
+-3.569232	lights
+-2.745508	like
+-3.569232	liked
+-3.569232	lips.
+-2.796661	little
+-3.433176	live
+-3.569232	lived!"
+-3.569232	living
+-3.569232	living-room
+-3.151515	long
+-3.433176	look
+-3.569232	look.
+-2.745508	looked	-0.081293
+-3.151515	looking
+-3.569232	lose
+-3.433176	lot
+-3.569232	lot,
+-3.569232	lots
+-3.569232	louder
+-3.569232	loudly.
+-3.569232	low
+-3.569232	luck,
+-3.569232	lucky
+-3.569232	lunchtime,
+-3.234751	made
+-3.569232	make
+-2.745508	man
+-3.569232	man's
+-3.569232	map
+-3.569232	map.
+-3.569232	maps
+-3.569232	markings
+-3.569232	may
+-3.569232	maybe
+-3.151515	me
+-3.569232	me,"
+-3.569232	me.
+-3.569232	me."
+-3.569232	me?"
+-3.569232	mean
+-3.569232	meeting
+-3.569232	mention
+-3.569232	met
+-3.569232	middle
+-3.569232	midnight
+-3.234751	might	-0.159092
+-3.569232	milk
+-3.569232	mind
+-3.569232	mind,
+-3.433176	mind.	-0.2870449
+-3.569232	minute
+-3.569232	minutes
+-3.569232	mirror.
+-3.569232	missed,
+-3.569232	mixed
+-3.569232	mixing
+-3.569232	moment
+-3.569232	moment,
+-3.569232	mood
+-3.569232	more
+-3.569232	more.
+-3.569232	morning
+-3.433176	morning.	-0.2870449
+-3.433176	most
+-3.569232	mother
+-3.151515	motorcycle
+-3.569232	motorcycle?"
+-3.569232	mouth,
+-3.569232	move.
+-3.569232	moved
+-3.569232	moving
+-3.041792	much
+-3.569232	much.
+-3.569232	muffled
+-3.569232	mumbled.
+-3.569232	murmured.
+-3.569232	muscular
+-3.151515	must	-0.2497845
+-3.569232	mustache,
+-3.569232	mustache.
+-3.569232	muttered,
+-3.234751	my
+-3.569232	myself
+-3.569232	mysterious
+-3.569232	mysterious,
+-3.569232	mysterious.
+-3.234751	name
+-3.569232	name!"
+-3.569232	name,
+-3.569232	name.
+-3.569232	name."
+-3.569232	name:
+-3.569232	name?
+-3.569232	narrowed.
+-3.569232	nation's
+-3.569232	near
+-3.569232	nearest
+-3.569232	nearly
+-3.569232	neat
+-3.569232	neck,
+-3.569232	neighbors
+-3.569232	neighbors.
+-3.569232	neither
+-3.569232	nephew
+-3.569232	nerve
+-3.569232	nervously.
+-2.699751	never	-0.07274478
+-3.433176	new
+-3.569232	news,"
+-3.569232	news."
+-3.569232	news:
+-3.569232	newscaster
+-2.854653	next	-0.1010209
+-3.569232	nice,
+-3.433176	night
+-3.569232	night.
+-3.569232	nighttime.
+-3.569232	ninth
+-2.745508	no
+-3.569232	no,
+-3.569232	noble
+-3.569232	nodded
+-3.569232	nodding
+-3.569232	nonsense
+-3.569232	nonsense.
+-3.433176	nor
+-3.433176	normal
+-3.569232	normal,
+-3.569232	normally
+-3.569232	normally.
+-3.569232	nose
+-2.52366	not	-0.09266185
+-3.234751	nothing
+-3.569232	notice
+-3.569232	notice.
+-3.433176	noticed
+-3.569232	noticing
+-3.433176	now
+-3.433176	now,
+-3.569232	now.
+-3.569232	now."
+-2.854653	number	-0.1089998
+-3.569232	numbers;
+-3.569232	o'clock,
+-3.569232	obviously
+-3.569232	odd
+-3.569232	oddly
+-1.842419	of	-0.1619243
+-3.569232	of."
+-3.569232	of?
+-3.041792	off
+-3.569232	off.
+-3.569232	office
+-3.569232	office,
+-3.569232	oh,
+-3.569232	old
+-3.569232	old,
+-3.569232	older
+-3.569232	older.
+-2.056298	on	-0.4751506
+-3.569232	on,
+-3.433176	on.	-0.2870449
+-3.569232	once,
+-3.433176	one
+-3.569232	one.
+-3.569232	one;
+-3.234751	only
+-3.569232	onto
+-3.569232	open,
+-3.569232	open-mouthed
+-3.569232	opened
+-3.569232	opinion
+-3.151515	or
+-3.569232	orange
+-3.569232	order
+-3.433176	other
+-3.433176	our
+-2.377532	out	-0.218952
+-3.569232	out.
+-3.433176	outside
+-2.469302	over	-0.1221856
+-3.569232	overhead.
+-3.151515	owl
+-3.569232	owl-free
+-2.745508	owls
+-3.569232	pair
+-3.569232	parking
+-3.569232	parties
+-3.569232	passed
+-3.569232	passed.
+-3.569232	passersby
+-3.151515	past
+-3.569232	patted
+-3.569232	pattern."
+-3.569232	patting
+-3.569232	pavement.
+-3.569232	pecked
+-3.569232	peculiar
+-3.569232	peered
+-2.469302	people	-0.08885468
+-3.569232	people!
+-3.569232	people.
+-3.569232	perfect
+-3.569232	perfectly
+-3.569232	person
+-3.569232	persuade
+-3.569232	phoning
+-3.569232	picked
+-3.569232	piercing
+-3.569232	pinched
+-3.569232	pinpricks
+-3.569232	place
+-3.569232	place,"
+-3.569232	place?
+-3.569232	places?"
+-3.569232	plain
+-3.569232	planets
+-3.569232	pocket
+-3.569232	pocket.
+-3.569232	point
+-3.569232	pointed
+-3.569232	pointing
+-3.569232	poor
+-3.569232	pop.
+-3.569232	popped
+-3.569232	possible
+-3.569232	power
+-3.569232	powers
+-3.569232	precious
+-3.569232	pressed
+-3.569232	pretend
+-3.569232	pretended
+-3.569232	probably
+-3.569232	problems
+-3.569232	problems,
+-3.569232	prodded
+-3.569232	promise
+-3.569232	promised
+-3.569232	proper
+-3.569232	proud
+-3.569232	pull
+-3.569232	pulled
+-3.569232	purple
+-3.569232	pursed
+-3.234751	put
+-3.569232	quickly
+-3.569232	quite
+-3.569232	quiver
+-3.569232	rain
+-3.569232	rather
+-3.569232	rattled.
+-3.569232	reached
+-3.569232	read
+-3.569232	reading
+-3.569232	ready
+-3.569232	real
+-3.433176	realize
+-3.569232	realized
+-3.569232	really
+-3.234751	reason
+-3.569232	reason,
+-3.569232	receiver
+-3.569232	related
+-3.569232	relieved.
+-3.569232	remember!
+-3.569232	repeated
+-3.569232	reply.
+-3.569232	report
+-3.569232	reported
+-3.569232	right
+-3.433176	right,
+-3.569232	right,"
+-3.569232	road
+-3.569232	road,
+-3.569232	roar
+-3.569232	robes,
+-3.569232	rolled
+-3.569232	room
+-3.569232	rooted
+-3.569232	rose
+-3.569232	ruffled
+-3.569232	ruffled.
+-3.569232	rumbling
+-3.569232	rummaging
+-3.569232	rumor
+-3.569232	rumors
+-3.569232	rumors."
+-3.569232	sad,
+-2.252593	said	-0.1804038
+-3.151515	said,
+-3.569232	same
+-3.569232	same,
+-3.151515	sat
+-3.433176	saw
+-3.041792	say
+-3.569232	say,
+-3.041792	saying
+-3.569232	saying,
+-3.569232	saying,"
+-3.569232	saying.
+-3.569232	saying?
+-3.569232	scar
+-3.569232	scratchy,
+-3.569232	scream
+-3.569232	screaming
+-3.569232	second,
+-3.569232	seconds
+-3.569232	secret
+-3.569232	secret,
+-3.569232	secretary
+-2.745508	see
+-3.569232	seeing
+-3.433176	seem
+-3.041792	seemed	-0.1430454
+-3.569232	seems
+-2.796661	seen
+-3.569232	seized
+-3.569232	sense
+-3.569232	sense."
+-3.569232	sensible
+-3.569232	seriously
+-3.569232	set
+-3.569232	several
+-3.569232	severe-looking
+-3.569232	shaggy
+-3.569232	shake
+-3.569232	shall
+-3.569232	shape
+-3.569232	shaped
+-3.569232	sharp
+-3.569232	sharp,
+-3.569232	sharply.
+-2.398721	she	-0.03334443
+-3.569232	shocked
+-3.569232	shone
+-3.569232	shook,
+-3.433176	shooting
+-3.569232	shot
+-3.569232	should
+-3.569232	shoulder.
+-3.569232	shoulders
+-3.569232	shouted
+-3.569232	showers
+-3.569232	showing
+-3.569232	shuddered
+-3.569232	sideways
+-3.569232	sight
+-3.569232	sight.
+-3.569232	sightings
+-3.151515	sign	-0.2076266
+-3.569232	sign;
+-3.569232	signs.
+-3.569232	silence
+-3.569232	silent
+-3.569232	silently
+-3.569232	silly
+-3.433176	silver
+-3.569232	simply
+-3.569232	since
+-3.569232	single
+-3.569232	sinking
+-3.569232	sipped
+-3.569232	sir
+-3.569232	sir,
+-3.569232	sir,"
+-3.569232	sir."
+-3.569232	sir?"
+-3.433176	sister
+-3.569232	sister,
+-3.569232	sister.
+-3.569232	sit
+-3.234751	sitting
+-3.569232	size
+-3.569232	sky
+-3.569232	sky,
+-3.569232	slammed
+-3.569232	sleep,
+-3.569232	sleepiness.
+-3.569232	sleeping
+-3.569232	sleeve,
+-3.569232	slept
+-3.569232	slinking
+-3.569232	slipped
+-3.433176	small
+-3.569232	smile
+-3.569232	smiling
+-3.569232	snapped
+-3.569232	sniff
+-3.569232	sniffed
+-2.658358	so	-0.06583062
+-3.569232	so,"
+-3.569232	sobbed
+-3.151515	some
+-3.569232	somebody
+-3.569232	somehow
+-3.569232	someone
+-2.745508	something	-0.07428245
+-3.569232	something's
+-3.569232	something,
+-3.433176	something.	-0.2870449
+-3.151515	son
+-3.433176	son,
+-3.569232	soon
+-3.569232	soon,
+-3.569232	sorry,
+-3.569232	sound
+-3.569232	sounding
+-3.569232	sparkling
+-3.569232	special,
+-3.569232	spectacles
+-3.569232	spectacles.
+-3.569232	sped
+-3.569232	spend
+-3.569232	spent
+-3.569232	split
+-3.569232	spoke
+-3.569232	spoke.
+-3.569232	spot.
+-3.569232	spotted
+-3.569232	spying
+-3.569232	square
+-3.569232	squeaky
+-3.569232	stand
+-3.569232	standing
+-3.569232	stare
+-3.569232	stare,
+-3.569232	stared
+-3.569232	staring
+-3.433176	stars
+-3.569232	stars!
+-3.569232	stars.
+-3.569232	started
+-3.569232	starts,
+-3.569232	statue,
+-3.569232	staying
+-3.569232	steadily
+-3.569232	steering
+-3.569232	step
+-3.569232	stepped
+-3.569232	stern
+-3.569232	stiff
+-3.569232	stiffly.
+-3.569232	stiffly."
+-3.234751	still
+-3.569232	stood
+-3.569232	stop
+-3.433176	stopped
+-3.569232	story
+-3.569232	straight
+-3.569232	strange
+-3.569232	strangely
+-3.569232	stranger.
+-3.569232	streaming
+-2.796661	street
+-3.569232	street,
+-3.151515	street.	-0.2221337
+-3.569232	streets
+-3.569232	stretch
+-3.569232	stroked
+-3.569232	struck
+-3.569232	stuff
+-3.569232	stumbled
+-3.569232	stunt
+-3.569232	stupid
+-3.569232	stupid.
+-3.569232	subject
+-3.433176	such
+-3.234751	suddenly
+-3.569232	suddenly,
+-3.569232	suggest
+-3.569232	sunrise.
+-3.151515	suppose
+-3.569232	supposed
+-3.433176	sure
+-3.569232	surely
+-3.569232	surprised
+-3.569232	survive?"
+-3.569232	swallowed,
+-3.569232	swapping
+-3.569232	swarmin'
+-3.569232	sweet
+-3.569232	sweets.
+-3.569232	swelled
+-3.569232	swept
+-3.569232	swish
+-3.569232	swooped
+-3.569232	swooping
+-3.569232	swung
+-3.433176	tabby	-0.3160026
+-3.569232	tabby,
+-3.569232	tail
+-3.569232	take
+-3.569232	taking
+-3.569232	talk!
+-3.569232	tall
+-3.569232	tall,
+-3.569232	tangles
+-3.569232	tantrum
+-3.569232	tawny
+-3.569232	tea
+-3.569232	tea.
+-3.569232	telephone
+-3.569232	telephone,
+-3.151515	tell
+-3.569232	tend
+-3.569232	ter
+-3.569232	than
+-3.569232	thank
+-3.569232	thankful
+-2.01851	that	-0.02736837
+-3.151515	that's
+-3.569232	that,
+-3.569232	that,"
+-3.569232	that.
+-3.569232	that?"
+-1.427909	the	-0.07512569
+-2.699751	their
+-2.699751	them
+-3.569232	them,
+-3.569232	them,"
+-3.433176	them.	-0.2870449
+-3.569232	them."
+-3.151515	then
+-2.745508	there	-0.0750768
+-3.569232	there.
+-3.569232	there?"
+-3.433176	these
+-2.444479	they	-0.03725969
+-3.569232	they'd
+-3.151515	they're
+-3.569232	they've
+-3.569232	thin
+-3.569232	thin,
+-3.569232	thing
+-3.433176	things
+-3.569232	things,
+-3.569232	things?
+-2.796661	think
+-3.569232	thinking
+-2.585808	this	-0.04801124
+-3.569232	this?"
+-3.569232	those
+-3.041792	though
+-3.569232	though,
+-2.745508	thought
+-3.569232	three
+-3.569232	threw
+-3.569232	throat
+-3.569232	through
+-3.569232	throwing
+-3.569232	tidy
+-3.569232	tie
+-3.569232	tight
+-3.433176	time
+-3.569232	times
+-3.569232	tin.
+-3.569232	tiny
+-1.731268	to	-0.1099467
+-3.569232	today
+-3.569232	today!
+-3.569232	today.
+-3.569232	together,
+-3.569232	together.
+-3.151515	told
+-3.569232	tonight,
+-3.569232	tonight."
+-3.569232	too
+-3.433176	too,
+-3.151515	took
+-3.569232	top
+-3.433176	toward
+-3.569232	town
+-3.569232	town,
+-3.569232	traffic
+-3.569232	trash
+-3.569232	trembled
+-3.569232	trick
+-3.433176	tried	-0.3093399
+-3.569232	true.
+-3.569232	true?"
+-3.569232	trust
+-3.569232	trying
+-3.569232	tuck
+-3.569232	tucked
+-3.569232	tuft
+-3.569232	turn
+-3.041792	turned
+-3.569232	turning
+-3.569232	twelve
+-3.569232	twice
+-3.569232	twice.
+-3.569232	twinkling
+-3.569232	twitched
+-3.234751	two
+-3.569232	two.
+-3.569232	tyke,"
+-3.569232	unDursleyish
+-3.569232	unable
+-3.569232	unblinkingly
+-3.569232	uncle
+-3.569232	uncle.
+-3.569232	under
+-3.569232	underneath
+-3.569232	understand
+-3.569232	uneasy
+-3.569232	uneasy.
+-3.569232	unsticking
+-3.041792	until
+-3.569232	unusual
+-3.569232	unusually
+-3.569232	unwelcome.
+-2.585808	up	-0.05056101
+-3.569232	up.
+-3.433176	upset
+-3.569232	upstairs
+-3.569232	us
+-3.569232	us.
+-3.569232	use
+-3.569232	useful
+-3.569232	usual
+-3.569232	usually
+-3.569232	vast,
+-2.469302	very
+-3.569232	violet
+-3.569232	visible,
+-3.569232	voice
+-3.569232	voice,
+-3.569232	voices:
+-3.569232	waiting
+-3.569232	wake
+-3.569232	waking
+-3.569232	walk
+-3.151515	walked
+-3.234751	wall
+-3.569232	wall.
+-3.569232	walls.
+-3.569232	want
+-3.569232	wanted
+-3.569232	wanted,
+-1.775472	was	-0.04752351
+-3.569232	was,
+-3.569232	was.
+-3.433176	wasn't
+-3.569232	watch
+-3.569232	watch.
+-3.569232	watched
+-3.569232	watched,
+-3.569232	watching
+-3.569232	watching,
+-3.433176	way
+-3.569232	way?"
+-3.569232	we
+-3.569232	we'd
+-3.569232	we'll
+-3.234751	wearing
+-3.569232	weather.
+-3.569232	weatherman,
+-3.569232	week,
+-3.569232	weeks
+-3.569232	weirdos
+-3.433176	well
+-3.569232	well,
+-3.041792	went
+-2.338023	were
+-3.569232	weren't
+-3.569232	wet
+-2.699751	what	-0.06582953
+-3.569232	what?"
+-3.569232	whatever
+-3.569232	wheel
+-2.854653	when	-0.1184803
+-3.151515	where
+-3.569232	whether
+-2.854653	which
+-3.569232	whiskery
+-3.569232	whisper
+-3.569232	whisper,
+-3.569232	whispered
+-3.569232	whispered,
+-3.569232	whisperers
+-3.569232	whispering
+-2.796661	who
+-3.569232	whole
+-3.151515	why
+-3.433176	why,
+-3.569232	wide
+-3.569232	wide.
+-3.569232	wife.
+-3.569232	wild
+-3.234751	will
+-3.433176	window
+-3.569232	window.
+-3.569232	wise
+-2.52366	with	-0.0451305
+-3.569232	with."
+-3.569232	without
+-3.569232	woke
+-3.569232	woken
+-3.569232	woman
+-3.569232	won't
+-3.569232	wondered
+-3.569232	wondered.
+-3.569232	word
+-3.569232	words
+-3.569232	work,
+-3.569232	world
+-3.569232	worried
+-3.569232	worrying
+-2.699751	would	-0.08193085
+-3.433176	wouldn't
+-3.569232	wouldn't.
+-3.569232	wounded
+-3.569232	wrestled
+-3.569232	written
+-3.569232	wrong
+-3.569232	yawned
+-3.569232	years
+-3.569232	years."
+-3.569232	years;
+-3.569232	yelled
+-3.234751	yes,
+-3.569232	yes,"
+-3.569232	yesterday,
+-2.377532	you
+-3.433176	you'd
+-3.041792	you're
+-3.569232	you,"
+-3.569232	you?"
+-3.569232	young
+-3.569232	your
+-3.569232	yourself
+-3.569232	yourself,
+-3.569232	‘You-Know-Who'
+-3.569232	‘You-Know-Who.'
+
+\2-grams:
+-0.7623025	"I know
+-1.498256	- and
+-1.498256	- the
+-1.498256	- you
+-0.3555872	-" </s>
+-1.206	... </s>
+-1.206	... I
+-2.283727	<s> "A
+-2.33826	<s> "But
+-1.685102	<s> "I	-0.008993857
+-2.33826	<s> "It
+-2.33826	<s> "It's
+-2.33826	<s> "We
+-2.283727	<s> "You
+-2.283727	<s> ...
+-2.33826	<s> A
+-1.945745	<s> And
+-1.945745	<s> As	-0.1113588
+-1.862939	<s> But
+-1.62711	<s> Dumbledore
+-2.33826	<s> For
+-0.8674419	<s> He	-0.03139333
+-2.33826	<s> He'd
+-1.945745	<s> I
+-2.33826	<s> I've
+-2.283727	<s> If
+-1.20798	<s> It	0
+-1.32608	<s> Mr.	-0.02802873
+-1.862939	<s> Mrs.	-0.4101745
+-1.685102	<s> Professor	-0.4771212
+-2.33826	<s> She
+-1.384072	<s> The	-0.06341608
+-2.283727	<s> They	0.03857708
+-2.33826	<s> They're
+-2.33826	<s> This
+-2.33826	<s> When
+-0.4524972	As he
+-0.1145157	Dumbledore. </s>
+-1.333311	Dursley was
+-0.8996552	Harry Potter
+-0.2851813	Harry. </s>
+-1.498256	He couldn't
+-1.022936	He didn't
+-0.6901961	He was
+-1.239424	I have
+-0.2808266	It was	-0.04778893
+-0.3555872	McGonagall. </s>
+-0.06214791	Mr. Dursley
+-0.243038	Mrs. Dursley
+-0.71115	Privet Drive
+-0.71115	Privet Drive,
+-0.243038	Professor McGonagall
+-1.255218	Professor McGonagall,
+-1.200685	Professor McGonagall.	-0.1721953
+-0.5916369	The Dursleys
+-0.41012	They were
+-1.829249	a cat
+-1.774716	a few
+-1.829249	a little
+-1.829249	a lot
+-1.436735	a very
+-0.7949198	about the
+-0.8134857	all over	0.004559234
+-1.151467	all the
+-0.2851813	all. </s>
+-1.731251	and Mrs.
+-1.731251	and he
+-1.785784	and his
+-1.785784	and walked
+-0.6566172	around the
+-0.2851813	arrived in
+-1.366311	as a
+-0.9455236	as he
+-1.028329	as she
+-1.420844	as they
+-1.028329	as though
+-0.50515	at the
+-0.9220034	back down
+-0.9220034	back to
+-1.239424	be a
+-0.6531581	because he
+-0.2851813	believe it
+-0.2851813	bundle of
+-1.075746	but they
+-0.7623025	by his
+-0.6531581	corner of
+-0.8494527	couldn't kill
+-0.2851813	day. </s>
+-1.130279	didn't think
+-0.8494527	down on	0.1589368
+-0.8494527	down the
+-0.50703	fell asleep
+-0.50703	going to
+-0.6879746	had a
+-0.9238044	had been
+-1.399125	had never
+-1.31321	have a
+-0.4259687	have been
+-1.693046	he couldn't
+-1.747579	he didn't
+-1.272259	he had
+-0.860338	he was
+-0.3555872	him. </s>
+-0.5862113	himself a
+-1.627604	his cloak,
+-1.627604	his mind.	0.0634121
+-0.2851813	house. </s>
+-0.8952646	in a
+-1.548423	in cloaks
+-0.8372727	in his
+-0.7403627	in the
+-1.038509	into his
+-0.3853509	into the
+-1.364362	it had
+-0.6532125	it was
+-0.03778856	it. </s>
+-0.2851813	knowing he
+-0.7623025	looked up
+-0.50703	might have
+-0.2851813	mind. </s>
+-0.2851813	morning. </s>
+-0.3555872	must have
+-0.80806	never seen
+-0.6531581	next to	-0.2046621
+-0.9841512	not knowing	0.0634121
+-0.9841512	not to
+-0.6531581	number four,
+-1.665393	of Privet
+-1.012234	of his
+-1.61086	of number
+-0.8159398	of the
+-1.272878	of them
+-1.451513	on a
+-1.39698	on his
+-0.2120889	on the	-0.01098499
+-0.2851813	on. </s>
+-1.075746	out a
+-0.4771213	out of	-0.04699632
+-0.5631887	over the
+-0.9839761	people in	-0.1628757
+-1.038509	people who
+-1.200685	said Dumbledore
+-1.255218	said Dumbledore,
+-1.200685	said Dumbledore.	0.2101566
+-0.7798978	said Professor	0.2592632
+-0.5316784	seemed to
+-1.10909	she didn't
+-0.41012	sign of
+-0.8494527	so much
+-0.7623025	something to
+-0.2851813	something. </s>
+-0.3555872	street. </s>
+-0.2851813	tabby cat
+-1.096787	that he
+-1.489301	that the
+-2.079902	the Muggles
+-1.687387	the Potters
+-1.368752	the cat
+-1.604581	the corner
+-2.079902	the front
+-2.079902	the motorcycle
+-2.079902	the next
+-2.079902	the only
+-2.079902	the other
+-2.079902	the owls
+-2.079902	the people
+-2.025369	the street
+-2.025369	the street.	-0.1721953
+-0.2851813	them. </s>
+-0.7623025	there was
+-1.063333	they were
+-0.9220034	this was
+-1.065393	to be
+-1.384029	to his
+-1.776543	to say
+-1.776543	to tell
+-0.968483	to the
+-0.2851813	tried to
+-0.9220034	up in
+-1.339825	was a
+-1.677806	was no
+-1.732339	was now
+-1.732339	was on
+-1.677806	was still
+-1.677806	was the
+-1.677806	was wearing
+-0.80806	what he
+-0.5986252	when he
+-0.9296184	with a
+-0.7535272	would be
+
+\3-grams:
+-0.7216709	<s> "I know
+-0.3017549	<s> As he
+-0.2048449	said Dumbledore. </s>
+-0.8846066	<s> He didn't
+-0.6627578	<s> He was
+-0.2808266	<s> It was
+-0.2048449	Professor McGonagall. </s>
+-0.05799195	<s> Mr. Dursley
+-0.07918125	<s> Mrs. Dursley
+-0.06694679	<s> Professor McGonagall
+-0.6547242	said Professor McGonagall
+-0.447158	<s> The Dursleys
+-0.4786329	<s> They were
+-0.4786329	people in cloaks
+-0.3536942	not knowing he
+-0.3536942	his mind. </s>
+-0.7216709	out of his
+-0.3536942	down on the
+-0.5755429	all over the
+-0.2048449	the street. </s>
+-1.307937	on the corner
+-0.3536942	next to the
+-0.9179656	It was on
+
+\end\

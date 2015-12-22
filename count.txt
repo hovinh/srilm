@@ -1,0 +1,10042 @@
+getting	1
+getting here,	1
+getting here, Dumbledore?"	1
+edge.	1
+edge. </s>	1
+cleared	1
+cleared his	1
+cleared his throat	1
+books	1
+books written	1
+books written about	1
+Muggle,	1
+Muggle, whatever	1
+Muggle, whatever that	1
+Harry	14
+Harry -	1
+Harry - every	1
+Harry Potter,	1
+Harry Potter, Voldemort's	1
+Harry to	1
+Harry to his	1
+Harry Potter	4
+Harry Potter come	1
+Harry Potter Day	1
+Harry Potter rolled	1
+Harry Potter -	1
+Harry -"	1
+Harry -" </s>	1
+Harry underneath	1
+Harry underneath it.	1
+Harry and	1
+Harry and gave	1
+Harry gently	1
+Harry gently on	1
+Harry off	1
+Harry off ter	1
+Harry survive?"	1
+Harry survive?" </s>	1
+Harry in	1
+Harry in his	1
+mysterious.	1
+mysterious. </s>	1
+wasn't	3
+wasn't a	1
+wasn't a map	1
+wasn't such	1
+wasn't such an	1
+wasn't even	1
+wasn't even sure	1
+we'd	1
+we'd better	1
+we'd better get	1
+lightning.	1
+lightning. </s>	1
+struck	1
+struck Mr.	1
+struck Mr. Dursley	1
+step	1
+step of	1
+step of number	1
+watching,	1
+watching, appeared	1
+watching, appeared so	1
+report	1
+report on	1
+report on the	1
+one.	1
+one. </s>	1
+normally.	1
+normally. </s>	1
+myself	1
+myself above	1
+myself above my	1
+left	5
+left the	2
+left the house.	1
+left the building	1
+left on	1
+left on the	1
+left now."	1
+left now." </s>	1
+left knee	1
+left knee that	1
+cigarette	1
+cigarette lighter.	1
+cigarette lighter. </s>	1
+here?"	1
+here?" cried	1
+here?" cried Professor	1
+he'd	6
+he'd stretch	1
+he'd stretch his	1
+he'd had	1
+he'd had a	1
+he'd just	1
+he'd just popped	1
+he'd spotted	1
+he'd spotted that	1
+he'd heard	1
+he'd heard the	1
+he'd be	1
+he'd be about	1
+whatever	2
+whatever that	1
+whatever that was.	1
+whatever "everyone"	1
+whatever "everyone" was	1
+eleven	2
+eleven years."	1
+eleven years." </s>	1
+eleven years	1
+eleven years I	1
+dog.	1
+dog. </s>	1
+rumbling	1
+rumbling sound	1
+rumbling sound had	1
+better	3
+better of	1
+better of it.	1
+better off	1
+better off he'll	1
+better get	1
+better get this	1
+back	13
+back on	1
+back on drills.	1
+back down	3
+back down and	1
+back down on	1
+back down the	1
+back to	3
+back to the	2
+back to their	1
+back past	1
+back past them,	1
+back inside	1
+back inside his	1
+back across	1
+back across the	1
+back at	2
+back at the	2
+back in	1
+back in his	1
+heavily.	1
+heavily. </s>	1
+Dudley	7
+Dudley had	2
+Dudley had learned	1
+Dudley had been	1
+Dudley and	1
+Dudley and in	1
+Dudley into	1
+Dudley into his	1
+Dudley was	1
+Dudley was now	1
+Dudley mixing	1
+Dudley mixing with	1
+Dudley good-bye	1
+Dudley good-bye but	1
+"Oh,	1
+"Oh, yes,"	1
+"Oh, yes," said	1
+bringing	1
+bringing him."	1
+bringing him." </s>	1
+wheel	1
+wheel and	1
+wheel and his	1
+owl	4
+owl flutter	1
+owl flutter past	1
+owl after	1
+owl after owl	1
+owl sped	1
+owl sped overhead.	1
+owl even	1
+owl even at	1
+window.	2
+window. </s>	2
+that.	2
+that. </s>	2
+got	7
+got so	1
+got so upset	1
+got him,	1
+got him, sir."	1
+got this	1
+got this son	1
+got into	2
+got into his	1
+got into bed.	1
+got him	1
+got him out	1
+got out	1
+got out that	1
+street,	2
+street, nor	1
+street, nor when	1
+street, screaming	1
+street, screaming for	1
+silly	1
+silly stunt	1
+silly stunt -	1
+One	1
+One small	1
+One small hand	1
+ruffled	1
+ruffled the	1
+ruffled the neat	1
+neck,	2
+neck, although	1
+neck, although he	1
+neck, which	1
+neck, which came	1
+my	5
+my left	1
+my left knee	1
+my new	1
+my new earmuffs."	1
+my way	1
+my way here."	1
+my life,"	1
+my life," said	1
+my dear	1
+my dear sir,	1
+morning	1
+morning traffic	1
+morning traffic jam,	1
+huge,	1
+huge, it	1
+huge, it was	1
+<s>	339
+<s> Harry	2
+<s> Harry Potter	2
+<s> "Oh,	1
+<s> "Oh, yes,"	1
+<s> One	1
+<s> One small	1
+<s> He'll	1
+<s> He'll be	1
+<s> "The	1
+<s> "The Potters,	1
+<s> She	3
+<s> She told	1
+<s> She looked	1
+<s> She threw	1
+<s> Nothing	1
+<s> Nothing like	1
+<s> Famous	2
+<s> Famous before	1
+<s> Famous for	1
+<s> The	14
+<s> The nerve	1
+<s> The nearest	1
+<s> The Potters	1
+<s> The cat's	1
+<s> The Dursleys	5
+<s> The traffic	1
+<s> The Boy	1
+<s> The cat	2
+<s> The rumor	1
+<s> Perhaps	1
+<s> Perhaps people	1
+<s> Flocks	1
+<s> Flocks of	1
+<s> "You	4
+<s> "You can't	1
+<s> "You flatter	1
+<s> "You don't	1
+<s> "You think	1
+<s> Was	2
+<s> Was this	1
+<s> Was he	1
+<s> "S-s-sorry,"	1
+<s> "S-s-sorry," sobbed	1
+<s> "Exactly,"	1
+<s> "Exactly," said	1
+<s> You	2
+<s> You know	1
+<s> You couldn't	1
+<s> A	3
+<s> A man	1
+<s> A low	1
+<s> A breeze	1
+<s> "Voldemort	1
+<s> "Voldemort had	1
+<s> Come	1
+<s> Come to	1
+<s> "Really,	1
+<s> "Really, Dumbledore,	1
+<s> I	5
+<s> I must	1
+<s> I suppose	2
+<s> I haven't	1
+<s> I have	1
+<s> Even	1
+<s> Even Muggles	1
+<s> "Sorry,"	1
+<s> "Sorry," he	1
+<s> They're	3
+<s> They're a	1
+<s> They're saying	1
+<s> They're the	1
+<s> Scars	1
+<s> Scars can	1
+<s> Dumbledore	8
+<s> Dumbledore bowed	1
+<s> Dumbledore nodded	1
+<s> Dumbledore and	1
+<s> Dumbledore slipped	1
+<s> Dumbledore gave	1
+<s> Dumbledore took	1
+<s> Dumbledore turned	1
+<s> Dumbledore reached	1
+<s> "Borrowed	1
+<s> "Borrowed it,	1
+<s> Fear	1
+<s> Fear flooded	1
+<s> Although	1
+<s> Although owls	1
+<s> "-	1
+<s> "- yes,	1
+<s> Nasty,	1
+<s> Nasty, common	1
+<s> "Harry.	1
+<s> "Harry. </s>	1
+<s> "Couldn't	1
+<s> "Couldn't you	1
+<s> People	2
+<s> People in	1
+<s> People are	1
+<s> He'd	3
+<s> He'd forgotten	1
+<s> He'd never	1
+<s> He'd have	1
+<s> "A	4
+<s> "A fine	1
+<s> "A what?"	1
+<s> "A lemon	1
+<s> "A letter?"	1
+<s> "Little	1
+<s> "Little tyke,"	1
+<s> Viewers	1
+<s> Viewers as	1
+<s> "Hagrid's	1
+<s> "Hagrid's bringing	1
+<s> Potter	1
+<s> Potter wasn't	1
+<s> Then,	1
+<s> Then, suddenly,	1
+<s> "As	1
+<s> "As I	1
+<s> "I	7
+<s> "I suppose	1
+<s> "I would	1
+<s> "I heard	1
+<s> "I know	3
+<s> "I shall	1
+<s> There	2
+<s> There was	2
+<s> Mysterious	1
+<s> Mysterious people	1
+<s> "Hagrid,"	1
+<s> "Hagrid," said	1
+<s> I've	3
+<s> I've been	1
+<s> I've written	1
+<s> I've got	1
+<s> "Shhh!"	1
+<s> "Shhh!" hissed	1
+<s> "At	1
+<s> "At last.	1
+<s> "Shoo!"	1
+<s> "Shoo!" said	1
+<s> These	1
+<s> These people	1
+<s> It's	1
+<s> It's just	1
+<s> "Er	1
+<s> "Er -	1
+<s> "That's	1
+<s> "That's not	1
+<s> Under	1
+<s> Under a	1
+<s> Trying	1
+<s> Trying to	1
+<s> "Is	1
+<s> "Is that	1
+<s> As	5
+<s> As Mr.	1
+<s> As he	4
+<s> "Well,"	1
+<s> "Well," said	1
+<s> We've	1
+<s> We've no	1
+<s> Twelve	1
+<s> Twelve times	1
+<s> At	1
+<s> At half	1
+<s> "It	3
+<s> "It certainly	1
+<s> "It all	1
+<s> "It would	1
+<s> "What's	1
+<s> "What's his	1
+<s> Most	1
+<s> Most of	1
+<s> Everyone	1
+<s> Everyone knows	1
+<s> He	46
+<s> He cleared	1
+<s> He got	1
+<s> He clicked	2
+<s> He put	1
+<s> He had	1
+<s> He never	1
+<s> He went	1
+<s> He bent	1
+<s> He yelled	1
+<s> He eyed	1
+<s> He chuckled	1
+<s> He found	2
+<s> He made	1
+<s> He couldn't	1
+<s> He hurried	1
+<s> He fell	1
+<s> He drummed	1
+<s> He could	1
+<s> He supposed	1
+<s> He turned	2
+<s> He was	10
+<s> He dashed	1
+<s> He didn't	6
+<s> He looked	2
+<s> He flicked	1
+<s> He also	1
+<s> He laid	1
+<s> He does	1
+<s> While	1
+<s> While Mrs.	1
+<s> "My	2
+<s> "My dear	2
+<s> "Even	1
+<s> "Even if	1
+<s> "Yeah,"	1
+<s> "Yeah," said	1
+<s> Mrs.	6
+<s> Mrs. Dursley	5
+<s> Mrs. Potter	1
+<s> G'night,	1
+<s> G'night, Professor	1
+<s> If	4
+<s> If he	1
+<s> If it	1
+<s> If anyone	1
+<s> If the	1
+<s> Would	1
+<s> Would you	1
+<s> "No	1
+<s> "No problems,	1
+<s> Wiping	1
+<s> Wiping his	1
+<s> "Good	1
+<s> "Good luck,	1
+<s> In	2
+<s> In fact,	1
+<s> In his	1
+<s> "Oh	1
+<s> "Oh yes,	1
+<s> "I've	1
+<s> "I've come	1
+<s> Professor	7
+<s> Professor McGonagall	6
+<s> Professor McGonagall's	1
+<s> None	1
+<s> None of	1
+<s> It	21
+<s> It had	1
+<s> It grew	1
+<s> It seemed	2
+<s> It just	1
+<s> It might	1
+<s> It didn't	1
+<s> It was	11
+<s> It must	2
+<s> It stared	1
+<s> "It's	3
+<s> "It's lucky	1
+<s> "It's -	1
+<s> "It's the	1
+<s> Owls	1
+<s> Owls flying	1
+<s> "We	3
+<s> "We have	1
+<s> "We can	1
+<s> "We may	1
+<s> No	1
+<s> No one	1
+<s> Chapter	1
+<s> Chapter 1	1
+<s> "Lily	1
+<s> "Lily and	1
+<s> She,	1
+<s> She, too,	1
+<s> "After	1
+<s> "After all	1
+<s> On	2
+<s> On the	2
+<s> "Most	1
+<s> "Most mysterious.	1
+<s> "Dumbledore	1
+<s> "Dumbledore -	1
+<s> They	4
+<s> They were	3
+<s> They didn't	1
+<s> "Could	1
+<s> "Could I	1
+<s> ...	4
+<s> ... He	2
+<s> ... </s>	1
+<s> ... Well,	1
+<s> Or	1
+<s> Or Harold.	1
+<s> "No,"	1
+<s> "No," she	1
+<s> This	3
+<s> This boy	1
+<s> This bunch	1
+<s> This man's	1
+<s> All	1
+<s> All this	1
+<s> We	1
+<s> We may	1
+<s> "Only	1
+<s> "Only because	1
+<s> Dumbledore,	1
+<s> Dumbledore, however,	1
+<s> "Fancy	1
+<s> "Fancy seeing	1
+<s> And	5
+<s> And where	1
+<s> And a	1
+<s> And the	1
+<s> And they've	1
+<s> And now,	1
+<s> Well	1
+<s> Well -	1
+<s> "Owls	1
+<s> "Owls ...	1
+<s> What	1
+<s> What could	1
+<s> "Funny	1
+<s> "Funny stuff	1
+<s> Experts	1
+<s> Experts are	1
+<s> "So?"	1
+<s> "So?" snapped	1
+<s> When	3
+<s> When Mr.	1
+<s> When Dudley	1
+<s> When you	1
+<s> Rejoice,	1
+<s> Rejoice, for	1
+<s> But	6
+<s> But on	1
+<s> But I	1
+<s> But then	1
+<s> But -	1
+<s> But how	1
+<s> But he	1
+<s> "He'll	1
+<s> "He'll have	1
+<s> "What	1
+<s> "What they're	1
+<s> Shooting	2
+<s> Shooting stars	2
+<s> "Yes,	2
+<s> "Yes, I	1
+<s> "Yes, yes,	1
+<s> "We've	1
+<s> "We've had	1
+<s> For	3
+<s> For a	2
+<s> For some	1
+<s> About	2
+<s> About why	1
+<s> About what	1
+<s> "Well,	2
+<s> "Well, Ted,"	1
+<s> "Well, I	1
+<s> "All	1
+<s> "All day?	1
+<s> Her	1
+<s> Her black	1
+<s> After	1
+<s> After all,	1
+<s> "And	2
+<s> "And finally,	1
+<s> "And I	1
+<s> "Why?"	1
+<s> "Why?" </s>	1
+<s> His	2
+<s> His last,	1
+<s> His blue	1
+<s> Albus	1
+<s> Albus Dumbledore	1
+<s> "But	3
+<s> "But that's	1
+<s> "But you're	1
+<s> "But I	1
+<s> How	1
+<s> How very	1
+<s> "Yes,"	2
+<s> "Yes," said	2
+<s> "You'd	2
+<s> "You'd be	1
+<s> "You'd think	1
+<s> "His	1
+<s> "His aunt	1
+<s> Can't	1
+<s> Can't you	1
+<s> "How	1
+<s> "How did	1
+<s> "Young	1
+<s> "Young Sirius	1
+<s> Howard,	1
+<s> Howard, isn't	1
+<s> Could	1
+<s> Could all	1
+<s> Inside,	1
+<s> Inside, just	1
+<s> "I'm	1
+<s> "I'm not	1
+<s> Mr.	16
+<s> Mr. and	1
+<s> Mr. Dursley	14
+<s> Mr. Dursley,	1
+<s> Instead	2
+<s> Instead he	2
+<s> Going	1
+<s> Going to	1
+<s> "No,	2
+<s> "No, thank	1
+<s> "No, sir	1
+glasses	2
+glasses exactly	1
+glasses exactly the	1
+glasses and	1
+glasses and saying	1
+else.	1
+else. </s>	1
+clicked	4
+clicked it.	1
+clicked it. </s>	1
+clicked it	2
+clicked it again	1
+clicked it once,	1
+clicked the	1
+clicked the Put-Outer,	1
+boots	2
+boots was	1
+boots was unwelcome.	1
+boots were	1
+boots were like	1
+Muggles	5
+Muggles like	1
+Muggles like yourself	1
+Muggles found	1
+Muggles found out	1
+Muggles -"	1
+Muggles -" </s>	1
+Muggles started	1
+Muggles started swarmin'	1
+Muggles have	1
+Muggles have noticed	1
+He'll	1
+He'll be	1
+He'll be famous	1
+sleepiness.	1
+sleepiness. </s>	1
+watch.	1
+watch. </s>	1
+well	3
+well what	1
+well what he	1
+well -	1
+well - noble	1
+well go	1
+well go and	1
+lunchtime,	1
+lunchtime, when	1
+lunchtime, when he	1
+stupid	1
+stupid new	1
+stupid new fashion.	1
+stop	1
+stop him	1
+stop him ...	1
+whispered	1
+whispered Professor	1
+whispered Professor McGonagall.	1
+right,	3
+right, that's	1
+right, that's what	1
+right, Voldemort,	1
+right, Voldemort, was	1
+right, of	1
+right, of course.	1
+one;	1
+one; it	1
+one; it had	1
+obviously	1
+obviously collecting	1
+obviously collecting for	1
+name!"	1
+name!" </s>	1
+legs	1
+legs and	1
+legs and walk	1
+clutching	1
+clutching a	1
+clutching a large	1
+hiding	1
+hiding Harry	1
+hiding Harry underneath	1
+he's	7
+he's done	1
+he's done ...	1
+he's older.	1
+he's older. </s>	1
+he's disappeared?	1
+he's disappeared? </s>	1
+he's gone."	1
+he's gone." </s>	1
+he's killed	1
+he's killed ...	1
+he's ready	1
+he's ready to	1
+he's not	1
+he's not careless.	1
+whiskery	1
+whiskery kiss.	1
+whiskery kiss. </s>	1
+engine	1
+engine into	1
+engine into life;	1
+done	1
+done ...	1
+done ... all	1
+rumors."	1
+rumors." </s>	1
+blonde	1
+blonde and	1
+blonde and had	1
+bag,	1
+bag, that	1
+bag, that he	1
+however,	2
+however, had	1
+however, had a	1
+however, was	1
+however, was choosing	1
+Dundee	1
+Dundee have	1
+Dundee have been	1
+"The	2
+"The Potters,	1
+"The Potters, that's	1
+"The owls	1
+"The owls are	1
+building	1
+building at	1
+building at five	1
+where	4
+where everything	1
+where everything from	1
+where he	1
+where he sat	1
+where did	1
+where did you	1
+where -	1
+where - ?"	1
+put	5
+put the	2
+put the cat	1
+put the receiver	1
+put to	1
+put to bed,	1
+put it	1
+put it back	1
+put out	1
+put out the	1
+without	1
+without waking	1
+without waking up.	1
+their	10
+their street	1
+their street lamps	1
+their kind.	1
+their kind. </s>	1
+their window	1
+their window now,	1
+their sleeping	1
+their sleeping pattern."	1
+their opinion	1
+their opinion there	1
+their news."	1
+their news." She	1
+their glasses	1
+their glasses and	1
+their leather	1
+their leather boots	1
+their son,	1
+their son, Harry	1
+their greatest	1
+their greatest fear	1
+had	39
+had had	2
+had had a	1
+had had around	1
+had never	3
+had never even	1
+had never seen	1
+had never hoped	1
+had nearly	1
+had nearly twice	1
+had been	6
+had been put	1
+had been hugged	1
+had been called	1
+had been watching,	1
+had been broken	1
+had been waiting	1
+had broken	1
+had broken the	1
+had to	1
+had to be	1
+had a	8
+had a small	2
+had a secret,	1
+had a perfectly	1
+had a son	1
+had a sister	1
+had a nice,	1
+had a downpour	1
+had ever	1
+had ever been	1
+had she	1
+had she fixed	1
+had the	1
+had the same	1
+had expected,	1
+had expected, Mrs.	1
+had gone.	1
+had gone. </s>	1
+had almost	1
+had almost finished	1
+had just	1
+had just arrived	1
+had seen	1
+had seen -	1
+had learned	1
+had learned a	1
+had around	1
+had around its	1
+had much	1
+had much sense."	1
+had everything	1
+had everything they	1
+had precious	1
+had precious little	1
+had powers	1
+had powers I	1
+had reached	1
+had reached the	1
+had twelve	1
+had twelve hands	1
+had hands	1
+had hands the	1
+street.	4
+street. </s>	4
+since	2
+since sunrise.	1
+since sunrise. </s>	1
+since Madam	1
+since Madam Pomfrey	1
+She	5
+She eyed	1
+She eyed his	1
+She jerked	1
+She jerked her	1
+She threw	1
+She threw a	1
+She told	1
+She told him	1
+She looked	1
+She looked distinctly	1
+saying,	1
+saying, she	1
+saying, she was	1
+nerve	1
+nerve of	1
+nerve of him!	1
+no	9
+no -	1
+no - even	1
+no business	1
+no business staying	1
+no finer	1
+no finer boy	1
+no point	1
+no point in	1
+no good.	1
+no good. </s>	1
+no numbers;	1
+no numbers; instead,	1
+no sign	1
+no sign of	1
+no reason	2
+no reason for	1
+no reason to	1
+muffled	1
+muffled voice,	1
+muffled voice, "I'd	1
+isn't	2
+isn't it?"	1
+isn't it?" </s>	1
+isn't in	1
+isn't in the	1
+</s>	339
+glumly.	1
+glumly. </s>	1
+every	2
+every direction	1
+every direction since	1
+every child	1
+every child in	1
+cloaks.	1
+cloaks. </s>	1
+bound	1
+bound to	1
+bound to notice	1
+Nothing	1
+Nothing like	1
+Nothing like this	1
+James	3
+James Potter	1
+James Potter are	1
+James ...	1
+James ... I	1
+James dead	1
+James dead -	1
+something's	1
+something's going	1
+something's going on.	1
+what?"	1
+what?" </s>	1
+went	6
+went out	1
+went out with	1
+went on.	2
+went on. </s>	2
+went to	1
+went to find	1
+went into	1
+went into the	1
+went upstairs	1
+went upstairs to	1
+motorcycle	4
+motorcycle fell	1
+motorcycle fell out	1
+motorcycle was	1
+motorcycle was huge,	1
+motorcycle as	1
+motorcycle as he	1
+motorcycle and	1
+motorcycle and kicked	1
+surely	1
+surely a	1
+surely a sensible	1
+such	3
+such nonsense.	1
+such nonsense. </s>	1
+such an	1
+such an unusual	1
+such a	1
+such a piercing	1
+wondered.	1
+wondered. </s>	1
+robes,	1
+robes, a	1
+robes, a purple	1
+only	5
+only guess,"	1
+only guess," said	1
+only family	1
+only family he	1
+only the	1
+only the owls	1
+only lights	1
+only lights left	1
+only one	1
+only one You-Know-	1
+overhead.	2
+overhead. </s>	2
+name."	1
+name." </s>	1
+lent	1
+lent it	1
+lent it to	1
+confusing	1
+confusing if	1
+confusing if we	1
+hissed	1
+hissed Professor	1
+hissed Professor McGonagall,	1
+he?"	1
+he?" </s>	1
+whisper,	1
+whisper, a	1
+whisper, a whisper	1
+enough	2
+enough to	2
+enough to tuck	1
+enough to turn	1
+door	2
+door slammed	1
+door slammed on	1
+door to	1
+door to put	1
+saying,"	1
+saying," she	1
+saying," she pressed	1
+boots.	1
+boots. </s>	1
+bear	3
+bear it	1
+bear it if	1
+bear people	1
+bear people who	1
+bear it.	1
+bear it. </s>	1
+hundreds	1
+hundreds of	1
+hundreds of sightings	1
+Famous	2
+Famous before	1
+Famous before he	1
+Famous for	1
+Famous for something	1
+"Yes	1
+"Yes -	1
+"Yes - yes,	1
+business	1
+business staying	1
+business staying here.	1
+which	7
+which were	2
+which were both	1
+which were the	1
+which made	1
+which made drills.	1
+which lay	1
+which lay silent	1
+which came	1
+which came in	1
+which was	1
+which was still	1
+which he	1
+which he had	1
+sat	4
+sat in	1
+sat in the	1
+sat with	1
+sat with his	1
+sat frozen	1
+sat frozen in	1
+sat down	1
+sat down on	1
+worried	1
+worried that	1
+worried that he	1
+them,	2
+them, clutching	1
+them, clutching a	1
+them, but	1
+them, but thought	1
+has	4
+has gone	2
+has gone at	1
+has gone -"	1
+has gone,	1
+has gone, Dumbledore?"	1
+has left	1
+has left now."	1
+streets	1
+streets in	1
+streets in broad	1
+sir,"	1
+sir," said	1
+sir," said the	1
+The	15
+The nerve	1
+The nerve of	1
+The nearest	1
+The nearest street	1
+The newscaster	1
+The newscaster allowed	1
+The Potters	1
+The Potters knew	1
+The cat's	1
+The cat's tail	1
+The Dursleys	5
+The Dursleys had	2
+The Dursleys shuddered	1
+The Dursleys knew	1
+The Dursleys got	1
+The traffic	1
+The traffic moved	1
+The Boy	1
+The Boy Who	1
+The cat	2
+The cat didn't	1
+The cat was	1
+The rumor	1
+The rumor is	1
+saying.	1
+saying. </s>	1
+never	10
+never had	1
+never had much	1
+never even	2
+never even seen	2
+never know."	1
+never know." </s>	1
+never understand	1
+never understand him!	1
+never seen	3
+never seen an	1
+never seen a	1
+never seen any	1
+never have."	1
+never have." </s>	1
+never hoped	1
+never hoped before,	1
+of	72
+of lightning.	1
+of lightning. </s>	1
+of neck,	1
+of neck, which	1
+of sleepiness.	1
+of sleepiness. </s>	1
+of their	1
+of their window	1
+of her	2
+of her time	1
+of her sister.	1
+of what	1
+of what they	1
+of -	1
+of - well,	1
+of shooting	1
+of shooting stars!	1
+of these	2
+of these weirdos	1
+of these birds	1
+of owls	2
+of owls tonight,	1
+of owls ...	1
+of his	7
+of his face,	1
+of his cloak,	2
+of his mind	1
+of his mind.	1
+of his hair	1
+of his half-moon	1
+of nothing	1
+of nothing except	1
+of a	2
+of a firm	1
+of a headlight;	1
+of tea.	1
+of tea. </s>	1
+of him!	1
+of him! </s>	1
+of it,	1
+of it, he	1
+of Muggle	1
+of Muggle sweet	1
+of it.	1
+of it. </s>	1
+of number	4
+of number four,	2
+of number four's	1
+of number four.	1
+of them	5
+of them had	1
+of them noticed	1
+of them stood	1
+of them next	1
+of them weren't	1
+of Privet	3
+of Privet Drive,	2
+of Privet Drive.	1
+of saying	1
+of saying Voldemort's	1
+of all	2
+of all the	1
+of all places?"	1
+of course.	1
+of course. </s>	1
+of the	11
+of the street.	2
+of the ground.	1
+of the London	1
+of the markings	1
+of the air	1
+of the rain	1
+of the light.	1
+of the cat	2
+of the street	1
+of them.	1
+of them. </s>	1
+of town,	1
+of town, drills	1
+of bushy	1
+of bushy black	1
+of trash	1
+of trash can	1
+of light	1
+of light sped	1
+of imagination.	1
+of imagination. </s>	1
+of people	1
+of people called	1
+of something	1
+of something peculiar	1
+of sightings	1
+of sightings of	1
+of strangely	1
+of strangely dressed	1
+of funny-looking	1
+of funny-looking people	1
+of jet-black	1
+of jet-black hair	1
+of drills	1
+of drills he	1
+of blankets.	2
+of blankets. </s>	2
+of heaven	1
+of heaven did	1
+of blankets	1
+of blankets on	1
+nearest	1
+nearest street	1
+nearest street lamp	1
+kind.	1
+kind. </s>	1
+ground,	1
+ground, and	1
+ground, and high-heeled,	1
+eyes.	2
+eyes. </s>	2
+clothes	1
+clothes -	1
+clothes - the	1
+bowed	1
+bowed his	1
+bowed his head.	1
+Perhaps	1
+Perhaps people	1
+Perhaps people have	1
+Jim?"	1
+Jim?" </s>	1
+spectacles.	1
+spectacles. </s>	1
+window	3
+window in	1
+window in his	1
+window and	1
+window and peered	1
+window now,	1
+window now, even	1
+were	23
+were moving	1
+were moving around	1
+were obviously	1
+were obviously collecting	1
+were saying.	1
+were saying. </s>	1
+were bound	1
+were bound to	1
+were like	1
+were like baby	1
+were perfectly	1
+were perfectly normal,	1
+were a	1
+were a lot	1
+were lots	1
+were lots of	1
+were holding	1
+were holding up	1
+were both	1
+were both long	1
+were the	2
+were the last	1
+were the eyes	1
+were there?"	1
+were there?" </s>	1
+were two	1
+were two tiny	1
+were proud	1
+were proud to	1
+were whispering	2
+were whispering excitedly	1
+were whispering excitedly,	1
+were light,	1
+were light, bright,	1
+were as	1
+were as unDursleyish	1
+were involved,	1
+were involved, there	1
+were waiting	1
+were waiting for	1
+were driven	1
+were driven out	1
+were related	1
+were related to	1
+mysterious	1
+mysterious things	1
+mysterious things would	1
+tabby,	1
+tabby, but	1
+tabby, but it	1
+sure	3
+sure there	1
+sure there were	1
+sure his	1
+sure his nephew	1
+sure it	1
+sure it was	1
+wouldn't.	1
+wouldn't. </s>	1
+rolled	1
+rolled over	1
+rolled over inside	1
+onto	1
+onto the	1
+onto the motorcycle	1
+passersby	1
+passersby stare,	1
+passersby stare, "Don't	1
+nearly	2
+nearly twice	1
+nearly twice the	1
+nearly midnight	1
+nearly midnight before	1
+less	1
+less like	1
+less like us.	1
+contrary,	1
+contrary, his	1
+contrary, his face	1
+hoping	3
+hoping to	1
+hoping to get	1
+hoping he	2
+hoping he was	2
+head	3
+head around	1
+head around to	1
+head back	1
+head back at	1
+head over	1
+head over Harry	1
+wondered	1
+wondered whether	1
+wondered whether he	1
+except	1
+except a	1
+except a large	1
+down	11
+down on	3
+down on the	3
+down and	1
+down and stroked	1
+down Privet	1
+down Privet Drive	1
+down into	1
+down into the	1
+down the	3
+down the street	2
+down the street.	1
+down in	2
+down in the	1
+down in Kent	1
+sensible	1
+sensible person	1
+sensible person like	1
+boring	1
+boring tie	1
+boring tie for	1
+bed,	1
+bed, he	1
+bed, he went	1
+instead,	1
+instead, little	1
+instead, little planets	1
+Flocks	1
+Flocks of	1
+Flocks of owls	1
+"You	4
+"You can't	1
+"You can't blame	1
+"You flatter	1
+"You flatter me,"	1
+"You don't	1
+"You don't mean	1
+"You think	1
+"You think it	1
+careful,	1
+careful, but	1
+careful, but no	1
+whole	1
+whole street	1
+whole street were	1
+saw	3
+saw on	1
+saw on young	1
+saw -	1
+saw - and	1
+saw him	1
+saw him kicking	1
+wounded	1
+wounded dog.	1
+wounded dog. </s>	1
+them.	3
+them. </s>	3
+her	19
+her he'd	1
+her he'd heard	1
+her spectacles.	1
+her spectacles. </s>	1
+her -	1
+her - if	1
+her head	1
+her head back	1
+her on	1
+her on the	1
+her crowd."	1
+her crowd." </s>	1
+her something,	1
+her something, but	1
+her eyes	1
+her eyes beneath	1
+her tea	1
+her tea through	1
+her feet	1
+her feet and	1
+her daughter	1
+her daughter and	1
+her sister.	1
+her sister. </s>	1
+her time	1
+her time craning	1
+her sister	1
+her sister and	1
+her mind,	1
+her mind, swallowed,	1
+her good-for-nothing	1
+her good-for-nothing husband	1
+her nose	1
+her nose in	1
+her mouth,	1
+her mouth, changed	1
+her it	1
+her it was	1
+stretch	1
+stretch his	1
+stretch his legs	1
+sir."	2
+sir." </s>	2
+Was	2
+Was this	1
+Was this normal	1
+Was he	1
+Was he imagining	1
+saying?	1
+saying? </s>	1
+news:	1
+news: </s>	1
+on	44
+on my	1
+on my way	1
+on -	1
+on - he	1
+on their	1
+on their news."	1
+on a	3
+on a huddle	1
+on a brick	1
+on a cold,	1
+on his	4
+on his way	1
+on his garden	1
+on his jacket	1
+on his heel	1
+on and	1
+on and a	1
+on the	27
+on the step	1
+on the streets	1
+on the neighbors.	1
+on the edge	1
+on the news,"	1
+on the ninth	1
+on the subject	1
+on the whole	1
+on the pavement.	1
+on the cheek,	1
+on the doorstep,	1
+on the steering	1
+on the road	1
+on the shoulder.	1
+on the evening	1
+on the arm	1
+on the corner	3
+on the letter	1
+on the very	1
+on the next	1
+on the wall.	1
+on the wall	2
+on the far	1
+on the dull,	1
+on drills.	1
+on drills. </s>	1
+on young	1
+on young people!	1
+on Privet	1
+on Privet Drive.	1
+on yourself,	1
+on yourself, Hagrid,	1
+on drills	2
+on drills that	2
+neither	1
+neither as	1
+neither as a	1
+kiss.	1
+kiss. </s>	1
+-	49
+- he'd	1
+- he'd be	1
+- house	1
+- house was	1
+- well	1
+- well -	1
+- every	1
+- every child	1
+- we'd	1
+- we'd better	1
+- what	1
+- what was	1
+- there	1
+- there will	1
+- these	1
+- these people	1
+- even	1
+- even the	1
+- I	2
+- I saw	1
+- I wouldn't	1
+- to	1
+- to trust	1
+- a	2
+- a cat	1
+- a legend	1
+- noble	1
+- noble to	1
+- long	1
+- long tangles	1
+- I'll	1
+- I'll bet	1
+- wise	1
+- wise -	1
+- that	1
+- that they're	1
+- and	3
+- and it	1
+- and that's	1
+- and a	1
+- an'	1
+- an' poor	1
+- then	1
+- then he	1
+- are	1
+- are -	1
+- yes,	1
+- yes, you're	1
+- the	3
+- the getups	1
+- the next	1
+- the boy	1
+- ?"	1
+- ?" whispered	1
+- Lily	1
+- Lily an'	1
+- Professor	1
+- Professor Dumbledore,	1
+- could	1
+- could I	1
+- it's	2
+- it's not	1
+- it's true?"	1
+- Petunia,	1
+- Petunia, dear	1
+- no,	1
+- no, looking	1
+- was	1
+- was the	1
+- give	1
+- give him	1
+- dead."	1
+- dead." </s>	1
+- you	3
+- you haven't	1
+- you can't	1
+- you can't.	1
+- he	2
+- he yawned	1
+- he couldn't.	1
+- if	1
+- if he'd	1
+- for	1
+- for eleven	1
+- it	1
+- it couldn't	1
+- well,	1
+- well, he	1
+ground.	2
+ground. </s>	2
+face,	1
+face, he	1
+face, he had	1
+coldly,	1
+coldly, as	1
+coldly, as though	1
+boy's	1
+boy's head.	1
+boy's head. </s>	1
+Petunia	2
+Petunia thought	1
+Petunia thought about	1
+Petunia could	1
+Petunia could get	1
+Kent,	1
+Kent, Yorkshire,	1
+Kent, Yorkshire, and	1
+weatherman,	1
+weatherman, "I	1
+weatherman, "I don't	1
+with."	1
+with." </s>	1
+what	10
+what I	1
+what I heard	1
+what the	1
+what the neighbors	1
+what they	1
+what they were	1
+what was	1
+what was that?"	1
+what finally	1
+what finally stopped	1
+what everyone's	1
+what everyone's saying?	1
+what he	3
+what he had	1
+what he and	1
+what he was	1
+what must	1
+what must have	1
+neighbors.	1
+neighbors. </s>	1
+taking	1
+taking out	1
+taking out a	1
+tail	1
+tail twitched	1
+tail twitched and	1
+yourself,	1
+yourself, Hagrid,	1
+yourself, Hagrid, or	1
+rooted	1
+rooted to	1
+rooted to the	1
+out.	1
+out. </s>	1
+pattern."	1
+pattern." The	1
+pattern." The newscaster	1
+nephew	1
+nephew was	1
+nephew was called	1
+like	9
+like that.	1
+like that. </s>	1
+like yourself	2
+like yourself should	1
+like yourself can	1
+like that	1
+like that ...	1
+like this	1
+like this man	1
+like us.	1
+like us. </s>	1
+like a	2
+like a bolt	1
+like a wounded	1
+like baby	1
+like baby dolphins.	1
+couldn't.	1
+couldn't. </s>	1
+hours'	1
+hours' time	1
+hours' time by	1
+heel	1
+heel and	1
+heel and with	1
+worrying	1
+worrying Mrs.	1
+worrying Mrs. Dursley;	1
+expect	2
+expect to	1
+expect to be	1
+expect astonishing	1
+expect astonishing things	1
+drop	1
+drop and	1
+drop and did	1
+sharply.	1
+sharply. </s>	1
+breeze	1
+breeze ruffled	1
+breeze ruffled the	1
+bed.	2
+bed. </s>	2
+involved	1
+involved in	1
+involved in anything	1
+Hagrid	7
+Hagrid -	1
+Hagrid - we'd	1
+Hagrid swung	1
+Hagrid swung himself	1
+Hagrid with	2
+Hagrid with something	1
+Hagrid with my	1
+Hagrid let	1
+Hagrid let out	1
+Hagrid gingerly	1
+Hagrid gingerly on	1
+Hagrid in	1
+Hagrid in a	1
+"but	1
+"but you	1
+"but you can't	1
+carrying	1
+carrying two	1
+carrying two cups	1
+wide.	1
+wide. </s>	1
+say	6
+say good-bye	1
+say good-bye to	1
+say that	1
+say that they	1
+say another	1
+say another word	1
+say something	2
+say something to	2
+say if	1
+say if the	1
+written	2
+written them	1
+written them a	1
+written about	1
+written about Harry	1
+there	9
+there wasn't	1
+there wasn't a	1
+there were	2
+there were lots	1
+there were a	1
+there seemed	1
+there seemed to	1
+there will	1
+there will be	1
+there was	3
+there was no	2
+there was nothing	1
+there have	1
+there have been	1
+hid	1
+hid most	1
+hid most of	1
+stroked	1
+stroked his	1
+stroked his mustache,	1
+sir?"	1
+sir?" asked	1
+sir?" asked Hagrid.	1
+Who	1
+Who Lived	1
+Who Lived </s>	1
+second,	1
+second, Mr.	1
+second, Mr. Dursley	1
+nice,	1
+nice, normal	1
+nice, normal day.	1
+or	4
+or mysterious,	1
+or mysterious, because	1
+or signs.	1
+or signs. </s>	1
+or how,	1
+or how, but	1
+or we'll	1
+or we'll be	1
+nodding	1
+nodding to	1
+nodding to her.	1
+known	1
+known as	1
+known as Harry	1
+1	1
+1 </s>	1
+growing	1
+growing up	1
+growing up away	1
+fact,	2
+fact, Mrs.	1
+fact, Mrs. Dursley	1
+fact, it	1
+fact, it was	1
+country	1
+country were	1
+country were holding	1
+brick	1
+brick wall	1
+brick wall all	1
+Pomfrey	1
+Pomfrey told	1
+Pomfrey told me	1
+Lived	1
+Lived </s>	1
+"S-s-sorry,"	1
+"S-s-sorry," sobbed	1
+"S-s-sorry," sobbed Hagrid,	1
+yawned	1
+yawned and	1
+yawned and turned	1
+when	7
+when he	4
+when he thought	1
+when he changed	1
+when he left	1
+when he couldn't	1
+when a	1
+when a car	1
+when two	1
+when two owls	1
+when he's	1
+when he's older.	1
+nervously.	1
+nervously. </s>	1
+that's	4
+that's right,	1
+that's right, that's	1
+that's what	1
+that's what I	1
+that's no	1
+that's no reason	1
+that's why	1
+that's why he's	1
+take	1
+take it?"	1
+take it?" </s>	1
+"Exactly,"	1
+"Exactly," said	1
+"Exactly," said Dumbledore,	1
+rumors	1
+rumors that	1
+rumors that are	1
+over	17
+over Harry	1
+over Harry and	1
+over -	1
+over - it	1
+over with."	1
+over with." </s>	1
+over to	1
+over to Jim	1
+over Britain?	1
+over Britain? </s>	1
+over Bristol."	1
+over Bristol." </s>	1
+over garden	1
+over garden fences,	1
+over the	6
+over the bundle	1
+over the country	1
+over the country.	1
+over the top	1
+over the place?	1
+over the low	1
+over his	1
+over his forehead	1
+over inside	1
+over inside his	1
+over dinner	1
+over dinner all	1
+over in	1
+over in his	1
+pavement.	1
+pavement. </s>	1
+news,"	1
+news," Mr.	1
+news," Mr. Dursley	1
+live	3
+live here?"	1
+live here?" cried	1
+live here!"	1
+live here!" </s>	1
+live with	1
+live with Muggles	1
+curiously	1
+curiously shaped	1
+curiously shaped cut,	1
+house.	3
+house. </s>	3
+held	1
+held it	1
+held it up	1
+wouldn't	3
+wouldn't he?"	1
+wouldn't he?" </s>	1
+wouldn't be	2
+wouldn't be able	1
+wouldn't be surprised	1
+family	1
+family he	1
+family he has	1
+edge	1
+edge of	1
+edge of town,	1
+shooting	3
+shooting stars!	1
+shooting stars! </s>	1
+shooting stars	1
+shooting stars ...	1
+shooting stars.	1
+shooting stars. </s>	1
+broken	2
+broken at	1
+broken at least	1
+broken the	1
+broken the silence	1
+been	21
+been watching,	1
+been watching, appeared	1
+been put	1
+been put to	1
+been hundreds	1
+been hundreds of	1
+been broken	1
+been broken at	1
+been hugged	1
+been hugged by	1
+been a	2
+been a trick	1
+been a very	1
+been called	1
+been called a	1
+been celebrating?	1
+been celebrating? </s>	1
+been sitting	1
+been sitting on	1
+been acting	1
+been acting oddly	1
+been phoning	1
+been phoning in	1
+been trying	1
+been trying to	1
+been drifting	1
+been drifting into	1
+been seen	1
+been seen on	1
+been thinking	1
+been thinking of?	1
+been waiting	1
+been waiting on	1
+been celebrating	1
+been celebrating Bonfire	1
+been Harvey.	1
+been Harvey. </s>	1
+been behaving	1
+been behaving very	1
+been watching	1
+been watching them	1
+letter."	1
+letter." </s>	1
+Harry.	3
+Harry. </s>	3
+..."	3
+..." </s>	2
+..." he	1
+..." he said	1
+casually	1
+casually as	1
+casually as he	1
+wife.	1
+wife. </s>	1
+see	9
+see a	2
+see a single	1
+see a curiously	1
+see that	1
+see that a	1
+see the	2
+see the owls	1
+see the bundle	1
+see how	2
+see how he	1
+see how much	1
+see anything	1
+see anything that	1
+see you	1
+see you soon,	1
+years."	1
+years." </s>	1
+these	3
+these weirdos	1
+these weirdos standing	1
+these people	1
+these people were	1
+these birds	1
+these birds flying	1
+him	14
+him what	1
+him what must	1
+him over	1
+him over dinner	1
+him a	1
+him a stern	1
+him when	1
+him when he's	1
+him and	2
+him and Mrs.	1
+him and he	1
+him kicking	1
+him kicking his	1
+him from	1
+him from the	1
+him ...	1
+him ... but	1
+him uneasy.	1
+him uneasy. </s>	1
+him by	2
+him by his	2
+him here,	1
+him here, Hagrid	1
+him out	1
+him out all	1
+stupid.	2
+stupid. </s>	2
+slept	1
+slept on,	1
+slept on, not	1
+You	2
+You know	1
+You know what	1
+You couldn't	1
+You couldn't find	1
+seconds	1
+seconds before	1
+seconds before Mr.	1
+night	3
+night and	1
+night and are	1
+night tonight."	1
+night tonight." </s>	1
+night Voldemort	1
+night Voldemort turned	1
+so	11
+so worried	1
+so worried that	1
+so confusing	1
+so confusing if	1
+so she	1
+so she went	1
+so wild	1
+so wild -	1
+so that	1
+so that Privet	1
+so suddenly	1
+so suddenly and	1
+so much	3
+so much of	1
+so much as	1
+so much since	1
+so upset	1
+so upset at	1
+so stiffly."	1
+so stiffly." </s>	1
+normal,	2
+normal, thank	1
+normal, thank you	1
+normal, owl-free	1
+normal, owl-free morning.	1
+knows	2
+knows you're	1
+knows you're the	1
+knows why,	1
+knows why, or	1
+A	3
+A man	1
+A man appeared	1
+A low	1
+A low rumbling	1
+A breeze	1
+A breeze ruffled	1
+guess,"	1
+guess," said	1
+guess," said Dumbledore.	1
+fell.	1
+fell. </s>	1
+course.	1
+course. </s>	1
+bring	1
+bring Harry	1
+bring Harry to	1
+Potter,	1
+Potter, Voldemort's	1
+Potter, Voldemort's power	1
+Madam	1
+Madam Pomfrey	1
+Madam Pomfrey told	1
+Dumbledore's	1
+Dumbledore's eyes	1
+Dumbledore's eyes seemed	1
+years;	1
+years; in	1
+years; in fact,	1
+why,	3
+why, that	1
+why, that man	1
+why, but	1
+why, but they	1
+why, or	1
+why, or how,	1
+newscaster	1
+newscaster allowed	1
+newscaster allowed himself	1
+that,"	1
+that," said	1
+that," said Professor	1
+tall	1
+tall as	1
+tall as a	1
+"Voldemort	1
+"Voldemort had	1
+"Voldemort had powers	1
+saying	6
+saying he	1
+saying he tried	1
+saying his	1
+saying his heart	1
+saying that	1
+saying that when	1
+saying in	1
+saying in hushed	1
+saying Voldemort's	1
+saying Voldemort's name."	1
+saying ‘You-Know-Who.'	1
+saying ‘You-Know-Who.' I	1
+owls	9
+owls that	1
+owls that have	1
+owls normally	1
+owls normally hunt	1
+owls swooped	1
+owls swooped overhead.	1
+owls are	1
+owls are nothing	1
+owls ...	1
+owls ... shooting	1
+owls swooping	1
+owls swooping past	1
+owls tonight,	1
+owls tonight, Jim?"	1
+owls have	2
+owls have been	1
+owls have suddenly	1
+perfectly	2
+perfectly normal,	2
+perfectly normal, thank	1
+perfectly normal, owl-free	1
+news."	1
+news." She	1
+news." She jerked	1
+long	4
+long enough	1
+long enough to	1
+long robes,	1
+long robes, a	1
+long and	1
+long and crooked,	1
+long tangles	1
+long tangles of	1
+darkness.	1
+darkness. </s>	1
+huddle	1
+huddle of	1
+huddle of these	1
+help	1
+help noticing	1
+help noticing that	1
+wrestled	1
+wrestled a	1
+wrestled a screaming	1
+famous	1
+famous -	1
+famous - a	1
+even	10
+even sure	1
+even sure his	1
+even dressed	1
+even dressed in	1
+even the	1
+even the Muggles	1
+even remember!	1
+even remember! </s>	1
+even beady-eyed	1
+even beady-eyed Mrs.	1
+even seen	2
+even seen him.	1
+even seen the	1
+even at	1
+even at nighttime.	1
+even if	2
+even if the	1
+even if You-Know-Who	1
+sideways	1
+sideways glance	1
+sideways glance at	1
+bundle	3
+bundle of	3
+bundle of blankets.	2
+bundle of blankets	1
+bent	2
+bent forward	1
+bent forward over	1
+bent his	1
+bent his great,	1
+letter?"	1
+letter?" repeated	1
+letter?" repeated Professor	1
+London	1
+London Underground.	1
+London Underground. </s>	1
+Come	1
+Come to	1
+Come to think	1
+choosing	1
+choosing another	1
+choosing another lemon	1
+woken	1
+woken in	1
+woken in a	1
+set	2
+set off	2
+set off for	1
+set off down	1
+"Really,	1
+"Really, Dumbledore,	1
+"Really, Dumbledore, you	1
+thin,	1
+thin, and	1
+thin, and very	1
+his	66
+his back	1
+his back to	1
+his boots	1
+his boots was	1
+his name!"	1
+his name!" </s>	1
+his legs	1
+his legs and	1
+his head	1
+his head around	1
+his face,	1
+his face, he	1
+his nephew	1
+his nephew was	1
+his heel	1
+his heel and	1
+his wife.	1
+his wife. </s>	1
+his high	1
+his high chair.	1
+his eyes	1
+his eyes fell	1
+his office,	1
+his office, snapped	1
+his cereal	1
+his cereal at	1
+his face	2
+his face split	1
+his face in	1
+his inside	1
+his inside pocket.	1
+his jacket	1
+his jacket sleeve,	1
+his telephone,	1
+his telephone, and	1
+his office	1
+his office on	1
+his home	1
+his home number	1
+his feet	1
+his feet in	1
+his cloak,	3
+his cloak, looking	1
+his cloak, tucked	1
+his cloak, he	1
+his secretary	1
+his secretary not	1
+his garden	1
+his garden wall.	1
+his throat	1
+his throat nervously.	1
+his cloak	2
+his cloak and	1
+his cloak suddenly	1
+his briefcase,	1
+his briefcase, pecked	1
+his mind	2
+his mind by	1
+his mind back	1
+his mood	1
+his mood -	1
+his half-moon	1
+his half-moon glasses.	1
+his most	1
+his most boring	1
+his way	1
+his way back	1
+his great,	1
+his great, shaggy	1
+his pocket	2
+his pocket and	2
+his cousin	1
+his cousin Dudley.	1
+his fingers	1
+his fingers on	1
+his armchair.	1
+his armchair. </s>	1
+his head.	1
+his head. </s>	1
+his streaming	1
+his streaming eyes	1
+his name	2
+his name again?	1
+his name to	1
+his mind.	3
+his mind. </s>	3
+his proper	1
+his proper name:	1
+his car	2
+his car and	2
+his heart	2
+his heart sinking	1
+his heart isn't	1
+his vast,	1
+his vast, muscular	1
+his forehead	1
+his forehead they	1
+his nose	1
+his nose was	1
+his mustache,	1
+his mustache, thinking	1
+his hair	1
+his hair and	1
+his belt.	1
+his belt. </s>	1
+his arms	1
+his arms and	1
+his mother	1
+his mother all	1
+his aunt	1
+his aunt and	1
+his mirror.	1
+his mirror. </s>	1
+his blankets	1
+his blankets without	1
+his name?	1
+his name? </s>	1
+subject	1
+subject as	1
+subject as they	1
+small	3
+small son	1
+small son called	1
+small son,	1
+small son, too,	1
+small hand	1
+small hand closed	1
+act	1
+act normally.	1
+act normally. </s>	1
+secret,	1
+secret, and	1
+secret, and their	1
+ninth	1
+ninth floor.	1
+ninth floor. </s>	1
+to	93
+to stop	1
+to stop him	1
+to their	1
+to their street	1
+to put	1
+to put out	1
+to them,	1
+to them, but	1
+to bed,	1
+to bed, he	1
+to her	1
+to her feet	1
+to -	1
+to - what	1
+to say	3
+to say that	1
+to say something	2
+to bed.	1
+to bed. </s>	1
+to take	1
+to take it?"	1
+to see	2
+to see that	1
+to see anything	1
+to bring	1
+to bring Harry	1
+to him	1
+to him when	1
+to his	5
+to his boots	1
+to his wife.	1
+to his office,	1
+to his car	1
+to his aunt	1
+to act	1
+to act normally.	1
+to look	1
+to look again.	1
+to suggest	1
+to suggest that	1
+to her.	2
+to her. </s>	2
+to tell	3
+to tell me	2
+to tell her	1
+to a	2
+to a pair	1
+to a roar	1
+to think	2
+to think what	1
+to think of	1
+to smile	1
+to smile at	1
+to lose	1
+to lose our	1
+to notice.	1
+to notice. </s>	1
+to happen.	1
+to happen. </s>	1
+to notice	1
+to notice something.	1
+to him,	1
+to him, sir?"	1
+to it.	1
+to it. </s>	1
+to pull	1
+to pull himself	1
+to disturb	1
+to disturb him,	1
+to catch	1
+to catch the	1
+to the	10
+to the window	1
+to the ground.	1
+to the rumors	1
+to the front	1
+to the other	1
+to the spot.	1
+to the man	1
+to the bedroom	1
+to the cat.	1
+to the baker's.	1
+to find	1
+to find the	1
+to be.	1
+to be. </s>	1
+to discuss,	1
+to discuss, the	1
+to call	1
+to call him	1
+to me.	1
+to me. </s>	1
+to trust	1
+to trust Hagrid	1
+to explain	2
+to explain why	1
+to explain everything	1
+to persuade	1
+to persuade people	1
+to use	1
+to use them."	1
+to amuse	1
+to amuse him.	1
+to Dumbledore,	1
+to Dumbledore, though,	1
+to buy	1
+to buy himself	1
+to tuck	1
+to tuck into	1
+to come	1
+to come near	1
+to believe	2
+to believe it	2
+to kill	1
+to kill the	1
+to be	8
+to be involved	1
+to be a	2
+to be older	1
+to be any	1
+to be thankful	1
+to be allowed,	1
+to be frightened	1
+to turn	1
+to turn any	1
+to kiss	1
+to kiss Dudley	1
+to do	2
+to do with	2
+to concentrate	2
+to concentrate on	2
+to mention	1
+to mention anything	1
+to realize	2
+to realize that	1
+to realize he	1
+to Jim	1
+to Jim McGuffin	1
+to celebrate	1
+to celebrate for	1
+to have	2
+to have disappeared	1
+to have gone	1
+to get	1
+to get that	1
+nothing	5
+nothing except	1
+nothing except a	1
+nothing to	1
+nothing to the	1
+nothing about	1
+nothing about the	1
+nothing could	1
+nothing could upset	1
+nothing next	1
+nothing next to	1
+lamps	1
+lamps so	1
+lamps so that	1
+I	27
+I got	1
+I got him	1
+I wouldn't.	1
+I wouldn't. </s>	1
+I saw	1
+I saw him	1
+I wouldn't	1
+I wouldn't be	1
+I -	1
+I - could	1
+I say	1
+I say good-bye	1
+I suppose	2
+I suppose he	1
+I suppose it	1
+I will	1
+I will never	1
+I haven't	1
+I haven't blushed	1
+I can't	1
+I can't believe	1
+I expect,	1
+I expect, Professor	1
+I quite	1
+I quite agree."	1
+I say,	1
+I say, even	1
+I could,	1
+I could, I	1
+I just	1
+I just thought	1
+I must	1
+I must have	1
+I heard	1
+I heard -"	1
+I can	1
+I can promise	1
+I didn't	1
+I didn't want	1
+I promised	1
+I promised yesterday,	1
+I know	1
+I know ..."	1
+I don't	1
+I don't suppose	1
+I c-c-can't	1
+I c-c-can't stand	1
+I have	3
+I have been	1
+I have never	1
+I have one	1
+hadn't,	1
+hadn't, he	1
+hadn't, he might	1
+finer	1
+finer boy	1
+finer boy anywhere.	1
+craning	1
+craning over	1
+craning over garden	1
+broad	2
+broad daylight,	2
+broad daylight, though	1
+broad daylight, not	1
+Potters	6
+Potters had	1
+Potters had a	1
+Potters were	1
+Potters were involved,	1
+Potters arrived	1
+Potters arrived in	1
+Potters away;	1
+Potters away; they	1
+Potters ...	1
+Potters ... </s>	1
+Potters knew	1
+Potters knew very	1
+Night	1
+Night early	1
+Night early -	1
+Dumbledore?"	3
+Dumbledore?" </s>	2
+Dumbledore?" She	1
+Dumbledore?" She eyed	1
+yelled	1
+yelled at	1
+yelled at five	1
+wide	1
+wide smile	1
+wide smile and	1
+nighttime.	1
+nighttime. </s>	1
+that?"	1
+that?" </s>	1
+tea.	1
+tea. </s>	1
+"everyone"	1
+"everyone" was	1
+"everyone" was saying,	1
+scream	1
+scream as	1
+scream as she	1
+pair	1
+pair of	1
+pair of -	1
+pinpricks	1
+pinpricks in	1
+pinpricks in the	1
+night.	1
+night. </s>	1
+look	3
+look again.	1
+look again. </s>	1
+look at	2
+look at it,	1
+look at Dumbledore	1
+daylight,	3
+daylight, though	1
+daylight, though people	1
+daylight, there	1
+daylight, there have	1
+daylight, not	1
+daylight, not even	1
+hugged	2
+hugged Mr.	1
+hugged Mr. Dursley	1
+hugged by	1
+hugged by a	1
+her.	2
+her. </s>	2
+yourself	2
+yourself should	1
+yourself should be	1
+yourself can	1
+yourself can call	1
+feasts	1
+feasts and	1
+feasts and parties	1
+ever	2
+ever seen	1
+ever seen in	1
+ever been	1
+ever been seen	1
+silently	1
+silently you'd	1
+silently you'd have	1
+called	6
+called Dudley	1
+called Dudley and	1
+called Harry.	2
+called Harry. </s>	2
+called Grunnings,	1
+called Grunnings, which	1
+called Potter	1
+called Potter who	1
+called a	1
+called a Muggle,	1
+best	2
+best place	1
+best place for	1
+best get	1
+best get this	1
+lighter.	1
+lighter. </s>	1
+Muggle	2
+Muggle clothes,	1
+Muggle clothes, swapping	1
+Muggle sweet	1
+Muggle sweet I'm	1
+Even	1
+Even Muggles	1
+Even Muggles like	1
+chortled	1
+chortled Mr.	1
+chortled Mr. Dursley	1
+woman	2
+woman who	1
+woman who was	1
+woman had	1
+woman had she	1
+she	20
+she went	2
+she went on.	2
+she had	1
+she had been	1
+she wrestled	1
+she wrestled a	1
+she fixed	1
+she fixed Dumbledore	1
+she spent	1
+she spent so	1
+she opened	1
+she opened the	1
+she liked	1
+she liked my	1
+she said	2
+she said sharply.	1
+she said impatiently.	1
+she thought	1
+she thought he	1
+she always	1
+she always got	1
+she was	2
+she was most	1
+she was not	1
+she pressed	1
+she pressed on,	1
+she didn't	3
+she didn't have	2
+she didn't think	1
+she asked.	1
+she asked. </s>	1
+she did	1
+she did now.	1
+"Sorry,"	1
+"Sorry," he	1
+"Sorry," he grunted,	1
+thing	2
+thing he	1
+thing he saw	1
+thing it	1
+thing it would	1
+how	5
+how Dudley	1
+how Dudley had	1
+how is	1
+how is the	1
+how much	1
+how much better	1
+how he	1
+how he and	1
+how in	1
+how in the	1
+suggest	1
+suggest that	1
+suggest that strange	1
+smile	2
+smile and	1
+smile and he	1
+smile at	1
+smile at the	1
+age	1
+age now,	1
+age now, wouldn't	1
+sense."	1
+sense." </s>	1
+noble	1
+noble to	1
+noble to use	1
+up	13
+up their	1
+up their glasses	1
+up on	1
+up on the	1
+up his	1
+up his briefcase,	1
+up to	1
+up to his	1
+up and	1
+up and down	1
+up the	2
+up the road,	1
+up the street,	1
+up suddenly	1
+up suddenly at	1
+up at	1
+up at the	1
+up in	3
+up in anything	1
+up in the	1
+up in Godric's	1
+up away	1
+up away from	1
+notice.	1
+notice. </s>	1
+large	3
+large mustache.	1
+large mustache. </s>	1
+large order	1
+large order of	1
+large doughnut	1
+large doughnut in	1
+a	105
+a Muggle,	1
+a Muggle, whatever	1
+a bag,	1
+a bag, that	1
+a whisper,	1
+a whisper, a	1
+a sensible	1
+a sensible person	1
+a wounded	1
+a wounded dog.	1
+a second,	1
+a second, Mr.	1
+a nice,	1
+a nice, normal	1
+a brick	1
+a brick wall	1
+a letter."	1
+a letter." </s>	1
+a curiously	1
+a curiously shaped	1
+a huddle	1
+a huddle of	1
+a perfectly	1
+a perfectly normal,	1
+a small	2
+a small son	1
+a small son,	1
+a secret,	1
+a secret, and	1
+a wide	1
+a wide smile	1
+a pair	1
+a pair of	1
+a large	2
+a large order	1
+a large doughnut	1
+a woman	1
+a woman had	1
+a big,	1
+a big, beefy	1
+a bundle	1
+a bundle of	1
+a normal	1
+a normal man	1
+a son	1
+a son called	1
+a complete	1
+a complete stranger.	1
+a bolt	1
+a bolt of	1
+a tight	1
+a tight bun.	1
+a map.	1
+a map. </s>	1
+a tantrum	1
+a tantrum and	1
+a sharp,	1
+a sharp, sideways	1
+a screaming	1
+a screaming Dudley	1
+a lot	3
+a lot of	2
+a lot harder	1
+a child	1
+a child like	1
+a cloak,	1
+a cloak, an	1
+a lemon	1
+a lemon drop?"	1
+a sister,	1
+a sister, because	1
+a howl	1
+a howl like	1
+a roar	2
+a roar as	1
+a roar it	1
+a sister.	1
+a sister. </s>	1
+a huge	1
+a huge motorcycle	1
+a firm	1
+a firm called	1
+a large,	2
+a large, tawny	1
+a large, spotted	1
+a map	1
+a map in	1
+a trick	1
+a trick of	1
+a cold,	1
+a cold, hard	1
+a perfect	1
+a perfect map	1
+a legend	1
+a legend -	1
+a stern	1
+a stern look.	1
+a great	1
+a great sniff	1
+a silver	1
+a silver cigarette	1
+a downpour	1
+a downpour of	1
+a bit	2
+a bit more.	1
+a bit more	1
+a grin.	1
+a grin. </s>	1
+a golden	1
+a golden watch	1
+a new	1
+a new word	1
+a group	1
+a group of	1
+a single	1
+a single collecting	1
+a couple	1
+a couple of	1
+a bun	1
+a bun from	1
+a piercing	1
+a piercing stare	1
+a letter	1
+a letter out	1
+a full	1
+a full minute	1
+a sister	1
+a sister like	1
+a wet	1
+a wet night	1
+a little	3
+a little shake	1
+a little pop.	1
+a little boy?	1
+a tuft	1
+a tuft of	1
+a letter?	1
+a letter? </s>	1
+a kind	1
+a kind of	1
+a car	1
+a car door	1
+a squeaky	1
+a squeaky voice	1
+a cat	3
+a cat reading	1
+a cat sit	1
+a cat nor	1
+a very	5
+a very muffled	1
+a very large	1
+a very scratchy,	1
+a very odd	1
+a very good	1
+a purple	1
+a purple cloak	1
+a swish	1
+a swish of	1
+a dozen	1
+a dozen feasts	1
+a violet	1
+a violet cloak.	1
+a grip	1
+a grip on	1
+a tabby	2
+a tabby cat	2
+a statue,	1
+a statue, its	1
+a moment	1
+a moment he	1
+a rather	1
+a rather severe-looking	1
+a sharp	1
+a sharp look	1
+a lace	1
+a lace handkerchief	1
+a few	4
+a few minutes	1
+a few words	1
+a few seconds	1
+a few hours'	1
+a headlight;	1
+a headlight; it	1
+a street	1
+a street where	1
+a baby	1
+a baby boy,	1
+a whisper	1
+a whisper about	1
+happen.	1
+happen. </s>	1
+first	2
+first sign	1
+first sign of	1
+first thing	1
+first thing he	1
+crowd."	1
+crowd." </s>	1
+broke	1
+broke -	1
+broke - and	1
+They're	3
+They're a	1
+They're a kind	1
+They're saying	1
+They're saying he	1
+They're the	1
+They're the only	1
+Scars	1
+Scars can	1
+Scars can come	1
+McGonagall's	1
+McGonagall's voice	1
+McGonagall's voice trembled	1
+you're	6
+you're right,	1
+you're right, of	1
+you're the	1
+you're the only	1
+you're too	1
+you're too -	1
+you're different.	1
+you're different. </s>	1
+you're going	1
+you're going to	1
+you're here,	1
+you're here, of	1
+wild	1
+wild -	1
+wild - long	1
+something,	1
+something, but	1
+something, but he	1
+them,"	1
+them," said	1
+them," said Dumbledore	1
+tell	4
+tell me	2
+tell me that	1
+tell me why	1
+tell her	2
+tell her he'd	1
+tell her something,	1
+Dumbledore	18
+Dumbledore stepped	1
+Dumbledore stepped over	1
+Dumbledore bowed	1
+Dumbledore bowed his	1
+Dumbledore nodded	1
+Dumbledore nodded glumly.	1
+Dumbledore with	1
+Dumbledore with such	1
+Dumbledore and	2
+Dumbledore and said,	1
+Dumbledore and Professor	1
+Dumbledore slipped	1
+Dumbledore slipped the	1
+Dumbledore told	1
+Dumbledore told her	1
+Dumbledore gave	1
+Dumbledore gave a	1
+Dumbledore took	1
+Dumbledore took Harry	1
+Dumbledore turned	1
+Dumbledore turned and	1
+Dumbledore firmly.	1
+Dumbledore firmly. </s>	1
+Dumbledore didn't	1
+Dumbledore didn't seem	1
+Dumbledore here,	1
+Dumbledore here, as	1
+Dumbledore finally,	1
+Dumbledore finally, "that's	1
+Dumbledore reached	1
+Dumbledore reached out	1
+Dumbledore calmly.	1
+Dumbledore calmly. </s>	1
+Dumbledore gently.	1
+Dumbledore gently. </s>	1
+secret	1
+secret all	1
+secret all over	1
+past	4
+past the	1
+past the window.	1
+past eight,	1
+past eight, Mr.	1
+past in	1
+past in broad	1
+past them,	1
+past them, clutching	1
+pretended	2
+pretended she	2
+pretended she didn't	2
+nodded	1
+nodded glumly.	1
+nodded glumly. </s>	1
+lose	1
+lose our	1
+lose our heads.	1
+daylight?	1
+daylight? </s>	1
+hummed	1
+hummed as	1
+hummed as he	1
+high	1
+high chair.	1
+high chair. </s>	1
+"Borrowed	1
+"Borrowed it,	1
+"Borrowed it, Professor	1
+floor.	1
+floor. </s>	1
+eyed	2
+eyed them	1
+eyed them angrily	1
+eyed his	1
+eyed his cloak	1
+sleeping	1
+sleeping pattern."	1
+sleeping pattern." The	1
+can't.	1
+can't. </s>	1
+big,	1
+big, beefy	1
+big, beefy man	1
+markings	2
+markings around	1
+markings around its	1
+markings the	1
+markings the cat	1
+Nasty,	1
+Nasty, common	1
+Nasty, common name,	1
+Fear	1
+Fear flooded	1
+Fear flooded him.	1
+chuckled	1
+chuckled and	1
+chuckled and muttered,	1
+won't	1
+won't even	1
+won't even remember!	1
+sir	1
+sir -	1
+sir - house	1
+Although	1
+Although owls	1
+Although owls normally	1
+think	8
+think what	1
+think what the	1
+think of	1
+think of it,	1
+think they'd	1
+think they'd be	1
+think they	1
+think they could	1
+think this	1
+think this was	1
+think you	1
+think you can	1
+think he	1
+think he could	1
+think it	1
+think it -	1
+if,	1
+if, on	1
+if, on the	1
+suppose	4
+suppose so,"	1
+suppose so," said	1
+suppose he	1
+suppose he really	1
+suppose it	1
+suppose it was	1
+suppose you're	1
+suppose you're going	1
+sniff	1
+sniff as	1
+sniff as he	1
+air	2
+air and	2
+air and landed	1
+air and off	1
+several	2
+several years;	1
+several years; in	1
+several important	1
+several important telephone	1
+now."	1
+now." </s>	1
+us	1
+us all.	1
+us all. </s>	1
+noticed	3
+noticed a	1
+noticed a large,	1
+noticed the	1
+noticed the first	1
+noticed something's	1
+noticed something's going	1
+last!	1
+last! </s>	1
+"-	1
+"- yes,	1
+"- yes, their	1
+happily	1
+happily as	1
+happily as she	1
+fixed	2
+fixed unblinkingly	1
+fixed unblinkingly on	1
+fixed Dumbledore	1
+fixed Dumbledore with	1
+decided	1
+decided he	1
+decided he didn't	1
+bunch	1
+bunch were	1
+bunch were whispering	1
+Tuesday	1
+Tuesday our	1
+Tuesday our story	1
+Ted,"	1
+Ted," said	1
+Ted," said the	1
+McGonagall,"	1
+McGonagall," said	1
+McGonagall," said Dumbledore,	1
+"Harry.	1
+"Harry. </s>	1
+will	5
+will never	2
+will never have."	1
+will never understand	1
+will be	2
+will be able	1
+will be books	1
+will know	1
+will know his	1
+something.	3
+something. </s>	3
+them."	1
+them." </s>	1
+tend	1
+tend to	1
+tend to -	1
+Grunnings,	1
+Grunnings, which	1
+Grunnings, which made	1
+seeing	1
+seeing you	1
+seeing you here,	1
+poor	1
+poor little	1
+poor little Harry	1
+problems,	1
+problems, were	1
+problems, were there?"	1
+normal	3
+normal cat	1
+normal cat behavior?	1
+normal day.	1
+normal day. </s>	1
+normal man	1
+normal man and	1
+lot,	1
+lot, his	1
+lot, his mind	1
+different	1
+different people.	1
+different people. </s>	1
+hushed	1
+hushed voices:	1
+hushed voices: "To	1
+him!	2
+him! </s>	2
+"Couldn't	1
+"Couldn't you	1
+"Couldn't you do	1
+flyin'	1
+flyin' over	1
+flyin' over Bristol."	1
+eyes	8
+eyes were	1
+eyes were light,	1
+eyes of	1
+eyes of the	1
+eyes on	1
+eyes on his	1
+eyes fixed	1
+eyes fixed unblinkingly	1
+eyes seemed	1
+eyes seemed to	1
+eyes fell	1
+eyes fell on	1
+eyes beneath	1
+eyes beneath her	1
+eyes narrowed.	1
+eyes narrowed. </s>	1
+slinking	1
+slinking around	1
+slinking around the	1
+caught	1
+caught a	1
+caught a few	1
+bike	1
+bike away.	1
+bike away. </s>	1
+midnight	1
+midnight before	1
+midnight before the	1
+People	2
+People in	1
+People in cloaks.	1
+People are	1
+People are being	1
+He'd	3
+He'd forgotten	1
+He'd forgotten all	1
+He'd never	1
+He'd never even	1
+He'd have	1
+He'd have to	1
+climbing	1
+climbing carefully	1
+climbing carefully off	1
+words	1
+words of	1
+words of what	1
+sit	1
+sit so	1
+sit so stiffly."	1
+Britain?	1
+Britain? </s>	1
+those	1
+those people	1
+those people in	1
+it,	4
+it, he	1
+it, he wasn't	1
+it, but	1
+it, but after	1
+it, Professor	1
+it, Professor Dumbledore,	1
+it, Dumbledore?"	1
+it, Dumbledore?" </s>	1
+sweets.	1
+sweets. </s>	1
+soon,	1
+soon, I	1
+soon, I expect,	1
+all	25
+all right,	1
+all right, Voldemort,	1
+all he's	1
+all he's done	1
+all over	5
+all over the	3
+all over Britain?	1
+all over in	1
+all that	1
+all that until	1
+all the	4
+all the same,	1
+all the people	1
+all the things	1
+all the way	1
+all this	2
+all this have	1
+all this in	1
+all about	2
+all about the	1
+all about Mrs.	1
+all places?"	1
+all places?" </s>	1
+all gets	1
+all gets so	1
+all upset	1
+all upset at	1
+all day,"	1
+all day," said	1
+all right	1
+all right before	1
+all very	1
+all very sad,	1
+all day,	1
+all day, for	1
+all day.	1
+all day. </s>	1
+all right,"	1
+all right," she	1
+shocked	1
+shocked and	1
+shocked and angry.	1
+oddly	1
+oddly today.	1
+oddly today. </s>	1
+we	2
+we keep	1
+we keep saying	1
+we was	1
+we was flyin'	1
+office,	1
+office, snapped	1
+office, snapped at	1
+last,	2
+last, comforting	1
+last, comforting thought	1
+last, the	1
+last, the Muggles	1
+"A	4
+"A fine	1
+"A fine thing	1
+"A what?"	1
+"A what?" </s>	1
+"A lemon	1
+"A lemon drop.	1
+"A letter?"	1
+"A letter?" repeated	1
+haven't	2
+haven't heard	1
+haven't heard from	1
+haven't blushed	1
+haven't blushed so	1
+found	5
+found out	2
+found out about	2
+found it	2
+found it harder	1
+found it a	1
+found what	1
+found what he	1
+dialing	1
+dialing his	1
+dialing his home	1
+bushy	1
+bushy black	1
+bushy black hair	1
+Viewers	1
+Viewers as	1
+Viewers as far	1
+Then,	1
+Then, suddenly,	1
+Then, suddenly, Hagrid	1
+McGonagall."	1
+McGonagall." </s>	1
+"Little	1
+"Little tyke,"	1
+"Little tyke," chortled	1
+wise	1
+wise -	1
+wise - to	1
+spectacles	1
+spectacles and	1
+spectacles and his	1
+there.	1
+there. </s>	1
+than	1
+than he	1
+than he was,	1
+McGonagall	16
+McGonagall had	1
+McGonagall had reached	1
+McGonagall coldly,	1
+McGonagall coldly, as	1
+McGonagall -	1
+McGonagall - Professor	1
+McGonagall bent	1
+McGonagall bent forward	1
+McGonagall blew	1
+McGonagall blew her	1
+McGonagall opened	1
+McGonagall opened her	1
+McGonagall whispered,	1
+McGonagall whispered, patting	1
+McGonagall flinched,	1
+McGonagall flinched, but	1
+McGonagall sniffed	1
+McGonagall sniffed angrily.	1
+McGonagall faintly,	1
+McGonagall faintly, sitting	1
+McGonagall shot	1
+McGonagall shot a	1
+McGonagall blinked	1
+McGonagall blinked furiously,	1
+McGonagall pulled	1
+McGonagall pulled out	1
+McGonagall grudgingly,	1
+McGonagall grudgingly, "but	1
+McGonagall gasped.	1
+McGonagall gasped. </s>	1
+McGonagall irritably.	1
+McGonagall irritably. </s>	1
+seemed	6
+seemed to	4
+seemed to be	2
+seemed to amuse	1
+seemed to have	1
+seemed not	1
+seemed not to	1
+seemed that	1
+seemed that Professor	1
+pop.	1
+pop. </s>	1
+relieved.	1
+relieved. </s>	1
+notice	1
+notice something.	1
+notice something. </s>	1
+lots	1
+lots of	1
+lots of people	1
+direction	1
+direction since	1
+direction since sunrise.	1
+inside	4
+inside pocket.	1
+inside pocket. </s>	1
+inside his	2
+inside his cloak	1
+inside his blankets	1
+inside Harry's	1
+inside Harry's blankets,	1
+him,	3
+him, seized	1
+him, seized his	1
+him, sir."	1
+him, sir." </s>	1
+him, sir?"	1
+him, sir?" asked	1
+"Hagrid's	2
+"Hagrid's late.	1
+"Hagrid's late. </s>	1
+"Hagrid's bringing	1
+"Hagrid's bringing him."	1
+flying	3
+flying in	1
+flying in every	1
+flying by	1
+flying by daylight?	1
+flying around.	1
+flying around. </s>	1
+face	2
+face split	1
+face split into	1
+face in	1
+face in it.	1
+somebody	1
+somebody would	1
+somebody would discover	1
+cereal	1
+cereal at	1
+cereal at the	1
+blew	1
+blew her	1
+blew her nose	1
+morning.	3
+morning. </s>	3
+Potter	8
+Potter wasn't	1
+Potter wasn't such	1
+Potter rolled	1
+Potter rolled over	1
+Potter -	1
+Potter - the	1
+Potter are	1
+Potter are -	1
+Potter was	1
+Potter was Mrs.	1
+Potter Day	1
+Potter Day in	1
+Potter who	1
+Potter who had	1
+Potter come	1
+Potter come and	1
+I'll	1
+I'll bet	1
+I'll bet that	1
+clothes,	1
+clothes, swapping	1
+clothes, swapping rumors."	1
+work,	1
+work, and	1
+work, and Mrs.	1
+sky	2
+sky outside	1
+sky outside to	1
+sky -	1
+sky - and	1
+Dudley's	1
+Dudley's age	1
+Dudley's age now,	1
+three	1
+three of	1
+three of them	1
+it.	11
+it. </s>	11
+swelled	1
+swelled to	1
+swelled to a	1
+sound	1
+sound had	1
+sound had broken	1
+an'	2
+an' James	1
+an' James dead	1
+an' poor	1
+an' poor little	1
+shouted	1
+shouted a	1
+shouted a bit	1
+older	1
+older than	1
+older than he	1
+"As	1
+"As I	1
+"As I say,	1
+opinion	1
+opinion there	1
+opinion there was	1
+last.	1
+last. </s>	1
+"I	9
+"I shall	1
+"I shall see	1
+"I suppose	1
+"I suppose so,"	1
+"I would	1
+"I would trust	1
+"I should	1
+"I should have	1
+"I heard	1
+"I heard it.	1
+"I don't	1
+"I don't know	1
+"I know	3
+"I know that,"	1
+"I know you	1
+"I know ...	1
+himself	6
+himself a	3
+himself a little	1
+himself a bun	1
+himself a grin.	1
+himself together,	1
+himself together, he	1
+himself into	1
+himself into the	1
+himself onto	1
+himself onto the	1
+four,	3
+four, Privet	1
+four, Privet Drive,	1
+four, the	1
+four, the first	1
+four, where	1
+four, where he	1
+didn't,	1
+didn't, so	1
+didn't, so she	1
+calls	1
+calls and	1
+calls and shouted	1
+agree."	1
+agree." </s>	1
+There	2
+There was	2
+There was a	1
+There was no	1
+Underground.	1
+Underground. </s>	1
+"Shhh!"	1
+"Shhh!" hissed	1
+"Shhh!" hissed Professor	1
+with	15
+with my	1
+with my life,"	1
+with such	2
+with such nonsense.	1
+with such a	1
+with her	1
+with her daughter	1
+with a	4
+with a child	1
+with a little	1
+with a roar	1
+with a swish	1
+with his	1
+with his back	1
+with Muggles	1
+with Muggles -"	1
+with the	2
+with the weather.	1
+with the Potters?	1
+with ...	1
+with ... you	1
+with something	1
+with something as	1
+with hardly	1
+with hardly any	1
+swallowed,	1
+swallowed, and	1
+swallowed, and then	1
+they'd	1
+they'd be	1
+they'd be a	1
+that	48
+that strange	1
+that strange and	1
+that whatever	1
+that whatever "everyone"	1
+that last	1
+that last night	1
+that where	1
+that where -	1
+that there	1
+that there seemed	1
+that when	1
+that when he	1
+that even	1
+that even if	1
+that a	1
+that a couple	1
+that somebody	1
+that somebody would	1
+that morning.	2
+that morning. </s>	2
+that made	1
+that made passersby	1
+that Privet	1
+that Privet Drive	1
+that would	1
+that would be	1
+that are	1
+that are flying	1
+that they	2
+that they were	2
+that the	3
+that the Potters	1
+that the man	1
+that the nation's	1
+that Lily	1
+that Lily and	1
+that this	1
+that this was	1
+that man	1
+that man had	1
+that instead	1
+that instead of	1
+that they're	1
+that they're -	1
+that Professor	1
+that Professor McGonagall	1
+that said	1
+that said Privet	1
+that motorcycle?"	1
+that motorcycle?" </s>	1
+that ...	1
+that ... but	1
+that was	2
+that was happening	1
+that was Dedalus	1
+that afternoon	1
+that afternoon and	1
+that scar	1
+that scar forever."	1
+that until	1
+that until he's	1
+that might	1
+that might be	1
+that little	1
+that little boy.	1
+that at	1
+that at this	1
+that usually	1
+that usually shone	1
+that swept	1
+that swept the	1
+that day.	1
+that day. </s>	1
+that he	5
+that he had	1
+that he noticed	1
+that he caught	1
+that he would	1
+that he walked	1
+that is	1
+that is a	1
+that was.	1
+that was. </s>	1
+that have	1
+that have been	1
+Mysterious	1
+Mysterious people	1
+Mysterious people in	1
+seized	1
+seized his	1
+seized his telephone,	1
+pull	1
+pull himself	1
+pull himself together,	1
+remember!	1
+remember! </s>	1
+number	7
+number four,	3
+number four, Privet	1
+number four, the	1
+number four, where	1
+number four's	1
+number four's drive.	1
+number when	1
+number when he	1
+number four.	2
+number four. </s>	2
+made	5
+made passersby	1
+made passersby stare,	1
+made several	1
+made several important	1
+made him	1
+made him uneasy.	1
+made drills.	1
+made drills. </s>	1
+made sense	1
+made sense to	1
+distance,	1
+distance, which	1
+distance, which were	1
+jacket	1
+jacket sleeve,	1
+jacket sleeve, Hagrid	1
+him.	4
+him. </s>	4
+"Hagrid,"	1
+"Hagrid," said	1
+"Hagrid," said Dumbledore,	1
+folks!	1
+folks! </s>	1
+fast	1
+fast asleep.	1
+fast asleep. </s>	1
+sounding	2
+sounding half	1
+sounding half exasperated,	1
+sounding relieved.	1
+sounding relieved. </s>	1
+chair.	1
+chair. </s>	1
+blue	1
+blue eyes	1
+blue eyes were	1
+mumbled.	1
+mumbled. </s>	1
+Privet	8
+Privet Drive,	3
+Privet Drive, were	1
+Privet Drive, but	1
+Privet Drive, which	1
+Privet Drive	3
+Privet Drive -	1
+Privet Drive as	1
+Privet Drive glowed	1
+Privet Drive.	2
+Privet Drive. </s>	2
+I've	4
+I've never	1
+I've never seen	1
+I've been	1
+I've been watching	1
+I've written	1
+I've written them	1
+I've got	1
+I've got him,	1
+complete	1
+complete stranger.	1
+complete stranger. </s>	1
+world	1
+world will	1
+world will know	1
+son	4
+son called	2
+son called Dudley	1
+son called Harry.	1
+son -	2
+son - he'd	1
+son - I	1
+Dursley,	4
+Dursley, of	1
+Dursley, of number	1
+Dursley, however,	1
+Dursley, however, had	1
+Dursley, his	1
+Dursley, his heart	1
+Dursley, they	1
+Dursley, they wouldn't	1
+threw	1
+threw a	1
+threw a sharp,	1
+its	6
+its eyes.	2
+its eyes. </s>	2
+its eyes	2
+its eyes fixed	1
+its eyes narrowed.	1
+its dark.	1
+its dark. </s>	1
+its all	1
+its all very	1
+swooped	1
+swooped overhead.	1
+swooped overhead. </s>	1
+spend	1
+spend the	1
+spend the next	1
+and	95
+and clicked	1
+and clicked it.	1
+and blonde	1
+and blonde and	1
+and had	2
+and had nearly	1
+and had almost	1
+and their	2
+and their greatest	1
+and their kind.	1
+and put	1
+and put the	1
+and Dundee	1
+and Dundee have	1
+and James	2
+and James Potter	1
+and James ...	1
+and mysterious	1
+and mysterious things	1
+and down	1
+and down the	1
+and her	1
+and her good-for-nothing	1
+and Petunia	2
+and Petunia thought	1
+and Petunia could	1
+and there	1
+and there were	1
+and stroked	1
+and stroked his	1
+and when	1
+and when he	1
+and that's	1
+and that's why	1
+and live	1
+and live here!"	1
+and so	1
+and so wild	1
+and saying	1
+and saying in	1
+and set	2
+and set off	2
+and his	3
+and his eyes	1
+and his nose	1
+and his feet	1
+and silently	1
+and silently you'd	1
+and how	1
+and how Dudley	1
+and up	1
+and up the	1
+and a	2
+and a few	1
+and a huge	1
+and shouted	1
+and shouted a	1
+and with	1
+and with a	1
+and its	1
+and its eyes	1
+and then	2
+and then said,	1
+and then came	1
+and kicked	1
+and kicked the	1
+and are	1
+and are hardly	1
+and parties	1
+and parties on	1
+and crooked,	1
+and crooked, as	1
+and gazed	1
+and gazed open-mouthed	1
+and the	1
+and the twinkling	1
+and landed	1
+and landed on	1
+and Mrs.	4
+and Mrs. Dursley,	1
+and Mrs. Dursley	2
+and Mrs. Dursley.	1
+and patted	1
+and patted her	1
+and tidy	1
+and tidy under	1
+and high-heeled,	1
+and high-heeled, buckled	1
+and Professor	1
+and Professor McGonagall	1
+and tried	1
+and tried to	1
+and peered	1
+and peered down	1
+and pinched	1
+and pinched by	1
+and turned	2
+and turned over	1
+and turned toward	1
+and almost	1
+and almost fell.	1
+and sparkling	1
+and sparkling behind	1
+and uncle	1
+and uncle will	1
+and gave	1
+and gave him	1
+and examined	1
+and examined it.	1
+and join	1
+and join the	1
+and took	1
+and took out	1
+and dabbed	1
+and dabbed at	1
+and pointing	1
+and pointing at	1
+and twelve	1
+and twelve balls	1
+and angry.	1
+and angry. </s>	1
+and said,	2
+and said, "The	1
+and said, "Hagrid's	1
+and at	1
+and at least	1
+and uncle.	1
+and uncle. </s>	1
+and throwing	1
+and throwing his	1
+and looked	1
+and looked at	1
+and off	1
+and off into	1
+and very	1
+and very old,	1
+and beard	1
+and beard hid	1
+and did	1
+and did not	1
+and he	4
+and he couldn't	1
+and he said	1
+and he could	1
+and he slept	1
+and walk	1
+and walk across	1
+and backed	1
+and backed out	1
+and wearing	1
+and wearing an	1
+and stared	1
+and stared at	1
+and muttered,	1
+and muttered, "I	1
+and beard,	1
+and beard, which	1
+and in	1
+and in their	1
+and walked	3
+and walked off.	1
+and walked to	1
+and walked back	1
+and talk!	1
+and talk! </s>	1
+and burying	1
+and burying his	1
+and it	1
+and it didn't	1
+showers	1
+showers of	1
+showers of owls	1
+once,	1
+once, and	1
+once, and twelve	1
+"At	1
+"At last.	1
+"At last. </s>	1
+outside	3
+outside to	1
+outside to suggest	1
+outside the	1
+outside the door.	1
+outside was	1
+outside was showing	1
+late.	1
+late. </s>	1
+-"	4
+-" </s>	4
+holding	2
+holding a	1
+holding a bundle	1
+holding up	1
+holding up their	1
+four.	2
+four. </s>	2
+disturb	1
+disturb him,	1
+disturb him, seized	1
+can't	4
+can't blame	1
+can't blame them,"	1
+can't believe	1
+can't believe it	1
+can't mean	1
+can't mean the	1
+can't pretend	1
+can't pretend he's	1
+allowed	1
+allowed himself	1
+allowed himself a	1
+These	1
+These people	1
+These people will	1
+You-Know-Who	3
+You-Know-Who has	2
+You-Know-Who has gone	2
+You-Know-Who seems	1
+You-Know-Who seems to	1
+"Shoo!"	1
+"Shoo!" said	1
+"Shoo!" said Mr.	1
+woke	1
+woke up	1
+woke up on	1
+telephone,	1
+telephone, and	1
+telephone, and had	1
+things	3
+things would	1
+things would soon	1
+things to	2
+things to stop	1
+things to happen.	1
+them	10
+them had	1
+them had never	1
+them noticed	1
+them noticed a	1
+them to	1
+them to come	1
+them angrily	1
+them angrily as	1
+them and	1
+them and their	1
+them all	1
+them all day.	1
+them a	1
+them a letter."	1
+them stood	1
+them stood and	1
+them next	1
+them next to	1
+them weren't	1
+them weren't young	1
+Professor,	2
+Professor, I've	1
+Professor, I've never	1
+Professor, surely	1
+Professor, surely a	1
+shaggy	1
+shaggy head	1
+shaggy head over	1
+rain	1
+rain I	1
+rain I promised	1
+rummaging	1
+rummaging in	1
+rummaging in his	1
+office	1
+office on	1
+office on the	1
+make	1
+make out	1
+make out a	1
+dolphins.	1
+dolphins. </s>	1
+jerked	2
+jerked his	1
+jerked his head	1
+jerked her	1
+jerked her head	1
+hold	1
+hold with	1
+hold with such	1
+"Potter."	1
+"Potter." He	1
+"Potter." He decided	1
+four's	1
+four's drive.	1
+four's drive. </s>	1
+fear	1
+fear was	1
+fear was that	1
+special,	1
+special, not	1
+special, not knowing	1
+cheek,	1
+cheek, and	1
+cheek, and tried	1
+bolt	1
+bolt of	1
+bolt of lightning.	1
+muscular	1
+muscular arms	1
+muscular arms he	1
+Sirius	1
+Sirius Black	1
+Sirius Black lent	1
+It's	1
+It's just	1
+It's just astounding	1
+couldn't	11
+couldn't bear	1
+couldn't bear people	1
+couldn't help	1
+couldn't help noticing	1
+couldn't see	2
+couldn't see a	1
+couldn't see how	1
+couldn't read	1
+couldn't read maps	1
+couldn't find	1
+couldn't find two	1
+couldn't affect	1
+couldn't affect them.	1
+couldn't kill	3
+couldn't kill that	1
+couldn't kill Harry	1
+couldn't kill a	1
+couldn't know	1
+couldn't know that	1
+would	10
+would say	1
+would say if	1
+would expect	1
+would expect astonishing	1
+would discover	1
+would discover it.	1
+would trust	1
+would trust Hagrid	1
+would be	4
+would be it.	1
+would be if,	1
+would be enough	1
+would be woken	1
+would spend	1
+would spend the	1
+would soon	1
+would soon be	1
+tea	1
+tea through	1
+tea through pursed	1
+Dursley.	2
+Dursley. </s>	2
+tight	1
+tight bun.	1
+tight bun. </s>	1
+lay	2
+lay awake,	1
+lay awake, turning	1
+lay silent	1
+lay silent and	1
+tangles	1
+tangles of	1
+tangles of bushy	1
+spent	1
+spent so	1
+spent so much	1
+any	5
+any neck,	1
+any neck, although	1
+any reason	1
+any reason to	1
+any boy's	1
+any boy's head.	1
+any more	1
+any more showers	1
+any mention	1
+any mention of	1
+showing	1
+showing no	1
+showing no sign	1
+open,	1
+open, held	1
+open, held it	1
+"Er	1
+"Er -	1
+"Er - Petunia,	1
+parking	1
+parking lot,	1
+parking lot, his	1
+least	2
+least twice.	1
+least twice. </s>	1
+least five	1
+least five times	1
+?"	1
+?" whispered	1
+?" whispered Professor	1
+hurried	2
+hurried up	1
+hurried up to	1
+hurried to	1
+hurried to his	1
+front	4
+front garden.	1
+front garden. </s>	1
+front of	1
+front of them.	1
+front door.	1
+front door. </s>	1
+front door	1
+front door to	1
+dressed	3
+dressed people	1
+dressed people about.	1
+dressed in	2
+dressed in funny	1
+dressed in Muggle	1
+cat's	1
+cat's tail	1
+cat's tail twitched	1
+angrily	1
+angrily as	1
+angrily as he	1
+Under	1
+Under a	1
+Under a tuft	1
+celebrating,	2
+celebrating, this	1
+celebrating, this happy,	1
+celebrating, all	1
+celebrating, all right,"	1
+"That's	1
+"That's not	1
+"That's not all.	1
+word	2
+word ("Won't!").	1
+word ("Won't!"). </s>	1
+word on	1
+word on the	1
+underneath	1
+underneath it.	1
+underneath it. </s>	1
+this?"	1
+this?" </s>	1
+then	4
+then he	1
+then he jerked	1
+then it	1
+then it struck	1
+then said,	1
+then said, "Yes	1
+then came	1
+then came back	1
+Put-Outer,	1
+Put-Outer, until	1
+Put-Outer, until the	1
+shaped	1
+shaped cut,	1
+shaped cut, like	1
+read	1
+read maps	1
+read maps or	1
+scratchy,	1
+scratchy, whiskery	1
+scratchy, whiskery kiss.	1
+older.	1
+older. </s>	1
+map.	1
+map. </s>	1
+doorstep,	1
+doorstep, took	1
+doorstep, took a	1
+kicked	1
+kicked the	1
+kicked the engine	1
+home	1
+home number	1
+home number when	1
+Bristol."	1
+Bristol." </s>	1
+frozen	1
+frozen in	1
+frozen in his	1
+feet	2
+feet and	1
+feet and pointing	1
+feet in	1
+feet in their	1
+standing	2
+standing on	1
+standing on the	1
+standing quite	1
+standing quite close	1
+cloak!	1
+cloak! </s>	1
+both	2
+both long	1
+both long enough	1
+both looked	1
+both looked up	1
+nation's	1
+nation's owls	1
+nation's owls have	1
+Trying	1
+Trying to	1
+Trying to pull	1
+Kent	1
+Kent -	1
+Kent - I'll	1
+country.	1
+country. </s>	1
+wrong	1
+wrong he	1
+wrong he was.	1
+ter	1
+ter live	1
+ter live with	1
+Dursley;	1
+Dursley; she	1
+Dursley; she always	1
+times	2
+times he	1
+times he clicked	1
+times as	1
+times as wide.	1
+let	2
+let himself	1
+let himself into	1
+let out	1
+let out a	1
+tantrum	1
+tantrum and	1
+tantrum and throwing	1
+split	1
+split into	1
+split into a	1
+are	8
+are -	2
+are - are	1
+are - that	1
+are nothing	1
+are nothing next	1
+are flying	1
+are flying around.	1
+are less	1
+are less like	1
+are unable	1
+are unable to	1
+are hardly	1
+are hardly ever	1
+are being	1
+are being downright	1
+silence	1
+silence around	1
+silence around them.	1
+order	1
+order of	1
+order of drills	1
+"Is	1
+"Is that	1
+"Is that where	1
+parties	1
+parties on	1
+parties on my	1
+lemon	5
+lemon drop.	1
+lemon drop. </s>	1
+lemon drops.	1
+lemon drops. </s>	1
+lemon drops,	1
+lemon drops, seemed	1
+lemon drop	1
+lemon drop and	1
+lemon drop?"	1
+lemon drop?" </s>	1
+As	5
+As Mr.	1
+As Mr. Dursley	1
+As he	4
+As he drove	1
+As he sat	1
+As he pulled	1
+As he had	1
+husband	1
+husband were	1
+husband were as	1
+funny	1
+funny clothes	1
+funny clothes -	1
+drills.	2
+drills. </s>	2
+catch	1
+catch the	1
+catch the last	1
+another	3
+another good	1
+another good reason	1
+another word	1
+another word on	1
+another lemon	1
+another lemon drop	1
+We've	1
+We've no	1
+We've no business	1
+celebrating?	1
+celebrating? </s>	1
+"Well,"	1
+"Well," said	1
+"Well," said Dumbledore	1
+yes,	5
+yes, their	1
+yes, their son,	1
+yes, you're	1
+yes, you're right,	1
+yes, that	1
+yes, that would	1
+yes, its	1
+yes, its all	1
+yes, everyone's	1
+yes, everyone's celebrating,	1
+understand	1
+understand him!	1
+understand him! </s>	1
+though	6
+though people	1
+though people down	1
+though it	2
+though it were	1
+though it had	1
+though hoping	1
+though hoping he	1
+though she	2
+though she didn't	1
+though she thought	1
+they	18
+they had	1
+they had never	1
+they were	3
+they were perfectly	1
+they were saying.	1
+they were related	1
+they went	1
+they went upstairs	1
+they wouldn't	1
+they wouldn't be	1
+they made	1
+they made him	1
+they both	1
+they both looked	1
+they normally	1
+they normally pretended	1
+they could	2
+they could bear	1
+they could see	1
+they hadn't	1
+they hadn't met	1
+they just	1
+they just didn't	1
+they pointed	1
+they pointed and	1
+they didn't	1
+they didn't want	1
+they looked	1
+they looked up	1
+they wanted,	1
+they wanted, but	1
+they also	1
+they also had	1
+Put-Outer.	1
+Put-Outer. </s>	1
+sharp,	1
+sharp, sideways	1
+sharp, sideways glance	1
+real	1
+real reason	1
+real reason she	1
+screaming	2
+screaming Dudley	1
+screaming Dudley into	1
+screaming for	1
+screaming for sweets.	1
+opened	2
+opened her	1
+opened her mouth,	1
+opened the	1
+opened the front	1
+maps	1
+maps or	1
+maps or signs.	1
+downright	1
+downright careless,	1
+downright careless, out	1
+killed	1
+killed ...	1
+killed ... he	1
+how,	1
+how, but	1
+how, but they're	1
+Dursley's	2
+Dursley's sister,	1
+Dursley's sister, but	1
+Dursley's scream	1
+Dursley's scream as	1
+future	1
+future -	1
+future - there	1
+fell	5
+fell on	1
+fell on a	1
+fell asleep	3
+fell asleep quickly	1
+fell asleep was	1
+fell asleep as	1
+fell out	1
+fell out of	1
+steadily	1
+steadily louder	1
+steadily louder as	1
+cloak,	4
+cloak, looking	1
+cloak, looking for	1
+cloak, an	1
+cloak, an emerald	1
+cloak, tucked	1
+cloak, tucked it	1
+cloak, he	1
+cloak, he was	1
+boy,	1
+boy, fast	1
+boy, fast asleep.	1
+nonsense	1
+nonsense -	1
+nonsense - for	1
+Twelve	1
+Twelve times	1
+Twelve times he	1
+Lily	2
+Lily and	1
+Lily and James	1
+Lily an'	1
+Lily an' James	1
+crooked,	1
+crooked, as	1
+crooked, as though	1
+years	1
+years I	1
+years I have	1
+the	187
+the edge.	1
+the edge. </s>	1
+the step	1
+the step of	1
+the window.	1
+the window. </s>	1
+the street,	1
+the street, screaming	1
+the Muggles	3
+the Muggles have	1
+the Muggles found	1
+the Muggles started	1
+the engine	1
+the engine into	1
+the building	1
+the building at	1
+the street.	4
+the street. </s>	4
+the only	3
+the only lights	1
+the only one	1
+the only family	1
+the motorcycle	3
+the motorcycle was	1
+the motorcycle as	1
+the motorcycle and	1
+the streets	1
+the streets in	1
+the ground,	1
+the ground, and	1
+the window	1
+the window in	1
+the tabby,	1
+the tabby, but	1
+the contrary,	1
+the contrary, his	1
+the whole	1
+the whole street	1
+the ground.	2
+the ground. </s>	2
+the weatherman,	1
+the weatherman, "I	1
+the neighbors.	1
+the neighbors. </s>	1
+the country	1
+the country were	1
+the rumors	1
+the rumors that	1
+the house.	2
+the house. </s>	2
+the edge	1
+the edge of	1
+the news,"	1
+the news," Mr.	1
+the pavement.	1
+the pavement. </s>	1
+the owls	3
+the owls swooping	1
+the owls have	1
+the owls that	1
+the bundle	2
+the bundle of	2
+the London	1
+the London Underground.	1
+the subject	1
+the subject as	1
+the ninth	1
+the ninth floor.	1
+the Potters	5
+the Potters had	1
+the Potters were	1
+the Potters arrived	1
+the Potters away;	1
+the Potters ...	1
+the night.	1
+the night. </s>	1
+the best	1
+the best place	1
+the first	2
+the first sign	1
+the first thing	1
+the markings	1
+the markings the	1
+the air	2
+the air and	2
+the eyes	1
+the eyes of	1
+the sky	1
+the sky -	1
+the three	1
+the three of	1
+the distance,	1
+the distance, which	1
+the rain	1
+the rain I	1
+the things	1
+the things to	1
+the cheek,	1
+the cheek, and	1
+the front	3
+the front garden.	1
+the front door.	1
+the front door	1
+the Put-Outer,	1
+the Put-Outer, until	1
+the doorstep,	1
+the doorstep, took	1
+the nation's	1
+the nation's owls	1
+the country.	1
+the country. </s>	1
+the silence	1
+the silence around	1
+the real	1
+the real reason	1
+the future	1
+the future -	1
+the other	3
+the other end	2
+the other two.	1
+the arm	1
+the arm as	1
+the road	2
+the road to	1
+the road in	1
+the steering	1
+the steering wheel	1
+the boy.	1
+the boy. </s>	1
+the spot.	1
+the spot. </s>	1
+the Dursleys'	2
+the Dursleys' dark	1
+the Dursleys' house.	1
+the low	1
+the low garden	1
+the Grunnings	1
+the Grunnings parking	1
+the director	1
+the director of	1
+the man	2
+the man was	1
+the man sitting	1
+the shoulder.	1
+the shoulder. </s>	1
+the getups	1
+the getups you	1
+the top	1
+the top of	1
+the Muggles!"	1
+the Muggles!" </s>	1
+the point	1
+the point she	1
+the evening	1
+the evening news:	1
+the whisperers	1
+the whisperers as	1
+the giant,	1
+the giant, climbing	1
+the cloudy	1
+the cloudy sky	1
+the inky	1
+the inky sky,	1
+the milk	1
+the milk bottles,	1
+the Put-Outer	1
+the Put-Outer back	1
+the people	3
+the people in	1
+the people he's	1
+the people who	1
+the tiny	1
+the tiny old	1
+the corner	6
+the corner of	2
+the corner and	1
+the corner the	1
+the corner at	1
+the corner he	1
+the silver	2
+the silver of	1
+the silver Put-Outer.	1
+the letter	1
+the letter beside	1
+the same	2
+the same one;	1
+the same markings	1
+the Potters'	1
+the Potters' son,	1
+the boy	2
+the boy getting	1
+the boy who	1
+the bakery.	1
+the bakery. </s>	1
+the cat,	1
+the cat, which	1
+the driveway	1
+the driveway of	1
+the right	1
+the right place,"	1
+the light.	1
+the light. </s>	1
+the cat.	2
+the cat. </s>	2
+the Potters.	2
+the Potters. </s>	2
+the road,	2
+the road, he	1
+the road, hurried	1
+the place?	1
+the place? </s>	1
+the bedroom	1
+the bedroom window	1
+the way	1
+the way up	1
+the Potters?	1
+the Potters? </s>	1
+the little	1
+the little bundle;	1
+the living	2
+the living room	2
+the name	2
+the name "Potter."	1
+the name of	1
+the bathroom,	1
+the bathroom, Mr.	1
+the usual	2
+the usual amount	1
+the usual morning	1
+the same,	1
+the same, those	1
+the sign	1
+the sign that	1
+the air,	1
+the air, and	1
+the celebrations."	1
+the celebrations." </s>	1
+the neat	1
+the neat hedges	1
+the cat	8
+the cat out	1
+the cat on	1
+the cat had	2
+the cat seemed	1
+the cat watching	1
+the cat moved	1
+the cat in	1
+the door.	1
+the door. </s>	1
+the very	2
+the very day	1
+the very last	1
+the next	3
+the next street,	1
+the next lamp	1
+the next few	1
+the middle	1
+the middle and	1
+the size	1
+the size of	1
+the wall.	1
+the wall. </s>	1
+the old	1
+the old man	1
+the tabby	1
+the tabby cat	1
+the way?"	1
+the way?" </s>	1
+the shape	1
+the shape of	1
+the wall	2
+the wall outside	1
+the wall next	1
+the moment	1
+the moment for	1
+the receiver	1
+the receiver back	1
+the baker's.	1
+the baker's. </s>	1
+the far	1
+the far corner	1
+the dull,	1
+the dull, gray	1
+the walls.	1
+the walls. </s>	1
+the neighbors	1
+the neighbors would	1
+the twinkling	1
+the twinkling light	1
+the sight	1
+the sight of	1
+the street	4
+the street that	1
+the street did;	1
+the street toward	1
+the street for	1
+the last	2
+the last people	1
+the last report	1
+the weather.	1
+the weather. </s>	1
+the sign;	1
+the sign; cats	1
+Dursleys	5
+Dursleys had	2
+Dursleys had a	1
+Dursleys had everything	1
+Dursleys shuddered	1
+Dursleys shuddered to	1
+Dursleys knew	1
+Dursleys knew that	1
+Dursleys got	1
+Dursleys got into	1
+today	2
+today ..."	1
+today ..." </s>	1
+today was	1
+today was known	1
+lot	3
+lot of	2
+lot of strangely	1
+lot of funny-looking	1
+lot harder	1
+lot harder to	1
+there?"	1
+there?" </s>	1
+spoke	1
+spoke to	1
+spoke to it.	1
+arm	1
+arm as	1
+arm as Dumbledore	1
+sinking	1
+sinking horribly.	1
+sinking horribly. </s>	1
+other	3
+other end	2
+other end of	2
+other two.	1
+other two. </s>	1
+"It	3
+"It certainly	1
+"It certainly seems	1
+"It all	1
+"It all gets	1
+"It would	1
+"It would be	1
+passed.	1
+passed. </s>	1
+lids,	1
+lids, and	1
+lids, and his	1
+At	1
+At half	1
+At half past	1
+improve	1
+improve his	1
+improve his mood	1
+gazed	1
+gazed open-mouthed	1
+gazed open-mouthed as	1
+drummed	1
+drummed his	1
+drummed his fingers	1
+child	2
+child like	1
+child like that.	1
+child in	1
+child in our	1
+answer.	1
+answer. </s>	1
+Well,	1
+Well, they're	1
+Well, they're not	1
+disappeared?	1
+disappeared? </s>	1
+"What's	1
+"What's his	1
+"What's his name	1
+your	1
+your sister	1
+your sister lately,	1
+unsticking	1
+unsticking two	1
+unsticking two lemon	1
+throat	1
+throat nervously.	1
+throat nervously. </s>	1
+thin	1
+thin and	1
+thin and blonde	1
+Voldemort,	1
+Voldemort, was	1
+Voldemort, was frightened	1
+shook,	1
+shook, Professor	1
+shook, Professor McGonagall	1
+road	2
+road to	1
+road to buy	1
+road in	1
+road in front	1
+secretary	1
+secretary not	1
+secretary not to	1
+orange	1
+orange and	1
+orange and he	1
+me,"	1
+me," said	1
+me," said Dumbledore	1
+excitedly	1
+excitedly together.	1
+excitedly together. </s>	1
+know."	1
+know." </s>	1
+howl	1
+howl like	1
+howl like a	1
+Dursleys'	2
+Dursleys' dark	1
+Dursleys' dark living-room	1
+Dursleys' house.	1
+Dursleys' house. </s>	1
+garden	3
+garden fences,	1
+garden fences, spying	1
+garden wall.	1
+garden wall. </s>	1
+garden wall	1
+garden wall and	1
+find	2
+find the	1
+find the Potters.	1
+find two	1
+find two people	1
+steering	1
+steering wheel	1
+steering wheel and	1
+cloak.	1
+cloak. </s>	1
+boy.	2
+boy. </s>	2
+normally	2
+normally hunt	1
+normally hunt at	1
+normally pretended	1
+normally pretended she	1
+Wiping	1
+Wiping his	1
+Wiping his streaming	1
+Most	1
+Most of	1
+Most of them	1
+daughter	1
+daughter and	1
+daughter and how	1
+yes,"	1
+yes," said	1
+yes," said Mr.	1
+tie	1
+tie for	1
+tie for work,	1
+Everyone	1
+Everyone knows	1
+Everyone knows you're	1
+town,	1
+town, drills	1
+town, drills were	1
+low	2
+low rumbling	1
+low rumbling sound	1
+low garden	1
+low garden wall	1
+they're	4
+they're not	1
+they're not completely	1
+they're saying,"	1
+they're saying," she	1
+they're -	1
+they're - dead."	1
+they're saying	1
+they're saying that	1
+spot.	1
+spot. </s>	1
+ask	1
+ask me."	1
+ask me." </s>	1
+sister,	2
+sister, but	1
+sister, but they	1
+sister, because	1
+sister, because her	1
+place	2
+place for	1
+place for him,"	1
+place you	1
+place you would	1
+"My	2
+"My dear	2
+"My dear Professor,	2
+patting	1
+patting Hagrid	1
+patting Hagrid gingerly	1
+life;	1
+life; with	1
+life; with a	1
+He	49
+He cleared	1
+He cleared his	1
+He got	1
+He got into	1
+He clicked	2
+He clicked it	2
+He put	1
+He put the	1
+He had	1
+He had been	1
+He never	1
+He never had	1
+He went	1
+He went to	1
+He bent	1
+He bent his	1
+He yelled	1
+He yelled at	1
+He eyed	1
+He eyed them	1
+He decided	1
+He decided he	1
+He found	2
+He found it	1
+He found what	1
+He chuckled	1
+He chuckled and	1
+He made	1
+He made several	1
+He couldn't	3
+He couldn't see	1
+He couldn't kill	1
+He couldn't know	1
+He hurried	1
+He hurried to	1
+He fell	1
+He fell asleep	1
+He drummed	1
+He drummed his	1
+He could	1
+He could just	1
+He supposed	1
+He supposed this	1
+He turned	2
+He turned to	1
+He turned on	1
+He was	10
+He was in	1
+He was sure	2
+He was a	1
+He was busy	1
+He was still	1
+He was almost	1
+He was rattled.	1
+He was tall,	1
+He was wearing	1
+He dashed	1
+He dashed back	1
+He didn't	6
+He didn't see	1
+He didn't say	1
+He didn't look	1
+He didn't seem	1
+He didn't know	1
+He didn't blame	1
+He looked	2
+He looked back	1
+He looked simply	1
+He flicked	1
+He flicked it	1
+He also	1
+He also thought	1
+He laid	1
+He laid Harry	1
+He does	1
+He does tend	1
+instead	1
+instead of	1
+instead of the	1
+going	5
+going on	1
+going on -	1
+going on.	1
+going on. </s>	1
+going to	3
+going to tell	2
+going to believe	1
+emerald	1
+emerald one.	1
+emerald one. </s>	1
+cloak	3
+cloak that	1
+cloak that swept	1
+cloak and	1
+cloak and set	1
+cloak suddenly	1
+cloak suddenly as	1
+anxious	1
+anxious to	1
+anxious to discuss,	1
+While	1
+While Mrs.	1
+While Mrs. Dursley	1
+exasperated,	1
+exasperated, half	1
+exasperated, half admiring.	1
+"Yeah,"	1
+"Yeah," said	1
+"Yeah," said Hagrid	1
+"Even	1
+"Even if	1
+"Even if I	1
+unwelcome.	1
+unwelcome. </s>	1
+today!	1
+today! </s>	1
+this	13
+this over	1
+this over with."	1
+this normal	1
+this normal cat	1
+this son	1
+this son -	1
+this bike	1
+this bike away.	1
+this man	1
+this man had	1
+this was	3
+this was some	1
+this was probably	1
+this was the	1
+this happy,	1
+this happy, happy	1
+this very	1
+this very moment,	1
+this ‘You-Know-Who'	1
+this ‘You-Know-Who' nonsense	1
+this in	1
+this in a	1
+this have	1
+this have anything	1
+Yorkshire,	1
+Yorkshire, and	1
+Yorkshire, and Dundee	1
+should	2
+should be	1
+should be celebrating,	1
+should have	1
+should have known."	1
+roar	2
+roar as	1
+roar as they	1
+roar it	1
+roar it rose	1
+seriously	1
+seriously over	1
+seriously over the	1
+passed	2
+passed a	2
+passed a group	1
+passed a dozen	1
+me."	1
+me." </s>	1
+expected,	1
+expected, Mrs.	1
+expected, Mrs. Dursley	1
+landed	1
+landed on	1
+landed on the	1
+huge	1
+huge motorcycle	1
+huge motorcycle fell	1
+Grunnings	1
+Grunnings parking	1
+Grunnings parking lot,	1
+gently	1
+gently on	1
+gently on the	1
+fine	1
+fine thing	1
+fine thing it	1
+stiffly.	1
+stiffly. </s>	1
+cloaks	3
+cloaks until	1
+cloaks until he	1
+cloaks ...	1
+cloaks ... </s>	1
+cloaks all	1
+cloaks all over	1
+boy?	1
+boy? </s>	1
+noticing	1
+noticing that	1
+noticing that there	1
+about.	1
+about. </s>	1
+Mrs.	21
+Mrs. Dursley.	2
+Mrs. Dursley. </s>	2
+Mrs. Dursley,	2
+Mrs. Dursley, of	1
+Mrs. Dursley, they	1
+Mrs. Potter	1
+Mrs. Potter was	1
+Mrs. Dursley's	2
+Mrs. Dursley's sister,	1
+Mrs. Dursley's scream	1
+Mrs. Dursley	12
+Mrs. Dursley had	1
+Mrs. Dursley on	1
+Mrs. Dursley pretended	1
+Mrs. Dursley woke	1
+Mrs. Dursley fell	1
+Mrs. Dursley stiffly.	1
+Mrs. Dursley came	1
+Mrs. Dursley was	2
+Mrs. Dursley sipped	1
+Mrs. Dursley looked	1
+Mrs. Dursley gossiped	1
+Mrs. Dursley;	1
+Mrs. Dursley; she	1
+Mrs. Next	1
+Mrs. Next Door's	1
+director	1
+director of	1
+director of a	1
+you'd	3
+you'd expect	1
+you'd expect to	1
+you'd have	1
+you'd have thought	1
+you'd been	1
+you'd been sitting	1
+too	2
+too -	1
+too - well	1
+too big	1
+too big to	1
+G'night,	1
+G'night, Professor	1
+G'night, Professor McGonagall	1
+trash	1
+trash can	1
+trash can lids,	1
+man	9
+man had	2
+man had to	1
+man had ever	1
+man hugged	1
+man hugged Mr.	1
+man with	1
+man with hardly	1
+man and	1
+man and at	1
+man sitting	1
+man sitting astride	1
+man stumbled	1
+man stumbled and	1
+man was	1
+man was wearing	1
+man appeared	1
+man appeared on	1
+they've	2
+they've had	1
+they've had a	1
+they've got	1
+they've got this	1
+stand	1
+stand it	1
+stand it -	1
+be,	1
+be, growing	1
+be, growing up	1
+sister.	2
+sister. </s>	2
+plain	1
+plain that	1
+plain that whatever	1
+"No	1
+"No problems,	1
+"No problems, were	1
+people!	1
+people! </s>	1
+light	2
+light that	1
+light that usually	1
+light sped	1
+light sped back	1
+If	4
+If he	1
+If he hadn't,	1
+If it	1
+If it did	1
+If anyone	1
+If anyone looked	1
+If the	1
+If the motorcycle	1
+judging	1
+judging by	1
+judging by the	1
+gone,	1
+gone, Dumbledore?"	1
+gone, Dumbledore?" </s>	1
+enraged	1
+enraged to	1
+enraged to see	1
+close	1
+close by.	1
+close by. </s>	1
+approve	1
+approve of	1
+approve of imagination.	1
+Would	1
+Would you	1
+Would you care	1
+handkerchief	2
+handkerchief and	2
+handkerchief and dabbed	1
+handkerchief and burying	1
+"that's	1
+"that's that.	1
+"that's that. </s>	1
+"Good	1
+"Good luck,	1
+"Good luck, Harry,"	1
+whispered,	1
+whispered, patting	1
+whispered, patting Hagrid	1
+today.	2
+today. </s>	2
+tidy	1
+tidy under	1
+tidy under the	1
+astounding	1
+astounding ...	1
+astounding ... of	1
+sight.	1
+sight. </s>	1
+room	2
+room in	1
+room in time	1
+room carrying	1
+room carrying two	1
+shoulder.	1
+shoulder. </s>	1
+patted	1
+patted her	1
+patted her on	1
+me?"	1
+me?" she	1
+me?" she asked.	1
+flickered	1
+flickered into	1
+flickered into darkness.	1
+large,	2
+large, tawny	1
+large, tawny owl	1
+large, spotted	1
+large, spotted handkerchief	1
+hunt	1
+hunt at	1
+hunt at night	1
+Muggles!"	1
+Muggles!" </s>	1
+getups	1
+getups you	1
+getups you saw	1
+firm	1
+firm called	1
+firm called Grunnings,	1
+straight	1
+straight into	1
+straight into someone	1
+closed	1
+closed on	1
+closed on the	1
+bun.	1
+bun. </s>	1
+numbers;	1
+numbers; instead,	1
+numbers; instead, little	1
+across	2
+across the	2
+across the road	1
+across the road,	1
+Next	1
+Next Door's	1
+Next Door's problems	1
+discover	1
+discover it.	1
+discover it. </s>	1
+you,"	1
+you," said	1
+you," said Professor	1
+top	1
+top of	1
+top of his	1
+Godric's	1
+Godric's Hollow.	1
+Godric's Hollow. </s>	1
+trick	1
+trick of	1
+trick of the	1
+map	2
+map in	1
+map in sight.	1
+map of	1
+map of the	1
+things,	1
+things, which	1
+things, which he	1
+stare	1
+stare as	1
+stare as she	1
+be.	1
+be. </s>	1
+sitting	5
+sitting on	2
+sitting on his	1
+sitting on a	1
+sitting as	1
+sitting as still	1
+sitting back	1
+sitting back down	1
+sitting astride	1
+sitting astride it.	1
+point	2
+point in	1
+point in worrying	1
+point she	1
+point she was	1
+"Oh	1
+"Oh yes,	1
+"Oh yes, everyone's	1
+people.	1
+people. </s>	1
+liked	1
+liked my	1
+liked my new	1
+In	2
+In fact,	1
+In fact, it	1
+In his	1
+In his vast,	1
+jumping	1
+jumping to	1
+jumping to her	1
+gone.	2
+gone. </s>	2
+evening	1
+evening news:	1
+evening news: </s>	1
+cold,	1
+cold, hard	1
+cold, hard wall	1
+around.	2
+around. </s>	2
+about	11
+about Harry	1
+about Harry -	1
+about us	1
+about us all.	1
+about Dudley's	1
+about Dudley's age	1
+about them	1
+about them and	1
+about the	4
+about the Potters.	1
+about the cloudy	1
+about the people	1
+about the Potters	1
+about Mrs.	1
+about Mrs. Next	1
+about it,	1
+about it, Dumbledore?"	1
+about that,	1
+about that, but	1
+high-heeled,	1
+high-heeled, buckled	1
+high-heeled, buckled boots.	1
+"you'll	1
+"you'll wake	1
+"you'll wake the	1
+"I've	1
+"I've come	1
+"I've come to	1
+whisperers	1
+whisperers as	1
+whisperers as if	1
+toward	3
+toward town	1
+toward town he	1
+toward number	1
+toward number four,	1
+toward the	1
+toward the Dursleys'	1
+time	3
+time craning	1
+time craning over	1
+time to	1
+time to catch	1
+time by	1
+time by Mrs.	1
+beady-eyed	1
+beady-eyed Mrs.	1
+beady-eyed Mrs. Dursley,	1
+signs.	1
+signs. </s>	1
+rose	1
+rose into	1
+rose into the	1
+shoulders	1
+shoulders shook,	1
+shoulders shook, Professor	1
+pecked	1
+pecked Mrs.	1
+pecked Mrs. Dursley	1
+mean	2
+mean -	1
+mean - you	1
+mean the	1
+mean the people	1
+flinched,	1
+flinched, but	1
+flinched, but Dumbledore,	1
+later,	1
+later, Mr.	1
+later, Mr. Dursley	1
+inky	1
+inky sky,	1
+inky sky, the	1
+Professor	28
+Professor McGonagall's	1
+Professor McGonagall's voice	1
+Professor McGonagall."	1
+Professor McGonagall." </s>	1
+Professor McGonagall	16
+Professor McGonagall had	1
+Professor McGonagall coldly,	1
+Professor McGonagall -	1
+Professor McGonagall bent	1
+Professor McGonagall blew	1
+Professor McGonagall opened	1
+Professor McGonagall whispered,	1
+Professor McGonagall flinched,	1
+Professor McGonagall sniffed	1
+Professor McGonagall faintly,	1
+Professor McGonagall shot	1
+Professor McGonagall blinked	1
+Professor McGonagall pulled	1
+Professor McGonagall grudgingly,	1
+Professor McGonagall gasped.	1
+Professor McGonagall irritably.	1
+Professor McGonagall,"	1
+Professor McGonagall," said	1
+Professor McGonagall.	4
+Professor McGonagall. </s>	4
+Professor McGonagall,	3
+Professor McGonagall, sounding	1
+Professor McGonagall, jumping	1
+Professor McGonagall, "you'll	1
+Professor Dumbledore,	2
+Professor Dumbledore, sir,"	1
+Professor Dumbledore, sir."	1
+giant,	1
+giant, climbing	1
+giant, climbing carefully	1
+five	3
+five different	1
+five different people.	1
+five o'clock,	1
+five o'clock, he	1
+five times	1
+five times as	1
+stumbled	1
+stumbled and	1
+stumbled and almost	1
+cloudy	1
+cloudy sky	1
+cloudy sky outside	1
+busy	1
+busy rummaging	1
+busy rummaging in	1
+o'clock,	1
+o'clock, he	1
+o'clock, he was	1
+acting	1
+acting oddly	1
+acting oddly today.	1
+None	1
+None of	1
+None of them	1
+discuss,	1
+discuss, the	1
+discuss, the real	1
+you?"	1
+you?" </s>	1
+two	5
+two owls	1
+two owls swooped	1
+two lemon	1
+two lemon drops,	1
+two tiny	1
+two tiny pinpricks	1
+two cups	1
+two cups of	1
+two people	1
+two people who	1
+Hagrid's	1
+Hagrid's shoulders	1
+Hagrid's shoulders shook,	1
+tried	3
+tried to	3
+tried to kiss	1
+tried to act	1
+tried to kill	1
+may	2
+may never	1
+may never know."	1
+may as	1
+may as well	1
+things?	1
+things? </s>	1
+stars	3
+stars all	1
+stars all over	1
+stars ...	1
+stars ... and	1
+stars down	1
+stars down in	1
+bet	1
+bet that	1
+bet that was	1
+slammed	1
+slammed on	1
+slammed on the	1
+power	1
+power somehow	1
+power somehow broke	1
+"To	1
+"To Harry	1
+"To Harry Potter	1
+perfect	1
+perfect map	1
+perfect map of	1
+lips.	1
+lips. </s>	1
+It	21
+It had	1
+It had twelve	1
+It grew	1
+It grew steadily	1
+It seemed	2
+It seemed to	1
+It seemed that	1
+It just	1
+It just gave	1
+It might	1
+It might have	1
+It didn't	1
+It didn't so	1
+It was	11
+It was on	3
+It was a	2
+It was no	1
+It was sitting	1
+It was plain	1
+It was now	2
+It was staring	1
+It must	2
+It must have	2
+It stared	1
+It stared back.	1
+keeping	1
+keeping the	1
+keeping the Potters	1
+good.	1
+good. </s>	1
+exactly	1
+exactly the	1
+exactly the shape	1
+could	10
+could get	1
+could get mixed	1
+could bear	2
+could bear it	1
+could bear it.	1
+could see	1
+could see a	1
+could I	1
+could I say	1
+could make	1
+could make out	1
+could just	1
+could just see	1
+could upset	1
+could upset me	1
+could he	1
+could he have	1
+could have	1
+could have been	1
+arrived	3
+arrived in	3
+arrived in the	2
+arrived in a	1
+above	1
+above my	1
+above my left	1
+imagination.	1
+imagination. </s>	1
+Bonfire	1
+Bonfire Night	1
+Bonfire Night early	1
+"It's	3
+"It's lucky	1
+"It's lucky its	1
+"It's -	1
+"It's - it's	1
+"It's the	1
+"It's the best	1
+whispering	2
+whispering excitedly	1
+whispering excitedly together.	1
+whispering excitedly,	1
+whispering excitedly, too,	1
+true?"	1
+true?" faltered	1
+true?" faltered Professor	1
+tin.	1
+tin. </s>	1
+briefcase,	1
+briefcase, pecked	1
+briefcase, pecked Mrs.	1
+silent	1
+silent and	1
+silent and tidy	1
+sad,	1
+sad, but	1
+sad, but get	1
+shuddered	1
+shuddered to	1
+shuddered to think	1
+peered	1
+peered down	1
+peered down into	1
+milk	1
+milk bottles,	1
+milk bottles, nor	1
+forever."	1
+forever." </s>	1
+legend	1
+legend -	1
+legend - I	1
+into	17
+into bed.	1
+into bed. </s>	1
+into his	3
+into his high	1
+into his car	1
+into his belt.	1
+into a	2
+into a wide	1
+into a tight	1
+into darkness.	1
+into darkness. </s>	1
+into the	7
+into the house.	1
+into the front	1
+into the air	1
+into the night.	1
+into the driveway	1
+into the living	2
+into life;	1
+into life; with	1
+into an	1
+into an uneasy	1
+into someone	1
+into someone just	1
+Put-Outer	1
+Put-Outer back	1
+Put-Outer back inside	1
+glance	1
+glance at	1
+glance at Dumbledore	1
+fond	1
+fond of."	1
+fond of." </s>	1
+suddenly	5
+suddenly and	1
+suddenly and silently	1
+suddenly orange	1
+suddenly orange and	1
+suddenly at	1
+suddenly at the	1
+suddenly as	1
+suddenly as though	1
+suddenly changed	1
+suddenly changed their	1
+common	1
+common name,	1
+common name, if	1
+call	2
+call him	2
+call him by	2
+owl-free	1
+owl-free morning.	1
+owl-free morning. </s>	1
+affect	1
+affect them.	1
+affect them. </s>	1
+Owls	1
+Owls flying	1
+Owls flying by	1
+doughnut	1
+doughnut in	1
+doughnut in a	1
+young	2
+young people!	1
+young people! </s>	1
+young at	1
+young at all;	1
+up.	1
+up. </s>	1
+McGuffin	1
+McGuffin with	1
+McGuffin with the	1
+true.	1
+true. </s>	1
+me.	1
+me. </s>	1
+though,	1
+though, because	1
+though, because he	1
+stern	1
+stern look.	1
+stern look. </s>	1
+big	1
+big to	1
+big to be	1
+sleeve,	1
+sleeve, Hagrid	1
+sleeve, Hagrid swung	1
+proud	1
+proud to	1
+proud to say	1
+"We	3
+"We have	1
+"We have much	1
+"We can	1
+"We can only	1
+"We may	1
+"We may never	1
+phoning	1
+phoning in	1
+phoning in to	1
+look.	1
+look. </s>	1
+No	1
+No one	1
+No one knows	1
+kicking	1
+kicking his	1
+kicking his mother	1
+great	1
+great sniff	1
+great sniff as	1
+expect,	1
+expect, Professor	1
+expect, Professor McGonagall,"	1
+crept	1
+crept to	1
+crept to the	1
+asleep.	1
+asleep. </s>	1
+after	2
+after owl	1
+after owl sped	1
+after a	1
+after a moment	1
+impatiently.	1
+impatiently. </s>	1
+Chapter	1
+Chapter 1	1
+Chapter 1 </s>	1
+"Lily	1
+"Lily and	1
+"Lily and James	1
+yesterday,	1
+yesterday, they've	1
+yesterday, they've had	1
+trying	1
+trying to	1
+trying to persuade	1
+tiny	2
+tiny old	1
+tiny old man	1
+tiny pinpricks	1
+tiny pinpricks in	1
+collecting	2
+collecting for	1
+collecting for something	1
+collecting tin.	1
+collecting tin. </s>	1
+silver	3
+silver of	1
+silver of his	1
+silver cigarette	1
+silver cigarette lighter.	1
+silver Put-Outer.	1
+silver Put-Outer. </s>	1
+said	28
+said heavily.	1
+said heavily. </s>	1
+said sharply.	1
+said sharply. </s>	1
+said Hagrid	1
+said Hagrid in	1
+said Dumbledore	4
+said Dumbledore gently.	1
+said Dumbledore calmly.	1
+said Dumbledore firmly.	1
+said Dumbledore finally,	1
+said Privet	1
+said Privet Drive	1
+said the	2
+said the weatherman,	1
+said the giant,	1
+said Mrs.	1
+said Mrs. Dursley	1
+said Professor	6
+said Professor McGonagall.	2
+said Professor McGonagall	3
+said Professor McGonagall,	1
+said impatiently.	1
+said impatiently. </s>	1
+said Dumbledore,	3
+said Dumbledore, looking	1
+said Dumbledore, sounding	1
+said Dumbledore, nodding	1
+said Dumbledore.	4
+said Dumbledore. </s>	4
+said in	1
+said in a	1
+said Mr.	2
+said Mr. Dursley	1
+said Mr. Dursley,	1
+sightings	1
+sightings of	1
+sightings of these	1
+people	17
+people he's	1
+people he's killed	1
+people were	1
+people were obviously	1
+people down	1
+people down in	1
+people called	1
+people called Potter	1
+people to	1
+people to call	1
+people will	1
+people will never	1
+people you'd	1
+people you'd expect	1
+people about.	1
+people about. </s>	1
+people who	3
+people who dressed	1
+people who live	1
+people who are	1
+people meeting	1
+people meeting in	1
+people in	4
+people in cloaks	3
+people in town	1
+people have	1
+people have been	1
+mind	2
+mind by	1
+mind by something	1
+mind back	1
+mind back on	1
+forgotten	1
+forgotten all	1
+forgotten all about	1
+letter	2
+letter out	1
+letter out of	1
+letter beside	1
+letter beside him	1
+it's	3
+it's not	2
+it's not only	1
+it's not until	1
+it's true?"	1
+it's true?" faltered	1
+Voldemort	1
+Voldemort turned	1
+Voldemort turned up	1
+glowed	1
+glowed suddenly	1
+glowed suddenly orange	1
+for.	1
+for. </s>	1
+sunrise.	1
+sunrise. </s>	1
+corner	7
+corner of	3
+corner of the	1
+corner of Privet	2
+corner and	1
+corner and up	1
+corner the	1
+corner the cat	1
+corner at	1
+corner at the	1
+corner he	1
+corner he stopped	1
+came	3
+came in	1
+came in very	1
+came into	1
+came into the	1
+came back	1
+came back to	1
+peculiar	1
+peculiar -	1
+peculiar - a	1
+again.	1
+again. </s>	1
+She,	1
+She, too,	1
+She, too, was	1
+downpour	1
+downpour of	1
+downpour of shooting	1
+"After	1
+"After all	1
+"After all he's	1
+us.	1
+us. </s>	1
+Petunia,	1
+Petunia, dear	1
+Petunia, dear -	1
+trust	2
+trust Hagrid	2
+trust Hagrid with	2
+met	1
+met for	1
+met for several	1
+thought	9
+thought of	1
+thought of nothing	1
+thought he'd	2
+thought he'd stretch	1
+thought he'd just	1
+thought better	1
+thought better of	1
+thought ...	1
+thought ... maybe	1
+thought about	1
+thought about them	1
+thought he	2
+thought he had	1
+thought he might	1
+thought before	1
+thought before he	1
+stiff	1
+stiff if	1
+stiff if you'd	1
+bit	2
+bit more.	1
+bit more. </s>	1
+bit more	1
+bit more careful,	1
+slipped	1
+slipped the	1
+slipped the Put-Outer	1
+quite	2
+quite close	1
+quite close by.	1
+quite agree."	1
+quite agree." </s>	1
+"is	1
+"is that	1
+"is that last	1
+pinched	1
+pinched by	1
+pinched by his	1
+luck,	1
+luck, Harry,"	1
+luck, Harry," he	1
+On	2
+On the	2
+On the contrary,	1
+On the corner	1
+knocked	1
+knocked to	1
+knocked to the	1
+grin.	1
+grin. </s>	1
+explain	3
+explain why	1
+explain why the	1
+explain everything	1
+explain everything to	1
+explain all	1
+explain all this	1
+cried	1
+cried Professor	1
+cried Professor McGonagall,	1
+astride	1
+astride it.	1
+astride it. </s>	1
+again	1
+again -	1
+again - the	1
+motorcycle?"	1
+motorcycle?" </s>	1
+Dedalus	1
+Dedalus Diggle.	1
+Dedalus Diggle. </s>	1
+"Most	1
+"Most mysterious.	1
+"Most mysterious. </s>	1
+"Dumbledore	1
+"Dumbledore -	1
+"Dumbledore - you	1
+tucked	1
+tucked it	1
+tucked it inside	1
+told	4
+told him	1
+told him over	1
+told me	1
+told me she	1
+told her	1
+told her it	1
+told you	1
+told you I'd	1
+comforting	1
+comforting thought	1
+comforting thought before	1
+simply	1
+simply too	1
+simply too big	1
+same	2
+same one;	1
+same one; it	1
+same markings	1
+same markings around	1
+something	9
+something else.	1
+something else. </s>	1
+something to	3
+something to them,	1
+something to her.	1
+something to do	1
+something about	1
+something about it,	1
+something peculiar	1
+something peculiar -	1
+something ...	1
+something ... yes,	1
+something he	1
+something he won't	1
+something as	1
+something as important	1
+person	1
+person like	1
+person like yourself	1
+mood	2
+mood until	1
+mood until lunchtime,	1
+mood -	1
+mood - was	1
+half-moon	2
+half-moon spectacles	1
+half-moon spectacles and	1
+half-moon glasses.	1
+half-moon glasses. </s>	1
+life,"	1
+life," said	1
+life," said Dumbledore.	1
+it?"	2
+it?" </s>	2
+You-Know-	1
+You-Know- oh,	1
+You-Know- oh, all	1
+golden	1
+golden watch	1
+golden watch from	1
+from	7
+from his	2
+from his name	1
+from his pocket	1
+from all	1
+from all that	1
+from the	2
+from the bakery.	1
+from the other	1
+from your	1
+from your sister	1
+from Dumbledore's	1
+from Dumbledore's eyes	1
+supposed	1
+supposed this	1
+supposed this was	1
+could,	2
+could, "Their	1
+could, "Their son	1
+could, I	1
+could, I wouldn't.	1
+care	1
+care for	1
+care for a	1
+persuade	1
+persuade people	1
+persuade people to	1
+again?	1
+again? </s>	1
+They	4
+They were	3
+They were the	1
+They were whispering	1
+They were bound	1
+They didn't	1
+They didn't think	1
+drifting	1
+drifting into	1
+drifting into an	1
+"Could	1
+"Could I	1
+"Could I -	1
+use	1
+use them."	1
+use them." </s>	1
+Potters'	1
+Potters' son,	1
+Potters' son, Harry.	1
+twice	2
+twice the	1
+twice the usual	1
+twice as	1
+twice as tall	1
+new	3
+new fashion.	1
+new fashion. </s>	1
+new word	1
+new word ("Won't!").	1
+new earmuffs."	1
+new earmuffs." </s>	1
+through	1
+through pursed	1
+through pursed lips.	1
+still	5
+still so	1
+still so worried	1
+still there.	1
+still there. </s>	1
+still determined	1
+still determined not	1
+still as	1
+still as a	1
+still staring	1
+still staring at	1
+boy	4
+boy anywhere.	1
+boy anywhere. </s>	1
+boy was	1
+boy was another	1
+boy getting	1
+boy getting here,	1
+boy who	1
+boy who lived!"	1
+smiling	1
+smiling at	1
+smiling at a	1
+ready	1
+ready to	1
+ready to take	1
+...	25
+... Oh,	1
+... Oh, Albus	1
+... </s>	3
+... of	1
+... of all	1
+... her	1
+... her crowd."	1
+... shooting	2
+... shooting stars	1
+... shooting stars.	1
+... I	3
+... I can't	1
+... I didn't	1
+... I know	1
+... all	1
+... all the	1
+... and	1
+... and there	1
+... yes,	1
+... yes, that	1
+... Well,	1
+... Well, they're	1
+... He	2
+... He couldn't	2
+... no,	1
+... no, he	1
+... but	2
+... but all	1
+... but how	1
+... maybe	1
+... maybe ...	1
+... you	1
+... you know	1
+... he	1
+... he couldn't	1
+... if	1
+... if it	1
+... it	1
+... it was	1
+place,"	1
+place," said	1
+place," said Professor	1
+lucky	1
+lucky its	1
+lucky its dark.	1
+Or	1
+Or Harold.	1
+Or Harold. </s>	1
+knowing	3
+knowing he	3
+knowing he was	2
+knowing he would	1
+group	1
+group of	1
+group of them	1
+famous,	1
+famous, not	1
+famous, not knowing	1
+dare.	1
+dare. </s>	1
+bakery.	1
+bakery. </s>	1
+amuse	1
+amuse him.	1
+amuse him. </s>	1
+open-mouthed	1
+open-mouthed as	1
+open-mouthed as owl	1
+Diggle.	1
+Diggle. </s>	1
+"No,"	1
+"No," she	1
+"No," she said	1
+("Won't!").	1
+("Won't!"). </s>	1
+turned	6
+turned on	1
+turned on his	1
+turned over	1
+turned over -	1
+turned to	1
+turned to smile	1
+turned up	1
+turned up in	1
+turned toward	1
+turned toward the	1
+turned and	1
+turned and walked	1
+too,	3
+too, but	1
+too, but they	1
+too, and	1
+too, and he	1
+too, was	1
+too, was wearing	1
+completely	1
+completely stupid.	1
+completely stupid. </s>	1
+single	1
+single collecting	1
+single collecting tin.	1
+say,	1
+say, even	1
+say, even if	1
+sparkling	1
+sparkling behind	1
+sparkling behind half-moon	1
+picked	2
+picked out	1
+picked out his	1
+picked up	1
+picked up his	1
+more	2
+more showers	1
+more showers of	1
+more careful,	1
+more careful, but	1
+happening	2
+happening all	1
+happening all over	1
+happening down	1
+happening down on	1
+light,	1
+light, bright,	1
+light, bright, and	1
+jam,	1
+jam, he	1
+jam, he couldn't	1
+admiring.	1
+admiring. </s>	1
+gone."	1
+gone." </s>	1
+full	1
+full minute	1
+full minute the	1
+swapping	1
+swapping rumors."	1
+swapping rumors." </s>	1
+couple	1
+couple of	1
+couple of them	1
+cat,	1
+cat, which	1
+cat, which was	1
+piercing	1
+piercing stare	1
+piercing stare as	1
+almost	5
+almost fell.	1
+almost fell. </s>	1
+almost knocked	1
+almost knocked to	1
+almost twice	1
+almost twice as	1
+almost finished	1
+almost finished dialing	1
+almost destroyed,	1
+almost destroyed, but	1
+This	3
+This boy	1
+This boy was	1
+This bunch	1
+This bunch were	1
+This man's	1
+This man's name	1
+driveway	1
+driveway of	1
+driveway of number	1
+"Don't	1
+"Don't be	1
+"Don't be sorry,	1
+was	84
+was huge,	1
+was huge, it	1
+was no	4
+was no finer	1
+was no point	1
+was no good.	1
+was no reason	1
+was saying,	1
+was saying, she	1
+was sure	2
+was sure there	1
+was sure it	1
+was hoping	1
+was hoping to	1
+was on	3
+was on the	1
+was on his	1
+was on their	1
+was nearly	1
+was nearly midnight	1
+was known	1
+was known as	1
+was choosing	1
+was choosing another	1
+was nothing	2
+was nothing about	1
+was nothing to	1
+was that?"	1
+was that?" </s>	1
+was called	1
+was called Harry.	1
+was a	5
+was a very	1
+was a big,	1
+was a baby	1
+was a tabby	1
+was a few	1
+was flyin'	1
+was flyin' over	1
+was that	2
+was that somebody	1
+was that even	1
+was holding	1
+was holding a	1
+was special,	1
+was special, not	1
+was showing	1
+was showing no	1
+was another	1
+was another good	1
+was the	4
+was the director	1
+was the tabby	1
+was the same	1
+was the moment	1
+was thin	1
+was thin and	1
+was unsticking	1
+was unsticking two	1
+was going	1
+was going to	1
+was unwelcome.	1
+was unwelcome. </s>	1
+was Mrs.	1
+was Mrs. Dursley's	1
+was enraged	1
+was enraged to	1
+was me?"	1
+was me?" she	1
+was plain	1
+was plain that	1
+was sitting	1
+was sitting as	1
+was gone.	1
+was gone. </s>	1
+was busy	1
+was busy rummaging	1
+was true.	1
+was true. </s>	1
+was something	1
+was something to	1
+was Dedalus	1
+was Dedalus Diggle.	1
+was still	4
+was still so	1
+was still determined	1
+was still there.	1
+was still staring	1
+was smiling	1
+was smiling at	1
+was happening	1
+was happening down	1
+was almost	2
+was almost twice	1
+was almost destroyed,	1
+was famous,	1
+was famous, not	1
+was most	1
+was most anxious	1
+was not	1
+was not going	1
+was imagining	1
+was imagining things,	1
+was possible	1
+was possible to	1
+was now	3
+was now having	1
+was now reading	1
+was now sitting	1
+was probably	1
+was probably some	1
+was staring	1
+was staring down	1
+was very	1
+was very long	1
+was looking	1
+was looking for	1
+was Albus	1
+was Albus Dumbledore.	1
+was rattled.	1
+was rattled. </s>	1
+was being	2
+was being stupid.	1
+was being watched,	1
+was drawn	1
+was drawn into	1
+was wearing	4
+was wearing a	2
+was wearing long	1
+was wearing square	1
+was he	1
+was he who	1
+was some	1
+was some stupid	1
+was frightened	1
+was frightened of."	1
+was tall,	1
+was tall, thin,	1
+was in	2
+was in a	1
+was in the	1
+Potters,	1
+Potters, that's	1
+Potters, that's right,	1
+uncle	1
+uncle will	1
+uncle will be	1
+no,	2
+no, looking	1
+no, looking at	1
+no, he	1
+no, he was	1
+traffic	2
+traffic jam,	1
+traffic jam, he	1
+traffic moved	1
+traffic moved on	1
+stood	2
+stood rooted	1
+stood rooted to	1
+stood and	1
+stood and looked	1
+bun	1
+bun from	1
+bun from the	1
+snapped	2
+snapped at	1
+snapped at his	1
+snapped Mrs.	1
+snapped Mrs. Dursley.	1
+right	2
+right place,"	1
+right place," said	1
+right before	1
+right before the	1
+All	1
+All this	1
+All this ‘You-Know-Who'	1
+planets	1
+planets were	1
+planets were moving	1
+man's	1
+man's name	1
+man's name was	1
+We	1
+We may	1
+We may as	1
+known."	1
+known." </s>	1
+hands	2
+hands but	1
+hands but no	1
+hands the	1
+hands the size	1
+fences,	1
+fences, spying	1
+fences, spying on	1
+dared	1
+dared tell	1
+dared tell her	1
+because	7
+because her	1
+because her sister	1
+because Dudley	1
+because Dudley was	1
+because you're	1
+because you're too	1
+because they	1
+because they just	1
+because he	3
+because he didn't	1
+because he looked	1
+because he put	1
+apart	1
+apart as	1
+apart as Kent,	1
+unDursleyish	1
+unDursleyish as	1
+unDursleyish as it	1
+Dudley.	1
+Dudley. </s>	1
+"Only	1
+"Only because	1
+"Only because you're	1
+Dumbledore,	9
+Dumbledore, however,	1
+Dumbledore, however, was	1
+Dumbledore, sir,"	1
+Dumbledore, sir," said	1
+Dumbledore, sir."	1
+Dumbledore, sir." </s>	1
+Dumbledore, nodding	1
+Dumbledore, nodding to	1
+Dumbledore, sounding	1
+Dumbledore, sounding relieved.	1
+Dumbledore, though,	1
+Dumbledore, though, because	1
+Dumbledore, who	1
+Dumbledore, who was	1
+Dumbledore, you	1
+Dumbledore, you think	1
+Dumbledore, looking	1
+Dumbledore, looking very	1
+twelve	2
+twelve hands	1
+twelve hands but	1
+twelve balls	1
+twelve balls of	1
+took	4
+took a	2
+took a golden	1
+took a letter	1
+took Harry	1
+took Harry in	1
+took out	1
+took out the	1
+destroyed,	1
+destroyed, but	1
+destroyed, but I	1
+sipped	1
+sipped her	1
+sipped her tea	1
+scar	1
+scar forever."	1
+scar forever." </s>	1
+stiffly."	1
+stiffly." </s>	1
+place?	1
+place? </s>	1
+most	3
+most boring	1
+most boring tie	1
+most anxious	1
+most anxious to	1
+most of	1
+most of his	1
+haven't,"	1
+haven't," said	1
+haven't," said Professor	1
+light.	1
+light. </s>	1
+join	1
+join the	1
+join the celebrations."	1
+afternoon	1
+afternoon and	1
+afternoon and when	1
+great,	1
+great, shaggy	1
+great, shaggy head	1
+gave	4
+gave himself	1
+gave himself a	1
+gave him	2
+gave him a	1
+gave him what	1
+gave a	1
+gave a great	1
+swarmin'	1
+swarmin' around.	1
+swarmin' around. </s>	1
+cousin	1
+cousin Dudley.	1
+cousin Dudley. </s>	1
+cat.	2
+cat. </s>	2
+places?"	1
+places?" </s>	1
+always	2
+always sat	1
+always sat with	1
+always got	1
+always got so	1
+Well	1
+Well -	1
+Well - give	1
+examined	1
+examined it.	1
+examined it. </s>	1
+"Fancy	1
+"Fancy seeing	1
+"Fancy seeing you	1
+way	3
+way back	1
+way back past	1
+way here."	1
+way here." </s>	1
+way up	1
+way up the	1
+Potters.	2
+Potters. </s>	2
+under	1
+under the	1
+under the inky	1
+nor	3
+nor when	1
+nor when two	1
+nor as	1
+nor as a	1
+nor that	1
+nor that he	1
+turning	1
+turning it	1
+turning it all	1
+story	1
+story starts,	1
+story starts, there	1
+but	21
+but it	1
+but it had	1
+but no	2
+but no -	1
+but no numbers;	1
+but get	1
+but get a	1
+but there	1
+but there wasn't	1
+but how	1
+but how in	1
+but I	1
+but I got	1
+but all	1
+but all the	1
+but they	4
+but they also	1
+but they hadn't	1
+but they had	1
+but they made	1
+but the	1
+but the cat	1
+but they're	1
+but they're saying	1
+but after	1
+but after a	1
+but thought	1
+but thought better	1
+but it's	1
+but it's not	1
+but Dumbledore,	1
+but Dumbledore, who	1
+but he	1
+but he didn't,	1
+but Mr.	1
+but Mr. Dursley	1
+but missed,	1
+but missed, because	1
+sniffed	1
+sniffed angrily.	1
+sniffed angrily. </s>	1
+road,	2
+road, he	1
+road, he watched	1
+road, hurried	1
+road, hurried up	1
+And	5
+And where	1
+And where did	1
+And a	1
+And a whisper,	1
+And the	1
+And the old	1
+And they've	1
+And they've got	1
+And now,	1
+And now, over	1
+pocket.	1
+pocket. </s>	1
+maybe	1
+maybe ...	1
+maybe ... it	1
+an	5
+an owl	1
+an owl even	1
+an emerald	1
+an emerald one.	1
+an emerald-green	1
+an emerald-green cloak!	1
+an unusual	1
+an unusual name.	1
+an uneasy	1
+an uneasy sleep,	1
+lately,	1
+lately, have	1
+lately, have you?"	1
+happy	1
+happy day!"	1
+happy day!" </s>	1
+finally	1
+finally stopped	1
+finally stopped him?"	1
+dark.	1
+dark. </s>	1
+bedroom	1
+bedroom window	1
+bedroom window and	1
+asked	1
+asked Hagrid.	1
+asked Hagrid. </s>	1
+unblinkingly	1
+unblinkingly on	1
+unblinkingly on the	1
+Dursley	38
+Dursley had	1
+Dursley had had	1
+Dursley wondered.	1
+Dursley wondered. </s>	1
+Dursley sat	1
+Dursley sat frozen	1
+Dursley on	1
+Dursley on the	1
+Dursley wondered	1
+Dursley wondered whether	1
+Dursley pretended	1
+Dursley pretended she	1
+Dursley hummed	1
+Dursley hummed as	1
+Dursley that	1
+Dursley that this	1
+Dursley woke	1
+Dursley woke up	1
+Dursley couldn't	1
+Dursley couldn't bear	1
+Dursley mumbled.	1
+Dursley mumbled. </s>	1
+Dursley lay	1
+Dursley lay awake,	1
+Dursley fell	1
+Dursley fell asleep	1
+Dursley stiffly.	1
+Dursley stiffly. </s>	1
+Dursley arrived	1
+Dursley arrived in	1
+Dursley tried	1
+Dursley tried to	1
+Dursley crept	1
+Dursley crept to	1
+Dursley came	1
+Dursley came into	1
+Dursley picked	1
+Dursley picked up	1
+Dursley was	4
+Dursley was the	1
+Dursley was thin	1
+Dursley was enraged	1
+Dursley was in	1
+Dursley gave	1
+Dursley gave himself	1
+Dursley always	1
+Dursley always sat	1
+Dursley stood	1
+Dursley stood rooted	1
+Dursley as	1
+Dursley as he	1
+Dursley sipped	1
+Dursley sipped her	1
+Dursley might	1
+Dursley might have	1
+Dursley didn't	1
+Dursley didn't realize	1
+Dursley blinked	1
+Dursley blinked and	1
+Dursley around	1
+Dursley around the	1
+Dursley looked	1
+Dursley looked shocked	1
+Dursley loudly.	1
+Dursley loudly. </s>	1
+Dursley realized	1
+Dursley realized that	1
+Dursley drove	1
+Dursley drove around	1
+Dursley gossiped	1
+Dursley gossiped away	1
+Dursley stopped	1
+Dursley stopped dead.	1
+"Owls	1
+"Owls ...	1
+"Owls ... shooting	1
+Dumbledore.	5
+Dumbledore. </s>	5
+twice.	1
+twice. </s>	1
+town	2
+town he	1
+town he thought	1
+town today	1
+town today ..."	1
+determined	1
+determined not	1
+determined not to	1
+sister	3
+sister and	1
+sister and her	1
+sister like	1
+sister like that	1
+sister lately,	1
+sister lately, have	1
+seem	3
+seem at	1
+seem at all	1
+seem to	2
+seem to realize	2
+strangely	1
+strangely dressed	1
+strangely dressed people	1
+pocket	2
+pocket and	2
+pocket and examined	1
+pocket and said,	1
+much	6
+much of	1
+much of her	1
+much sense."	1
+much sense." </s>	1
+much to	1
+much to be	1
+much since	1
+much since Madam	1
+much better	1
+much better off	1
+much as	1
+much as quiver	1
+horribly.	1
+horribly. </s>	1
+lights	1
+lights left	1
+lights left on	1
+just	9
+just see	1
+just see the	1
+just outside	1
+just outside the	1
+just astounding	1
+just astounding ...	1
+just arrived	1
+just arrived in	1
+just thought	1
+just thought ...	1
+just gave	1
+just gave him	1
+just popped	1
+just popped out	1
+just didn't	1
+just didn't hold	1
+just visible,	1
+just visible, was	1
+anywhere.	1
+anywhere. </s>	1
+hadn't	1
+hadn't met	1
+hadn't met for	1
+gets	1
+gets so	1
+gets so confusing	1
+swooping	1
+swooping past	1
+swooping past in	1
+dabbed	1
+dabbed at	1
+dabbed at her	1
+cats	1
+cats couldn't	1
+cats couldn't read	1
+pointing	1
+pointing at	1
+pointing at number	1
+amount	1
+amount of	1
+amount of neck,	1
+What	1
+What could	1
+What could he	1
+faintly,	1
+faintly, sitting	1
+faintly, sitting back	1
+"Funny	1
+"Funny stuff	1
+"Funny stuff on	1
+wet	1
+wet night	1
+wet night tonight."	1
+Potters?	1
+Potters? </s>	1
+until	6
+until lunchtime,	1
+until lunchtime, when	1
+until Dumbledore	1
+until Dumbledore told	1
+until he's	1
+until he's ready	1
+until the	1
+until the only	1
+until he	1
+until he passed	1
+until next	1
+until next week,	1
+not	15
+not only	1
+not only the	1
+not even	1
+not even dressed	1
+not to	3
+not to disturb	1
+not to mention	1
+not to notice.	1
+not saying	1
+not saying his	1
+not answer.	1
+not answer. </s>	1
+not going	1
+not going to	1
+not completely	1
+not completely stupid.	1
+not until	1
+not until next	1
+not knowing	3
+not knowing he	3
+not all.	1
+not all. </s>	1
+not careless.	1
+not careless. </s>	1
+uneasy.	1
+uneasy. </s>	1
+stuff	1
+stuff on	1
+stuff on the	1
+buy	1
+buy himself	1
+buy himself a	1
+somehow	1
+somehow broke	1
+somehow broke -	1
+rumor	1
+rumor is	1
+rumor is that	1
+Boy	1
+Boy Who	1
+Boy Who Lived	1
+pointed	1
+pointed and	1
+pointed and gazed	1
+might	5
+might have	3
+might have found	1
+might have been	2
+might be	2
+might be going	1
+might be hiding	1
+as	41
+as owl	1
+as owl after	1
+as Harry	1
+as Harry Potter	1
+as well	1
+as well go	1
+as Kent,	1
+as Kent, Yorkshire,	1
+as wide.	1
+as wide. </s>	1
+as casually	1
+as casually as	1
+as she	5
+as she went	1
+as she wrestled	1
+as she spent	1
+as she opened	1
+as she did	1
+as a	4
+as a statue,	1
+as a cat	1
+as a woman	1
+as a normal	1
+as tall	1
+as tall as	1
+as we	1
+as we was	1
+as Dumbledore	1
+as Dumbledore stepped	1
+as this?"	1
+as this?" </s>	1
+as they	3
+as they went	1
+as they looked	1
+as they both	1
+as the	1
+as the tiny	1
+as though	5
+as though it	2
+as though hoping	1
+as though she	2
+as still	1
+as still as	1
+as unDursleyish	1
+as unDursleyish as	1
+as important	1
+as important as	1
+as he	6
+as he left	1
+as he passed.	1
+as he picked	1
+as he could,	1
+as he took	1
+as he spoke.	1
+as if	1
+as if he	1
+as far	1
+as far apart	1
+as quiver	1
+as quiver when	1
+as it	1
+as it was	1
+learned	1
+learned a	1
+learned a new	1
+he'll	1
+he'll be,	1
+he'll be, growing	1
+fingers	1
+fingers on	1
+fingers on the	1
+day!"	1
+day!" </s>	1
+before,	1
+before, because	1
+before, because he	1
+away.	1
+away. </s>	1
+bird-watchers	1
+bird-watchers everywhere	1
+bird-watchers everywhere have	1
+Experts	1
+Experts are	1
+Experts are unable	1
+"So?"	1
+"So?" snapped	1
+"So?" snapped Mrs.	1
+McGonagall,	3
+McGonagall, sounding	1
+McGonagall, sounding half	1
+McGonagall, jumping	1
+McGonagall, jumping to	1
+McGonagall, "you'll	1
+McGonagall, "you'll wake	1
+tyke,"	1
+tyke," chortled	1
+tyke," chortled Mr.	1
+tuck	1
+tuck into	1
+tuck into his	1
+different.	1
+different. </s>	1
+sleep,	1
+sleep, but	1
+sleep, but the	1
+seen	8
+seen -	1
+seen - then	1
+seen on	1
+seen on Privet	1
+seen a	1
+seen a cat	1
+seen him.	1
+seen him. </s>	1
+seen the	1
+seen the boy.	1
+seen any	1
+seen any reason	1
+seen an	1
+seen an owl	1
+seen in	1
+seen in daylight,	1
+stranger.	1
+stranger. </s>	1
+popped	1
+popped out	1
+popped out of	1
+must	4
+must have	4
+must have been	2
+must have passed	1
+must have made	1
+imagining	2
+imagining things,	1
+imagining things, which	1
+imagining things?	1
+imagining things? </s>	1
+little	8
+little Harry	1
+little Harry off	1
+little to	1
+little to celebrate	1
+little pop.	1
+little pop. </s>	1
+little boy.	1
+little boy. </s>	1
+little boy?	1
+little boy? </s>	1
+little planets	1
+little planets were	1
+little shake	1
+little shake and	1
+little bundle;	1
+little bundle; Hagrid's	1
+keep	1
+keep saying	1
+keep saying ‘You-Know-Who.'	1
+armchair.	1
+armchair. </s>	1
+handy.	1
+handy. </s>	1
+give	1
+give him	1
+give him here,	1
+thankful	1
+thankful for.	1
+thankful for. </s>	1
+dashed	1
+dashed back	1
+dashed back across	1
+come	4
+come near	1
+come near him	1
+come to	1
+come to bring	1
+come and	1
+come and live	1
+come in	1
+come in handy.	1
+possible	1
+possible to	1
+possible to be.	1
+angry.	1
+angry. </s>	1
+When	3
+When Mr.	1
+When Mr. and	1
+When Dudley	1
+When Dudley had	1
+When you	1
+When you could	1
+faltered	1
+faltered Professor	1
+faltered Professor McGonagall.	1
+"He'll	1
+"He'll have	1
+"He'll have that	1
+who	8
+who had	1
+who had a	1
+who live	1
+who live here?"	1
+who dressed	1
+who dressed in	1
+who are	1
+who are less	1
+who told	1
+who told you	1
+who was	2
+who was wearing	1
+who was unsticking	1
+who lived!"	1
+who lived!" </s>	1
+Rejoice,	1
+Rejoice, for	1
+Rejoice, for You-Know-Who	1
+upset	3
+upset at	2
+upset at any	1
+upset at being	1
+upset me	1
+upset me today!	1
+now	3
+now having	1
+now having a	1
+now reading	1
+now reading the	1
+now sitting	1
+now sitting on	1
+unusual	1
+unusual name.	1
+unusual name. </s>	1
+stunt	1
+stunt -	1
+stunt - these	1
+by.	1
+by. </s>	1
+someone	1
+someone just	1
+someone just outside	1
+said,	4
+said, as	1
+said, as casually	1
+said, "The	1
+said, "The owls	1
+said, "Hagrid's	1
+said, "Hagrid's late.	1
+said, "Yes	1
+said, "Yes -	1
+But	6
+But on	1
+But on the	1
+But I	1
+But I can	1
+But then	1
+But then it	1
+But -	1
+But - he	1
+But how	1
+But how is	1
+But he	1
+But he did	1
+pressed	1
+pressed on,	1
+pressed on, "is	1
+mind,	1
+mind, swallowed,	1
+mind, swallowed, and	1
+at	32
+at her	1
+at her eyes	1
+at night	1
+at night and	1
+at nighttime.	1
+at nighttime. </s>	1
+at his	1
+at his secretary	1
+at all	1
+at all upset	1
+at last!	1
+at last! </s>	1
+at him	1
+at him from	1
+at any	1
+at any mention	1
+at least	2
+at least twice.	1
+at least five	1
+at the	10
+at the walls.	1
+at the tabby,	1
+at the sky	1
+at the Dursleys'	1
+at the other	1
+at the whisperers	1
+at the cat.	1
+at the cat,	1
+at the little	1
+at the sign;	1
+at it,	1
+at it, but	1
+at a	1
+at a rather	1
+at five	2
+at five different	1
+at five o'clock,	1
+at Dumbledore	2
+at Dumbledore here,	1
+at Dumbledore and	1
+at last,	1
+at last, the	1
+at number	1
+at number four.	1
+at this	1
+at this very	1
+at all.	1
+at all. </s>	1
+at all;	1
+at all; why,	1
+at being	1
+at being almost	1
+leather	1
+leather boots	1
+leather boots were	1
+head.	2
+head. </s>	2
+firmly.	1
+firmly. </s>	1
+day,"	1
+day," said	1
+day," said Professor	1
+believe	3
+believe it	3
+believe it until	1
+believe it ...	2
+away;	1
+away; they	1
+away; they didn't	1
+emerald-green	1
+emerald-green cloak!	1
+emerald-green cloak! </s>	1
+Hagrid,	2
+Hagrid, taking	1
+Hagrid, taking out	1
+Hagrid, or	1
+Hagrid, or we'll	1
+"What	1
+"What they're	1
+"What they're saying,"	1
+McGonagall.	4
+McGonagall. </s>	4
+unable	1
+unable to	1
+unable to explain	1
+tuft	1
+tuft of	1
+tuft of jet-black	1
+distinctly	1
+distinctly ruffled.	1
+distinctly ruffled. </s>	1
+sobbed	1
+sobbed Hagrid,	1
+sobbed Hagrid, taking	1
+shot	1
+shot a	1
+shot a sharp	1
+streaming	1
+streaming eyes	1
+streaming eyes on	1
+powers	1
+powers I	1
+powers I will	1
+name	5
+name of	1
+name of heaven	1
+name to	1
+name to his	1
+name "Potter."	1
+name "Potter." He	1
+name again?	1
+name again? </s>	1
+name was	1
+name was Albus	1
+important	2
+important telephone	1
+important telephone calls	1
+important as	1
+important as this?"	1
+living	2
+living room	2
+living room in	1
+living room carrying	1
+kill	4
+kill the	1
+kill the Potters'	1
+kill that	1
+kill that little	1
+kill Harry	1
+kill Harry Potter,	1
+kill a	1
+kill a little	1
+bathroom,	1
+bathroom, Mr.	1
+bathroom, Mr. Dursley	1
+happy,	1
+happy, happy	1
+happy, happy day!"	1
+gone	3
+gone at	1
+gone at last!	1
+gone -"	1
+gone -" </s>	1
+gone out.	1
+gone out. </s>	1
+thinking	2
+thinking of?	1
+thinking of? </s>	1
+thinking ...	1
+thinking ... no,	1
+dead."	1
+dead." </s>	1
+cups	1
+cups of	1
+cups of tea.	1
+precious	1
+precious little	1
+precious little to	1
+anyone	2
+anyone found	1
+anyone found out	1
+anyone looked	1
+anyone looked out	1
+able	2
+able to	2
+able to see	1
+able to explain	1
+fashion.	1
+fashion. </s>	1
+"Their	1
+"Their son	1
+"Their son -	1
+why	4
+why the	1
+why the owls	1
+why he's	2
+why he's disappeared?	1
+why he's gone."	1
+why you're	1
+why you're here,	1
+Shooting	2
+Shooting stars	2
+Shooting stars all	1
+Shooting stars down	1
+usual	2
+usual amount	1
+usual amount of	1
+usual morning	1
+usual morning traffic	1
+odd	1
+odd watch.	1
+odd watch. </s>	1
+usually	1
+usually shone	1
+usually shone from	1
+sweet	1
+sweet I'm	1
+sweet I'm rather	1
+can	7
+can only	1
+can only guess,"	1
+can come	1
+can come in	1
+can lids,	1
+can lids, and	1
+can call	1
+can call him	1
+can explain	1
+can explain all	1
+can promise	1
+can promise a	1
+can walk	1
+can walk and	1
+spotted	2
+spotted that	1
+spotted that morning.	1
+spotted handkerchief	1
+spotted handkerchief and	1
+same,	1
+same, those	1
+same, those people	1
+Day	1
+Day in	1
+Day in the	1
+pretend	1
+pretend he's	1
+pretend he's not	1
+mind.	3
+mind. </s>	3
+be	27
+be books	1
+be books written	1
+be hiding	1
+be hiding Harry	1
+be enough	1
+be enough to	1
+be involved	1
+be involved in	1
+be famous	1
+be famous -	1
+be woken	1
+be woken in	1
+be a	3
+be a lot	1
+be a silver	1
+be a bit	1
+be if,	1
+be if, on	1
+be older	1
+be older than	1
+be it.	1
+be it. </s>	1
+be celebrating,	1
+be celebrating, this	1
+be any	1
+be any more	1
+be going	1
+be going on	1
+be about	1
+be about Dudley's	1
+be stiff	1
+be stiff if	1
+be happening	1
+be happening all	1
+be thankful	1
+be thankful for.	1
+be able	2
+be able to	2
+be sorry,	1
+be sorry, my	1
+be here,	1
+be here, by	1
+be surprised	1
+be surprised if	1
+be allowed,	1
+be allowed, and	1
+be frightened	1
+be frightened of	1
+be found,"	1
+be found," Professor	1
+letter?	1
+letter? </s>	1
+heard	4
+heard -"	1
+heard -" </s>	1
+heard from	1
+heard from your	1
+heard the	1
+heard the name	1
+heard it.	1
+heard it. </s>	1
+flatter	1
+flatter me,"	1
+flatter me," said	1
+dead.	1
+dead. </s>	1
+beneath	1
+beneath her	1
+beneath her spectacles.	1
+back.	1
+back. </s>	1
+funny-looking	1
+funny-looking people	1
+funny-looking people in	1
+Hagrid.	1
+Hagrid. </s>	1
+"Yes,	2
+"Yes, I	1
+"Yes, I quite	1
+"Yes, yes,	1
+"Yes, yes, its	1
+Voldemort's	2
+Voldemort's name."	1
+Voldemort's name." </s>	1
+Voldemort's power	1
+Voldemort's power somehow	1
+uncle.	1
+uncle. </s>	1
+turn	1
+turn any	1
+turn any boy's	1
+earmuffs."	1
+earmuffs." </s>	1
+sorry,	1
+sorry, my	1
+sorry, my dear	1
+sign	4
+sign of	3
+sign of something	1
+sign of sleepiness.	1
+sign of a	1
+sign that	1
+sign that said	1
+suddenly,	1
+suddenly, Hagrid	1
+suddenly, Hagrid let	1
+proper	1
+proper name:	1
+proper name: Voldemort."	1
+near	1
+near him	1
+near him and	1
+involved,	1
+involved, there	1
+involved, there was	1
+looked	9
+looked back	1
+looked back at	1
+looked up	3
+looked up suddenly	1
+looked up and	1
+looked up at	1
+looked shocked	1
+looked shocked and	1
+looked simply	1
+looked simply too	1
+looked distinctly	1
+looked distinctly ruffled.	1
+looked at	1
+looked at the	1
+looked out	1
+looked out of	1
+kind	1
+kind of	1
+kind of Muggle	1
+behavior?	1
+behavior? </s>	1
+harder	2
+harder to	2
+harder to concentrate	2
+good	2
+good reason	1
+good reason for	1
+good mood	1
+good mood until	1
+throwing	1
+throwing his	1
+throwing his cereal	1
+didn't	21
+didn't blame	1
+didn't blame her	1
+didn't say	1
+didn't say another	1
+didn't see	1
+didn't see the	1
+didn't so	1
+didn't so much	1
+didn't think	3
+didn't think they	1
+didn't think he	1
+didn't think this	1
+didn't look	1
+didn't look at	1
+didn't hold	1
+didn't hold with	1
+didn't improve	1
+didn't improve his	1
+didn't approve	1
+didn't approve of	1
+didn't dare.	1
+didn't dare. </s>	1
+didn't seem	2
+didn't seem at	1
+didn't seem to	1
+didn't move.	1
+didn't move. </s>	1
+didn't know	1
+didn't know why,	1
+didn't want	2
+didn't want Dudley	1
+didn't want to	1
+didn't realize	1
+didn't realize what	1
+didn't have	2
+didn't have a	2
+cut,	1
+cut, like	1
+cut, like a	1
+probably	1
+probably some	1
+probably some silly	1
+around	8
+around to	1
+around to look	1
+around the	4
+around the corner	2
+around the middle	1
+around the edge.	1
+around its	2
+around its eyes.	2
+around them.	1
+around them. </s>	1
+air,	1
+air, and	1
+air, and clicked	1
+finally,	2
+finally, bird-watchers	1
+finally, bird-watchers everywhere	1
+finally, "that's	1
+finally, "that's that.	1
+"We've	1
+"We've had	1
+"We've had precious	1
+you	21
+you saw	1
+you saw on	1
+you see	1
+you see how	1
+you can't.	1
+you can't. </s>	1
+you haven't	1
+you haven't heard	1
+you think	1
+you think you	1
+you can't	2
+you can't mean	1
+you can't pretend	1
+you soon,	1
+you soon, I	1
+you would	1
+you would expect	1
+you ask	1
+you ask me."	1
+you could	1
+you could have	1
+you care	1
+you care for	1
+you haven't,"	1
+you haven't," said	1
+you can	1
+you can explain	1
+you here,	1
+you here, Professor	1
+you very	1
+you very much.	1
+you know	2
+you know ...	1
+you know it	1
+you I'd	1
+you I'd be	1
+you do	1
+you do something	1
+you get	1
+you get that	1
+allowed,	1
+allowed, and	1
+allowed, and so	1
+vast,	1
+vast, muscular	1
+vast, muscular arms	1
+of?	1
+of? </s>	1
+voices:	1
+voices: "To	1
+voices: "To Harry	1
+swept	1
+swept the	1
+swept the ground,	1
+car	3
+car and	2
+car and backed	1
+car and set	1
+car door	1
+car door slammed	1
+squeaky	1
+squeaky voice	1
+squeaky voice that	1
+seems	2
+seems to	1
+seems to have	1
+seems so,"	1
+seems so," said	1
+For	3
+For a	2
+For a second,	1
+For a full	1
+For some	1
+For some reason,	1
+prodded	1
+prodded and	1
+prodded and pinched	1
+mixed	1
+mixed up	1
+mixed up in	1
+by	9
+by a	1
+by a complete	1
+by daylight?	1
+by daylight? </s>	1
+by the	2
+by the silver	1
+by the way?"	1
+by something	1
+by something else.	1
+by his	3
+by his name?	1
+by his proper	1
+by his cousin	1
+by Mrs.	1
+by Mrs. Dursley's	1
+lived!"	1
+lived!" </s>	1
+heart	2
+heart sinking	1
+heart sinking horribly.	1
+heart isn't	1
+heart isn't in	1
+flicked	1
+flicked it	1
+flicked it open,	1
+don't	3
+don't know	1
+don't know about	1
+don't suppose	1
+don't suppose you're	1
+don't mean	1
+don't mean -	1
+blinked	2
+blinked and	1
+blinked and stared	1
+blinked furiously,	1
+blinked furiously, and	1
+balls	1
+balls of	1
+balls of light	1
+celebrations."	1
+celebrations." </s>	1
+Harold.	1
+Harold. </s>	1
+About	2
+About why	1
+About why he's	1
+About what	1
+About what finally	1
+Voldemort."	1
+Voldemort." Professor	1
+Voldemort." Professor McGonagall	1
+uneasy	1
+uneasy sleep,	1
+uneasy sleep, but	1
+two.	1
+two. </s>	1
+everyone's	2
+everyone's celebrating,	1
+everyone's celebrating, all	1
+everyone's saying?	1
+everyone's saying? </s>	1
+spoke.	1
+spoke. </s>	1
+sir,	1
+sir, for	1
+sir, for nothing	1
+surprised	1
+surprised if	1
+surprised if today	1
+pulled	2
+pulled into	1
+pulled into the	1
+pulled out	1
+pulled out a	1
+neat	1
+neat hedges	1
+neat hedges of	1
+jet-black	1
+jet-black hair	1
+jet-black hair over	1
+louder	1
+louder as	1
+louder as they	1
+kiss	1
+kiss Dudley	1
+kiss Dudley good-bye	1
+blankets,	1
+blankets, and	1
+blankets, and then	1
+hardly	2
+hardly any	1
+hardly any neck,	1
+hardly ever	1
+hardly ever seen	1
+gray	1
+gray Tuesday	1
+gray Tuesday our	1
+tonight,	1
+tonight, Jim?"	1
+tonight, Jim?" </s>	1
+dinner	1
+dinner all	1
+dinner all about	1
+dark	1
+dark living-room	1
+dark living-room window.	1
+problems	1
+problems with	1
+problems with her	1
+asked.	1
+asked. </s>	1
+all,	1
+all, they	1
+all, they normally	1
+finished	1
+finished dialing	1
+finished dialing his	1
+"Well,	2
+"Well, Ted,"	1
+"Well, Ted," said	1
+"Well, I	1
+"Well, I just	1
+"All	1
+"All day?	1
+"All day? </s>	1
+although	1
+although he	1
+although he did	1
+voice	2
+voice that	1
+voice that made	1
+voice trembled	1
+voice trembled as	1
+off	6
+off down	1
+off down the	1
+off the	1
+off the motorcycle	1
+off ter	1
+off ter live	1
+off he'll	1
+off he'll be,	1
+off into	1
+off into the	1
+off for	1
+off for home,	1
+waiting	2
+waiting for	1
+waiting for something.	1
+waiting on	1
+waiting on a	1
+swish	1
+swish of	1
+swish of his	1
+cat	17
+cat he'd	1
+cat he'd spotted	1
+cat had	2
+cat had been	1
+cat had had	1
+cat on	1
+cat on the	1
+cat sit	1
+cat sit so	1
+cat seemed	1
+cat seemed to	1
+cat slinking	1
+cat slinking around	1
+cat standing	1
+cat standing on	1
+cat was	1
+cat was still	1
+cat nor	1
+cat nor as	1
+cat behavior?	1
+cat behavior? </s>	1
+cat didn't	1
+cat didn't move.	1
+cat moved	1
+cat moved at	1
+cat reading	1
+cat reading a	1
+cat in	1
+cat in his	1
+cat watching	1
+cat watching him.	1
+cat out	1
+cat out of	1
+staring	2
+staring down	1
+staring down Privet	1
+staring at	1
+staring at him	1
+sense	1
+sense to	1
+sense to Dumbledore,	1
+Her	1
+Her black	1
+Her black hair	1
+promise	1
+promise a	1
+promise a wet	1
+more.	1
+more. </s>	1
+do	3
+do with	2
+do with ...	1
+do with the	1
+do something	1
+do something about	1
+looking	4
+looking at	1
+looking at the	1
+looking for	2
+looking for something.	1
+looking for in	1
+looking very	1
+looking very seriously	1
+here,	6
+here, of	1
+here, of all	1
+here, Dumbledore?"	1
+here, Dumbledore?" She	1
+here, Hagrid	1
+here, Hagrid -	1
+here, Professor	1
+here, Professor McGonagall."	1
+here, as	1
+here, as though	1
+here, by	1
+here, by the	1
+flooded	1
+flooded him.	1
+flooded him. </s>	1
+door.	2
+door. </s>	2
+blushed	1
+blushed so	1
+blushed so much	1
+beard	1
+beard hid	1
+beard hid most	1
+severe-looking	1
+severe-looking woman	1
+severe-looking woman who	1
+Harry's	1
+Harry's blankets,	1
+Harry's blankets, and	1
+After	1
+After all,	1
+After all, they	1
+astonishing	1
+astonishing things	1
+astonishing things to	1
+useful	1
+useful as	1
+useful as she	1
+very	17
+very unusually	1
+very unusually today.	1
+very well	1
+very well what	1
+very muffled	1
+very muffled voice,	1
+very last	1
+very last place	1
+very moment,	1
+very moment, people	1
+very long	1
+very long and	1
+very large	1
+very large mustache.	1
+very scratchy,	1
+very scratchy, whiskery	1
+very wrong	1
+very wrong he	1
+very seriously	1
+very seriously over	1
+very sad,	1
+very sad, but	1
+very odd	1
+very odd watch.	1
+very good	1
+very good mood	1
+very useful	1
+very useful as	1
+very day	1
+very day You-Know-Who	1
+very much.	1
+very much. </s>	1
+very old,	1
+very old, judging	1
+everything	3
+everything they	1
+everything they wanted,	1
+everything from	1
+everything from his	1
+everything to	1
+everything to him	1
+spying	1
+spying on	1
+spying on the	1
+size	1
+size of	1
+size of trash	1
+survive?"	1
+survive?" </s>	1
+purple	1
+purple cloak	1
+purple cloak that	1
+next	7
+next street,	1
+next street, nor	1
+next to	3
+next to the	3
+next lamp	1
+next lamp flickered	1
+next few	1
+next few weeks	1
+next week,	1
+next week, folks!	1
+murmured.	1
+murmured. </s>	1
+middle	1
+middle and	1
+middle and walked	1
+knee	1
+knee that	1
+knee that is	1
+blankets.	2
+blankets. </s>	2
+have."	1
+have." </s>	1
+grew	1
+grew steadily	1
+grew steadily louder	1
+trembled	1
+trembled as	1
+trembled as she	1
+drills	4
+drills he	1
+drills he was	1
+drills were	1
+drills were driven	1
+drills that	2
+drills that morning.	1
+drills that afternoon	1
+day,	1
+day, for	1
+day, for neither	1
+promised	1
+promised yesterday,	1
+promised yesterday, they've	1
+asleep	3
+asleep quickly	1
+asleep quickly but	1
+asleep was	1
+asleep was that	1
+asleep as	1
+asleep as we	1
+all.	3
+all. </s>	3
+forehead	1
+forehead they	1
+forehead they could	1
+"Why?"	1
+"Why?" </s>	1
+"And	2
+"And finally,	1
+"And finally, bird-watchers	1
+"And I	1
+"And I don't	1
+angrily.	1
+angrily. </s>	1
+wall.	2
+wall. </s>	2
+oh,	1
+oh, all	1
+oh, all right,	1
+wanted,	1
+wanted, but	1
+wanted, but they	1
+swung	1
+swung himself	1
+swung himself onto	1
+day	1
+day You-Know-Who	1
+day You-Know-Who seems	1
+started	1
+started swarmin'	1
+started swarmin' around.	1
+shake	1
+shake and	1
+shake and put	1
+His	2
+His last,	1
+His last, comforting	1
+His blue	1
+His blue eyes	1
+quickly	1
+quickly but	1
+quickly but Mr.	1
+move.	1
+move. </s>	1
+go	1
+go and	1
+go and join	1
+loudly.	1
+loudly. </s>	1
+here.	1
+here. </s>	1
+flutter	1
+flutter past	1
+flutter past the	1
+dozen	1
+dozen feasts	1
+dozen feasts and	1
+bright,	1
+bright, and	1
+bright, and sparkling	1
+beefy	1
+beefy man	1
+beefy man with	1
+good-for-nothing	1
+good-for-nothing husband	1
+good-for-nothing husband were	1
+Harry,"	1
+Harry," he	1
+Harry," he murmured.	1
+Albus	3
+Albus Dumbledore.	1
+Albus Dumbledore. </s>	1
+Albus Dumbledore	1
+Albus Dumbledore didn't	1
+Albus ..."	1
+Albus ..." </s>	1
+celebrating	1
+celebrating Bonfire	1
+celebrating Bonfire Night	1
+violet	1
+violet cloak.	1
+violet cloak. </s>	1
+wake	1
+wake the	1
+wake the Muggles!"	1
+everywhere	1
+everywhere have	1
+everywhere have reported	1
+square	1
+square glasses	1
+square glasses exactly	1
+sky,	1
+sky, the	1
+sky, the very	1
+telephone	1
+telephone calls	1
+telephone calls and	1
+pursed	1
+pursed lips.	1
+pursed lips. </s>	1
+nose	2
+nose was	1
+nose was very	1
+nose in	1
+nose in reply.	1
+mustache,	1
+mustache, thinking	1
+mustache, thinking ...	1
+minute	1
+minute the	1
+minute the three	1
+knew	2
+knew that	1
+knew that the	1
+knew very	1
+knew very well	1
+c-c-can't	1
+c-c-can't stand	1
+c-c-can't stand it	1
+having	1
+having a	1
+having a tantrum	1
+grip	1
+grip on	1
+grip on yourself,	1
+twitched	1
+twitched and	1
+twitched and its	1
+drive.	1
+drive. </s>	1
+day.	3
+day. </s>	3
+rattled.	1
+rattled. </s>	1
+awake,	1
+awake, turning	1
+awake, turning it	1
+all;	1
+all; why,	1
+all; why, that	1
+gingerly	1
+gingerly on	1
+gingerly on the	1
+"Yes,"	2
+"Yes," said	2
+"Yes," said Professor	1
+"Yes," said Dumbledore.	1
+"But	3
+"But that's	1
+"But that's no	1
+"But you're	1
+"But you're different.	1
+"But I	1
+"But I c-c-can't	1
+anything	5
+anything strange	1
+anything strange or	1
+anything to	2
+anything to his	1
+anything to do	1
+anything that	2
+anything that might	1
+anything that was	1
+watch	1
+watch from	1
+watch from his	1
+old	2
+old man	2
+old man stumbled	1
+old man hugged	1
+watched	1
+watched the	1
+watched the cat	1
+tabby	3
+tabby cat	3
+tabby cat standing	1
+tabby cat he'd	1
+tabby cat slinking	1
+did	8
+did now.	1
+did now. </s>	1
+did not	1
+did not answer.	1
+did Harry	1
+did Harry survive?"	1
+did ...	1
+did ... if	1
+did seem	1
+did seem to	1
+did you	2
+did you know	1
+did you get	1
+did have	1
+did have a	1
+starts,	1
+starts, there	1
+starts, there was	1
+shall	1
+shall see	1
+shall see you	1
+How	1
+How very	1
+How very wrong	1
+reached	2
+reached the	1
+reached the point	1
+reached out	1
+reached out and	1
+moved	2
+moved on	1
+moved on and	1
+moved at	1
+moved at all.	1
+he	87
+he wasn't	1
+he wasn't even	1
+he left	2
+he left the	2
+he wanted	1
+he wanted to	1
+he clicked	1
+he clicked the	1
+he had	6
+he had never	1
+he had been	1
+he had expected,	1
+he had seen	1
+he had just	1
+he had hands	1
+he went	1
+he went into	1
+he put	1
+he put it	1
+he sat	2
+he sat in	1
+he sat down	1
+he has	1
+he has left	1
+he saw	1
+he saw -	1
+he couldn't.	1
+he couldn't. </s>	1
+he yawned	1
+he yawned and	1
+he slept	1
+he slept on,	1
+he hadn't,	1
+he hadn't, he	1
+he won't	1
+he won't even	1
+he noticed	1
+he noticed the	1
+he caught	1
+he caught a	1
+he didn't,	1
+he didn't, so	1
+he and	2
+he and Petunia	2
+he jerked	1
+he jerked his	1
+he couldn't	4
+he couldn't help	1
+he couldn't see	1
+he couldn't kill	2
+he would	2
+he would be	1
+he would spend	1
+he let	1
+he let himself	1
+he fell	1
+he fell asleep	1
+he spoke	1
+he spoke to	1
+he passed.	1
+he passed. </s>	1
+he passed	1
+he passed a	1
+he tried	1
+he tried to	1
+he could	2
+he could bear	1
+he could make	1
+he said	2
+he said in	1
+he said heavily.	1
+he thought	2
+he thought of	1
+he thought he'd	1
+he could,	1
+he could, "Their	1
+he picked	1
+he picked out	1
+he was	12
+he was hoping	1
+he was holding	1
+he was special,	1
+he was going	1
+he was gone.	1
+he was smiling	1
+he was still	1
+he was imagining	1
+he was looking	1
+he was being	2
+he was famous,	1
+he dared	1
+he dared tell	1
+he took	1
+he took a	1
+he might	2
+he might have	1
+he might be	1
+he imagining	1
+he imagining things?	1
+he said,	1
+he said, as	1
+he who	1
+he who told	1
+he can	1
+he can walk	1
+he didn't	3
+he didn't approve	1
+he didn't dare.	1
+he didn't think	1
+he looked	1
+he looked up	1
+he pulled	1
+he pulled into	1
+he spoke.	1
+he spoke. </s>	1
+he murmured.	1
+he murmured. </s>	1
+he did	2
+he did have	1
+he did seem	1
+he watched	1
+he watched the	1
+he drove	1
+he drove toward	1
+he walked	1
+he walked straight	1
+he really	1
+he really has	1
+he was,	1
+he was, and	1
+he stopped	1
+he stopped and	1
+he changed	1
+he changed his	1
+he was.	1
+he was. </s>	1
+he grunted,	1
+he grunted, as	1
+he have	1
+he have been	1
+meeting	1
+meeting in	1
+meeting in secret	1
+him,"	1
+him," said	1
+him," said Dumbledore	1
+forward	1
+forward over	1
+forward over the	1
+drawn	1
+drawn into	1
+drawn into a	1
+buckled	1
+buckled boots.	1
+buckled boots. </s>	1
+being	5
+being stupid.	1
+being stupid. </s>	1
+being downright	1
+being downright careless,	1
+being almost	1
+being almost knocked	1
+being prodded	1
+being prodded and	1
+being watched,	1
+being watched, because	1
+‘You-Know-Who'	1
+‘You-Know-Who' nonsense	1
+‘You-Know-Who' nonsense -	1
+Harvey.	1
+Harvey. </s>	1
+Black	1
+Black lent	1
+Black lent it	1
+concentrate	2
+concentrate on	2
+concentrate on drills	2
+voice,	1
+voice, "I'd	1
+voice, "I'd best	1
+walk	2
+walk across	1
+walk across the	1
+walk and	1
+walk and talk!	1
+excitedly,	1
+excitedly, too,	1
+excitedly, too, and	1
+stare,	1
+stare, "Don't	1
+stare, "Don't be	1
+so,"	2
+so," said	2
+so," said Mrs.	1
+so," said Dumbledore.	1
+together,	1
+together, he	1
+together, he let	1
+quiver	1
+quiver when	1
+quiver when a	1
+now,	3
+now, over	1
+now, over to	1
+now, wouldn't	1
+now, wouldn't he?"	1
+now, even	1
+now, even beady-eyed	1
+mustache.	1
+mustache. </s>	1
+mixing	1
+mixing with	1
+mixing with a	1
+know	11
+know what	1
+know what everyone's	1
+know why,	1
+know why, but	1
+know that,"	1
+know that," said	1
+know ..."	1
+know ..." he	1
+know his	1
+know his name!"	1
+know that	1
+know that at	1
+know about	1
+know about that,	1
+know ...	2
+know ... her	1
+know ... I	1
+know you	1
+know you haven't,"	1
+know it	1
+know it was	1
+carefully	1
+carefully off	1
+carefully off the	1
+heads.	1
+heads. </s>	1
+hair	4
+hair and	2
+hair and beard,	1
+hair and beard	1
+hair was	1
+hair was drawn	1
+hair over	1
+hair over his	1
+upstairs	1
+upstairs to	1
+upstairs to bed.	1
+driven	1
+driven out	1
+driven out of	1
+day?	1
+day? </s>	1
+realized	1
+realized that	1
+realized that the	1
+backed	1
+backed out	1
+backed out of	1
+also	2
+also had	1
+also had a	1
+also thought	1
+also thought he	1
+glasses.	1
+glasses. </s>	1
+"You'd	2
+"You'd be	1
+"You'd be stiff	1
+"You'd think	1
+"You'd think they'd	1
+"His	1
+"His aunt	1
+"His aunt and	1
+appeared	2
+appeared on	1
+appeared on the	1
+appeared so	1
+appeared so suddenly	1
+way?"	1
+way?" </s>	1
+on,	2
+on, "is	1
+on, "is that	1
+on, not	1
+on, not knowing	1
+wearing	5
+wearing an	1
+wearing an emerald-green	1
+wearing a	2
+wearing a violet	1
+wearing a cloak,	1
+wearing long	1
+wearing long robes,	1
+wearing square	1
+wearing square glasses	1
+talk!	1
+talk! </s>	1
+end	2
+end of	2
+end of the	2
+statue,	1
+statue, its	1
+statue, its eyes	1
+shape	1
+shape of	1
+shape of the	1
+I'd	1
+I'd be	1
+I'd be here,	1
+reading	2
+reading a	1
+reading a map.	1
+reading the	1
+reading the sign	1
+much.	1
+much. </s>	1
+if	12
+if he'd	1
+if he'd had	1
+if I	1
+if I could,	1
+if we	1
+if we keep	1
+if You-Know-Who	1
+if You-Know-Who has	1
+if the	2
+if the Potters	2
+if you'd	1
+if you'd been	1
+if today	1
+if today was	1
+if anyone	1
+if anyone found	1
+if you	1
+if you ask	1
+if he	1
+if he wanted	1
+if it	1
+if it got	1
+mention	2
+mention of	1
+mention of her	1
+mention anything	1
+mention anything to	1
+him."	1
+him." </s>	1
+found,"	1
+found," Professor	1
+found," Professor McGonagall	1
+drop.	1
+drop. </s>	1
+bundle;	1
+bundle; Hagrid's	1
+bundle; Hagrid's shoulders	1
+belt.	1
+belt. </s>	1
+‘You-Know-Who.'	1
+‘You-Know-Who.' I	1
+‘You-Know-Who.' I have	1
+Hollow.	1
+Hollow. </s>	1
+Can't	1
+Can't you	1
+Can't you see	1
+disappeared	1
+disappeared at	1
+disappeared at last,	1
+waking	1
+waking up.	1
+waking up. </s>	1
+wall	5
+wall outside	1
+wall outside was	1
+wall next	1
+wall next to	1
+wall all	2
+wall all day,"	1
+wall all day,	1
+wall and	1
+wall and walked	1
+frightened	2
+frightened of	1
+frightened of saying	1
+frightened of."	1
+frightened of." </s>	1
+stared	2
+stared at	1
+stared at the	1
+stared back.	1
+stared back. </s>	1
+some	4
+some stupid	1
+some stupid new	1
+some silly	1
+some silly stunt	1
+some reason,	1
+some reason, the	1
+some sign	1
+some sign of	1
+together.	1
+together. </s>	1
+rather	2
+rather severe-looking	1
+rather severe-looking woman	1
+rather fond	1
+rather fond of."	1
+now.	1
+now. </s>	1
+muttered,	1
+muttered, "I	1
+muttered, "I should	1
+moment	2
+moment he	1
+moment he spoke	1
+moment for	1
+moment for lemon	1
+lace	1
+lace handkerchief	1
+lace handkerchief and	1
+careless,	1
+careless, out	1
+careless, out on	1
+heaven	1
+heaven did	1
+heaven did Harry	1
+half	3
+half past	1
+half past eight,	1
+half exasperated,	1
+half exasperated, half	1
+half admiring.	1
+half admiring. </s>	1
+visible,	1
+visible, was	1
+visible, was a	1
+drop?"	1
+drop?" </s>	1
+dead	1
+dead -	1
+dead - an'	1
+receiver	1
+receiver back	1
+receiver back down	1
+beard,	1
+beard, which	1
+beard, which were	1
+arms	2
+arms he	1
+arms he was	1
+arms and	1
+arms and turned	1
+good-bye	2
+good-bye but	1
+good-bye but missed,	1
+good-bye to	1
+good-bye to him,	1
+"Young	1
+"Young Sirius	1
+"Young Sirius Black	1
+"How	1
+"How did	1
+"How did you	1
+baker's.	1
+baker's. </s>	1
+we'll	1
+we'll be	1
+we'll be found,"	1
+on.	3
+on. </s>	3
+weirdos	1
+weirdos standing	1
+weirdos standing quite	1
+tall,	1
+tall, thin,	1
+tall, thin, and	1
+far	2
+far apart	1
+far apart as	1
+far corner	1
+far corner of	1
+staying	1
+staying here.	1
+staying here. </s>	1
+sharp	1
+sharp look	1
+sharp look at	1
+I'm	1
+I'm rather	1
+I'm rather fond	1
+realize	3
+realize what	1
+realize what he	1
+realize that	1
+realize that he	1
+realize he	1
+realize he was	1
+name,	1
+name, if	1
+name, if you	1
+in	55
+in their	2
+in their opinion	1
+in their leather	1
+in cloaks.	1
+in cloaks. </s>	1
+in every	1
+in every direction	1
+in fact,	1
+in fact, Mrs.	1
+in worrying	1
+in worrying Mrs.	1
+in his	8
+in his inside	1
+in his office	1
+in his cloak,	1
+in his pocket	1
+in his armchair.	1
+in his mind.	1
+in his arms	1
+in his mirror.	1
+in broad	2
+in broad daylight,	2
+in a	7
+in a bag,	1
+in a street	1
+in a few	1
+in a letter?	1
+in a very	2
+in a squeaky	1
+in daylight,	1
+in daylight, there	1
+in to	1
+in to tell	1
+in Muggle	1
+in Muggle clothes,	1
+in secret	1
+in secret all	1
+in it.	1
+in it. </s>	1
+in hushed	1
+in hushed voices:	1
+in front	1
+in front of	1
+in funny	1
+in funny clothes	1
+in Kent	1
+in Kent -	1
+in the	10
+in the street.	1
+in the distance,	1
+in the future	1
+in the Grunnings	1
+in the right	1
+in the usual	1
+in the air,	1
+in the bathroom,	1
+in the name	1
+in the street	1
+in cloaks	3
+in cloaks until	1
+in cloaks ...	1
+in cloaks all	1
+in sight.	1
+in sight. </s>	1
+in Godric's	1
+in Godric's Hollow.	1
+in time	1
+in time to	1
+in town	1
+in town today	1
+in handy.	1
+in handy. </s>	1
+in very	1
+in very useful	1
+in anything	2
+in anything strange	1
+in anything that	1
+in our	1
+in our world	1
+in reply.	1
+in reply. </s>	1
+minutes	1
+minutes later,	1
+minutes later, Mr.	1
+him?"	1
+him?" </s>	1
+garden.	1
+garden. </s>	1
+drove	2
+drove around	1
+drove around the	1
+drove toward	1
+drove toward town	1
+burying	1
+burying his	1
+burying his face	1
+birds	1
+birds flying	1
+birds flying in	1
+Howard,	1
+Howard, isn't	1
+Howard, isn't it?"	1
+Could	1
+Could all	1
+Could all this	1
+grudgingly,	1
+grudgingly, "but	1
+grudgingly, "but you	1
+walked	4
+walked straight	1
+walked straight into	1
+walked off.	1
+walked off. </s>	1
+walked to	1
+walked to the	1
+walked back	1
+walked back down	1
+want	2
+want Dudley	1
+want Dudley mixing	1
+want to	1
+want to believe	1
+furiously,	1
+furiously, and	1
+furiously, and the	1
+stars!	1
+stars! </s>	1
+son,	3
+son, too,	1
+son, too, but	1
+son, Harry	1
+son, Harry -"	1
+son, Harry.	1
+son, Harry. </s>	1
+tonight."	1
+tonight." </s>	1
+really	1
+really has	1
+really has gone,	1
+of."	2
+of." </s>	2
+narrowed.	1
+narrowed. </s>	1
+mother	1
+mother all	1
+mother all the	1
+laid	1
+laid Harry	1
+laid Harry gently	1
+careless.	1
+careless. </s>	1
+hedges	1
+hedges of	1
+hedges of Privet	1
+hand	1
+hand closed	1
+hand closed on	1
+watched,	1
+watched, because	1
+watched, because he	1
+drops,	1
+drops, seemed	1
+drops, seemed not	1
+dear	4
+dear sir,	1
+dear sir, for	1
+dear -	1
+dear - you	1
+dear Professor,	2
+dear Professor, I've	1
+dear Professor, surely	1
+repeated	1
+repeated Professor	1
+repeated Professor McGonagall	1
+before	5
+before Mr.	1
+before Mr. Dursley	1
+before he	2
+before he fell	1
+before he can	1
+before the	2
+before the cat	1
+before the Muggles	1
+aunt	2
+aunt and	2
+aunt and uncle.	1
+aunt and uncle	1
+gossiped	1
+gossiped away	1
+gossiped away happily	1
+Door's	1
+Door's problems	1
+Door's problems with	1
+"I'd	1
+"I'd best	1
+"I'd best get	1
+behaving	1
+behaving very	1
+behaving very unusually	1
+week,	1
+week, folks!	1
+week, folks! </s>	1
+one	3
+one You-Know-	1
+one You-Know- oh,	1
+one knows	1
+one knows why,	1
+one myself	1
+one myself above	1
+weren't	1
+weren't young	1
+weren't young at	1
+tawny	1
+tawny owl	1
+tawny owl flutter	1
+few	5
+few hours'	1
+few hours' time	1
+few seconds	1
+few seconds before	1
+few words	1
+few words of	1
+few weeks	1
+few weeks being	1
+few minutes	1
+few minutes later,	1
+stepped	1
+stepped over	1
+stepped over the	1
+shone	1
+shone from	1
+shone from Dumbledore's	1
+Jim	1
+Jim McGuffin	1
+Jim McGuffin with	1
+reason,	1
+reason, the	1
+reason, the sight	1
+name.	1
+name. </s>	1
+is	3
+is that	1
+is that Lily	1
+is the	1
+is the boy	1
+is a	1
+is a perfect	1
+mirror.	1
+mirror. </s>	1
+home,	1
+home, hoping	1
+home, hoping he	1
+gasped.	1
+gasped. </s>	1
+dull,	1
+dull, gray	1
+dull, gray Tuesday	1
+calmly.	1
+calmly. </s>	1
+black	2
+black hair	2
+black hair was	1
+black hair and	1
+Inside,	1
+Inside, just	1
+Inside, just visible,	1
+Drive	3
+Drive -	1
+Drive - no,	1
+Drive as	1
+Drive as though	1
+Drive glowed	1
+Drive glowed suddenly	1
+living-room	1
+living-room window.	1
+living-room window. </s>	1
+walls.	1
+walls. </s>	1
+was,	1
+was, and	1
+was, and wearing	1
+headlight;	1
+headlight; it	1
+headlight; it swelled	1
+stars.	1
+stars. </s>	1
+soon	1
+soon be	1
+soon be happening	1
+twinkling	1
+twinkling light	1
+twinkling light that	1
+reason	5
+reason for	2
+reason for keeping	1
+reason for them	1
+reason to	2
+reason to lose	1
+reason to be	1
+reason she	1
+reason she had	1
+off.	1
+off. </s>	1
+neighbors	1
+neighbors would	1
+neighbors would say	1
+mouth,	1
+mouth, changed	1
+mouth, changed her	1
+lamp	2
+lamp went	1
+lamp went out	1
+lamp flickered	1
+lamp flickered into	1
+celebrate	1
+celebrate for	1
+celebrate for eleven	1
+here!"	1
+here!" </s>	1
+hard	1
+hard wall	1
+hard wall all	1
+watching	2
+watching him.	1
+watching him. </s>	1
+watching them	1
+watching them all	1
+drops.	1
+drops. </s>	1
+did;	1
+did; they	1
+did; they pointed	1
+reported	1
+reported that	1
+reported that the	1
+behind	1
+behind half-moon	1
+behind half-moon spectacles	1
+away	2
+away happily	1
+away happily as	1
+away from	1
+away from all	1
+greatest	1
+greatest fear	1
+greatest fear was	1
+Drive,	3
+Drive, were	1
+Drive, were proud	1
+Drive, but	1
+Drive, but there	1
+Drive, which	1
+Drive, which lay	1
+"I'm	1
+"I'm not	1
+"I'm not saying	1
+blankets	2
+blankets on	1
+blankets on the	1
+blankets without	1
+blankets without waking	1
+weeks	1
+weeks being	1
+weeks being prodded	1
+our	3
+our story	1
+our story starts,	1
+our heads.	1
+our heads. </s>	1
+our world	1
+our world will	1
+whether	1
+whether he	1
+whether he dared	1
+thank	2
+thank you	1
+thank you very	1
+thank you,"	1
+thank you," said	1
+for	20
+for eleven	2
+for eleven years."	1
+for eleven years	1
+for neither	1
+for neither as	1
+for nothing	1
+for nothing could	1
+for several	1
+for several years;	1
+for something.	2
+for something. </s>	2
+for work,	1
+for work, and	1
+for You-Know-Who	1
+for You-Know-Who has	1
+for them	1
+for them to	1
+for a	1
+for a lemon	1
+for lemon	1
+for lemon drops.	1
+for sweets.	1
+for sweets. </s>	1
+for keeping	1
+for keeping the	1
+for something	2
+for something ...	1
+for something he	1
+for him,"	1
+for him," said	1
+for some	1
+for some sign	1
+for in	1
+for in his	1
+for home,	1
+for home, hoping	1
+stopped	3
+stopped dead.	1
+stopped dead. </s>	1
+stopped him?"	1
+stopped him?" </s>	1
+stopped and	1
+stopped and took	1
+sight	1
+sight of	1
+sight of the	1
+Mr.	30
+Mr. and	2
+Mr. and Mrs.	2
+Mr. Dursley	26
+Mr. Dursley might	1
+Mr. Dursley wondered.	1
+Mr. Dursley sat	1
+Mr. Dursley wondered	1
+Mr. Dursley hummed	1
+Mr. Dursley that	1
+Mr. Dursley couldn't	1
+Mr. Dursley mumbled.	1
+Mr. Dursley lay	1
+Mr. Dursley arrived	1
+Mr. Dursley tried	1
+Mr. Dursley crept	1
+Mr. Dursley picked	1
+Mr. Dursley always	1
+Mr. Dursley was	2
+Mr. Dursley as	1
+Mr. Dursley gave	1
+Mr. Dursley blinked	1
+Mr. Dursley didn't	1
+Mr. Dursley around	1
+Mr. Dursley stood	1
+Mr. Dursley realized	1
+Mr. Dursley drove	1
+Mr. Dursley stopped	1
+Mr. Dursley loudly.	1
+Mr. Dursley,	2
+Mr. Dursley, however,	1
+Mr. Dursley, his	1
+related	1
+related to	1
+related to a	1
+name:	1
+name: Voldemort."	1
+name: Voldemort." Professor	1
+it	36
+it struck	1
+it struck Mr.	1
+it had	3
+it had the	1
+it had been	1
+it had gone.	1
+it were	1
+it were waiting	1
+it got	1
+it got out	1
+it back	1
+it back in	1
+it -	2
+it - wise	1
+it - Lily	1
+it to	1
+it to me.	1
+it a	1
+it a lot	1
+it all	1
+it all over	1
+it up	1
+it up in	1
+it swelled	1
+it swelled to	1
+it couldn't	1
+it couldn't affect	1
+it open,	1
+it open, held	1
+it would	1
+it would be	1
+it inside	1
+it inside Harry's	1
+it once,	1
+it once, and	1
+it rose	1
+it rose into	1
+it again	1
+it again -	1
+it ...	2
+it ... I	1
+it ... Oh,	1
+it was	8
+it was nearly	1
+it was nothing	1
+it was the	1
+it was me?"	1
+it was true.	1
+it was something	1
+it was possible	1
+it was he	1
+it until	1
+it until Dumbledore	1
+it didn't	1
+it didn't improve	1
+it harder	1
+it harder to	1
+it did	1
+it did ...	1
+it if	1
+it if anyone	1
+missed,	1
+missed, because	1
+missed, because Dudley	1
+hoped	1
+hoped before,	1
+hoped before, because	1
+gently.	1
+gently. </s>	1
+early	1
+early -	1
+early - it's	1
+changed	3
+changed his	1
+changed his mind.	1
+changed their	1
+changed their sleeping	1
+changed her	1
+changed her mind,	1
+blame	2
+blame her	1
+blame her -	1
+blame them,"	1
+blame them," said	1
+Instead	2
+Instead he	2
+Instead he said,	1
+Instead he was	1
+Going	1
+Going to	1
+Going to be	1
+mysterious,	1
+mysterious, because	1
+mysterious, because they	1
+wanted	1
+wanted to	1
+wanted to say	1
+was.	2
+was. </s>	2
+irritably.	1
+irritably. </s>	1
+street	8
+street where	1
+street where everything	1
+street were	1
+street were two	1
+street for	1
+street for some	1
+street did;	1
+street did; they	1
+street lamps	1
+street lamps so	1
+street that	1
+street that he	1
+street toward	1
+street toward number	1
+street lamp	1
+street lamp went	1
+sped	2
+sped overhead.	1
+sped overhead. </s>	1
+sped back	1
+sped back to	1
+unusually	1
+unusually today.	1
+unusually today. </s>	1
+reply.	1
+reply. </s>	1
+old,	1
+old, judging	1
+old, judging by	1
+nonsense.	1
+nonsense. </s>	1
+moving	1
+moving around	1
+moving around the	1
+last	4
+last people	1
+last people you'd	1
+last report	1
+last report on	1
+last night	1
+last night Voldemort	1
+last place	1
+last place you	1
+certainly	1
+certainly seems	1
+certainly seems so,"	1
+here."	1
+here." </s>	1
+have	32
+have never	1
+have never seen	1
+have been	12
+have been hundreds	1
+have been a	2
+have been celebrating?	1
+have been phoning	1
+have been acting	1
+have been drifting	1
+have been thinking	1
+have been trying	1
+have been Harvey.	1
+have been behaving	1
+have been celebrating	1
+have to	1
+have to say	1
+have a	3
+have a very	1
+have a sister,	1
+have a sister.	1
+have found	1
+have found it	1
+have noticed	1
+have noticed something's	1
+have made	1
+have made sense	1
+have that	1
+have that scar	1
+have passed	1
+have passed a	1
+have you?"	1
+have you?" </s>	1
+have suddenly	1
+have suddenly changed	1
+have thought	1
+have thought he'd	1
+have known."	1
+have known." </s>	1
+have much	1
+have much to	1
+have gone	1
+have gone out.	1
+have anything	1
+have anything to	1
+have disappeared	1
+have disappeared at	1
+have one	1
+have one myself	1
+have reported	1
+have reported that	1
+weather.	1
+weather. </s>	1
+eight,	1
+eight, Mr.	1
+eight, Mr. Dursley	1
+does	1
+does tend	1
+does tend to	1
+ruffled.	1
+ruffled. </s>	1
+beside	1
+beside him	1
+beside him and	1
+baby	2
+baby dolphins.	1
+baby dolphins. </s>	1
+baby boy,	1
+baby boy, fast	1
+grunted,	1
+grunted, as	1
+grunted, as the	1
+Drive.	2
+Drive. </s>	2
+"No,	2
+"No, thank	1
+"No, thank you,"	1
+"No, sir	1
+"No, sir -	1
+bottles,	1
+bottles, nor	1
+bottles, nor that	1
+well,	1
+well, he	1
+well, he didn't	1
+out	21
+out of	7
+out of number	1
+out of his	3
+out of the	2
+out of their	1
+out on	1
+out on the	1
+out his	1
+out his most	1
+out with	1
+out with a	1
+out that	1
+out that they	1
+out and	1
+out and patted	1
+out a	4
+out a lace	1
+out a howl	1
+out a large,	1
+out a tabby	1
+out about	2
+out about the	1
+out about us	1
+out all	1
+out all right	1
+out the	2
+out the silver	1
+out the milk	1
+whisper	1
+whisper about	1
+whisper about the	1
+that,	1
+that, but	1
+that, but it's	1
+get	6
+get that	2
+get that day.	1
+get that motorcycle?"	1
+get mixed	1
+get mixed up	1
+get this	2
+get this over	1
+get this bike	1
+get a	1
+get a grip	1
+strange	2
+strange or	1
+strange or mysterious,	1
+strange and	1
+strange and mysterious	1
+sign;	1
+sign; cats	1
+sign; cats couldn't	1
+Oh,	1
+Oh, Albus	1
+Oh, Albus ..."	1
+right,"	1
+right," she	1
+right," she said	1
+name?	1
+name? </s>	1
+me	4
+me today!	1
+me today! </s>	1
+me that	1
+me that instead	1
+me she	1
+me she liked	1
+me why	1
+me why you're	1
+moment,	1
+moment, people	1
+moment, people meeting	1
+house	1
+house was	1
+house was almost	1
